@@ -2,15 +2,32 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Draft ver. 01.031, Italian language for now.
+Draft ver. 01.032 – 2020-04-04 (Italian language only for now, sorry, we plan to translate it to English and possibly various other languages as soon as this draft has been reworked with a bit more feedback from various persons)
 
-bozza ver. 01.031 – 2020-04-03 – Scritto con *Mark Text* https://marktext.app/ &ndash; https://github.com/marktext/marktext/releases
+Bozza ver. 01.032 – 2020-04-04
+
+Scritto con *Mark Text*
+
+- https://marktext.app/
+
+- https://github.com/marktext/marktext/releases
+
+
+Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
+
+- Link all'account, che contiene pubblicazioni in relazione a questo manifesto:
+  https://mondiaspora.net/people/14281b90538e0138a38a03f7e1ed1bc8
+
+- Link diretto alla breve presentazione di questo manifesto:
+  https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653
+
+
 
 Questo sarà un lavoro in perenne trasformazione, anche se vorremo marcare il raggiungimento di certe tappe di sviluppo del pensiero e dell'azione.
 
-Se hai delle idee con cui contribuire, fatti avanti. 
+Se avete delle idee con cui contribuire, fatevi avanti. 
 
-Abbiamo per ora una sola regola: **niente aggressioni**, **niente stroncature di nessun apporto**. Solo così la creatività di tutti può dare i frutti migliori.
+Abbiamo per ora una sola regola: **niente aggressioni**, **niente stroncature di nessun apporto**. Solo così la creatività di tutti potrà dare i frutti migliori.
 
 Sarnno benvenuti pensatori, intellettuali, filosofi, scienziati, informatici, matematici, giuristi, costituzionalisti, economisti, giornalisti, *bloggers*...
 
