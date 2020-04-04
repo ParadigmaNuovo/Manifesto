@@ -2,9 +2,9 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Draft ver. 01.030, Italian language for now.
+Draft ver. 01.031, Italian language for now.
 
-bozza ver. 01.030 – 2020-04-02 – Scritto con *Mark Text* https://marktext.app/ &ndash; https://github.com/marktext/marktext/releases
+bozza ver. 01.031 – 2020-04-03 – Scritto con *Mark Text* https://marktext.app/ &ndash; https://github.com/marktext/marktext/releases
 
 Questo sarà un lavoro in perenne trasformazione, anche se vorremo marcare il raggiungimento di certe tappe di sviluppo del pensiero e dell'azione.
 
@@ -188,13 +188,13 @@ Non dimentichiamo le parole di JFK, citate poc'anzi. Fronteggiamo una cospirazio
     
     - e di nuovo NO al 5G
     
-    - e NO *a Starlink* e ad analoghe costellazioni satellitari, fino a prova di innoquità.
+    - e NO a *Starlink* e ad analoghe costellazioni satellitari, fino a prova di innoquità.
 
 15. Lo scarico nei mari o il sotterramento abusivo di scorie plastiche o tossiche o radioattive dovrà essere prevenuto, o castigato duramente se già avvenuto.
     
-    È INCONCEPIBILE che i residui radioattivi del disastro di Fukushima vengano lasciati filtrare nel sottosuolo per l'inadeguatezza dei contenitori o addirittura attivamente e volontariamente gettati nell'Oceano Pacifico, che starebbe interamente morendo secondo testimonianze dirette di sopravvenuta scarsezza di forme di vita e presenza di indiviui con tumori enormi.
+    È INCONCEPIBILE e INAMMISSIBILE che i residui radioattivi del disastro di Fukushima vengano lasciati filtrare nel sottosuolo per l'inadeguatezza dei contenitori o addirittura attivamente e volontariamente gettati nell'Oceano Pacifico, che starebbe interamente morendo secondo testimoni che riportano sopravvenuta scarsezza di forme di vita e presenza di indiviui con tumori enormi.
 
-16. Le specie in via di estinzione e dovranno essere protette con più decisione e la caccia camuffata da ricerca scientifica dovrà essere impedita.
+16. Le specie in via di estinzione dovranno essere protette con più decisione e la caccia camuffata da ricerca scientifica dovrà essere impedita.
 
 17. **L'ACQUA E L'ARIA** SONO PATRIMONIO DELL'UMANITÀ E DIRITTI UMANI BASILARI.
     
