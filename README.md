@@ -2,26 +2,27 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Draft ver. 01.032 – 2020-04-04 (Italian language only for now, sorry, we plan to translate it to English and possibly various other languages as soon as this draft has been reworked with a bit more feedback from various persons)
+Draft ver. 01.032 – 2020-04-04 &ndash; Italian language only for now, sorry, we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
 
-Bozza ver. 01.032 – 2020-04-04
+&nbsp;
 
-Scritto con *Mark Text*
+Bozza ver. 01.032 – 2020-04-04 &ndash; scritto con ***Mark Text***:
 
-- https://marktext.app/
+https://marktext.app/ &ndash; https://github.com/marktext/marktext/
 
-- https://github.com/marktext/marktext/releases
-
+&nbsp;
 
 Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
 
 - Link all'account, che contiene pubblicazioni in relazione a questo manifesto:
+  
   https://mondiaspora.net/people/14281b90538e0138a38a03f7e1ed1bc8
 
 - Link diretto alla breve presentazione di questo manifesto:
+  
   https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653
 
-
+&nbsp;
 
 Questo sarà un lavoro in perenne trasformazione, anche se vorremo marcare il raggiungimento di certe tappe di sviluppo del pensiero e dell'azione.
 
