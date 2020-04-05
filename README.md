@@ -2,11 +2,11 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Draft ver. 01.035 – 2020-04-05 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
+Draft ver. 01.036 – 2020-04-05 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
 
 &nbsp;
 
-Bozza ver. 01.035 – 2020-04-05 &ndash; scritto con ***Mark Text***:
+Bozza ver. 01.036 – 2020-04-05 &ndash; scritto con ***Mark Text***:
 
 https://marktext.app/ &ndash; https://github.com/marktext/marktext/
 
@@ -136,7 +136,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
    
    SE TUTTI I GOVERNI FOSSERO TOTALMENTE TRASPARENTI, NON CI SAREBBERO PIÙ GUERRE NÉ "TERRORISMO".
 
-2. Dobbiamo **EVITARE DI CADERE NELLA TRAPPOLA "DIVIDE ET IMPERA"**. Proprio questo *tremendo* paradosso, le forze armate USA in realtà al servizio dei fautori del 9-11 e dell'assassionio di JFK, è un esempio evidente della **potenza del paradigma "divide et impera"** e del livello che può raggiungere la frattura, purtroppo presente in molti paesi. PROMUOVEREMO DIALOGO CON GLI UNIFORMATI perché I LORO VERTICI spieghino che non sono meno patrioti e meno di loro accerrimi difensori della Patria coloro che manifestano in piazza (senza che sia parte dei compiti per cui gli pagano uno stipendio), a volte a rischio di procedimenti penali a loro carico e perfino a rischio della loro incolumità fisica. I docenti argentini malamente sloggiati dalla Plaza de Mayo con il pretesto di una quindicina di violenti all'altro estremo della piazza si rendevano conto della direzione in cui andava l'Argentina durante la presidenza di Mauricio Macri molto prima che arrivassero a constatarlo gli uniformati. (Gli autori di uno di questi episodi di violenza apparivano poi in fotografie con l'uniforme, in servizio in altre località.)
+2. Dobbiamo **EVITARE DI CADERE NELLA TRAPPOLA "DIVIDE ET IMPERA"**. Proprio questo *tremendo* paradosso, le forze armate USA in realtà al servizio dei fautori del 9-11 e dell'assassionio di JFK, è un esempio evidente della **potenza del paradigma "divide et impera"** e del livello che può raggiungere la frattura, purtroppo presente in molti paesi. PROMUOVEREMO DIALOGO CON GLI UNIFORMATI perché I LORO VERTICI spieghino che non sono meno patrioti e meno di loro tenaci difensori della Patria coloro che manifestano in piazza (senza che sia parte dei compiti per cui gli pagano uno stipendio), a volte a rischio di procedimenti penali a loro carico e perfino a rischio della loro incolumità fisica. I docenti argentini malamente sloggiati dalla Plaza de Mayo con il pretesto di una quindicina di violenti all'altro estremo della piazza si rendevano conto della direzione in cui andava l'Argentina durante la presidenza di Mauricio Macri molto prima che arrivassero a constatarlo gli uniformati. (Gli autori di uno di questi episodi di violenza apparivano poi in fotografie con l'uniforme, in servizio in altre località.)
    DOBBIAMO ASSOLUTAMENTE IMPEDIRE CHE CIÒ ACCADA, IL POPOLO PAGA GLI STIPENDI DEGLI UNIFORMATI E NON POSSIAMO LASCIARE CHE VENGANO MANIPOLATI PER TRASFORMARLI NEL CANE DA GUARDIA DEI *BANKSTERS*. E IL RESTO DELLA POPOLAZIONE DOVRÀ ESSERE MESSO IN GUARDIA PERCHÉ NON CADA NELLA TRAPPOLA, SCHIVARE IL CONFRONTO CON GLI UNIFORMATI, IL PROBLEMA È "IN ALTO" (in una scala soldi, potere e bassezza) E VA AFFRONTATO TOP-DOWN.
 
 3. <a name="nuovaInvestigazione9_11"></a>
