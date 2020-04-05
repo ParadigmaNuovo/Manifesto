@@ -2,11 +2,11 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Draft ver. 01.033 – 2020-04-04 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
+Draft ver. 01.034 – 2020-04-04 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
 
 &nbsp;
 
-Bozza ver. 01.033 – 2020-04-04 &ndash; scritto con ***Mark Text***:
+Bozza ver. 01.034 – 2020-04-04 &ndash; scritto con ***Mark Text***:
 
 https://marktext.app/ &ndash; https://github.com/marktext/marktext/
 
@@ -149,26 +149,30 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
 
 6. NO a **un'oligarchia** che presume di dovere o potere governare **un popolo di infanti**. Il livello culturale di molti Cittadini non è inferiore a quello dei membri della classe politica.
 
-7. NO al ***LOBBYISM***, inteso come la vera e propria vendita di peso politico a favore di qualunque soggetto, perché è sinonimo di **CORRUZIONE LEGALIZZATA** e tradimento della volontà degli elettori. Una testa un voto.
+7. NO categorico a **istituzioni anti-democratiche a qualunque livello**, comunale, regionale, nazionale o internazionale.
 
-8. NO all'otorgamento di **benefici** a soggetti privati o statuali **a detrimento della sicurezza e del benessere della collettività**.
-   
-   + Per esempio, è inammissibile che la pressione fiscale sia una percentuale sulle entrate incomparabilmente più alta per il Cittadino medio che per colossi come *Google*, *Facebook* e *Alibaba*. (Quest'ultima avrebbe pagato qualche cosa come 22000 euro di tasse in Italia l'anno scorso?!) **Realmente otorgare agevolazioni fiscali smisurate alle grandi imprese crea nuovi posti di lavoro?** I grafici mostrano che nel corso degli anni sono cresciuti i profitti delle grandi imprese, la produttività dei lavoratori, e le difficoltà per i lavoratori. **Chi realmente crea posti di lavoro è *la domanda***, e poche persone, per quanto dispongano di un potere d'acquisto enorme, *non rimpiazzano* la domanda creata da un'enorme massa di persone che abbiano entrate sufficienti per permettersi di comprare pantaloni, camice, maglioni, cibo, automobili, motociclette, etc..
-   
-   + Un altro esempio sono i vaccini e il 5G: è inconcepibile che i parlamentari siano tutti così pronti a votare l'obbligatorietà di **vaccini** che stanno innegabilmente provocando danni irreparabili. Guardate le statistiche di bambini autistici di anno in anno! Non possiamo non pensare che ricevano mance dalla *Big Pharma*, è scandaloso, basta!
-     
-     E sul **5G** dovrebbe valere il principio di precauzione, a chi importano i soldi delle licenze per l'uso delle frequenze, se poi dovremo spendere molto di più in cure mediche?
-     
-     Non diciamo "in cure e indennizzazioni" perché le indennizzazioni non le deve pagare il contribuente, le deve pagare chi cerca di imporre questa spada di Damocle sulla testa del contribuente. E le indennizzazioni non ti restituiscono comunque la vita che avresti avuto se non te l'avessero rovinata.
-     
-     GLI ADORATORI DEL DENARO E DEL POTERE NON SONO IDONEI A SERVIRE LA COSA PUBBLICA.
-   
-   Ciò ci porta ai punti seguenti:
+8. Quindi NO a ***questa* Unione Europea**: **RIFORMA o USCITA**.
 
-9. **I CITTADINI NON SONO CAVIE DA LABORATORIO.**
-   PROPONIAMO di ristabilire il primato del **PRINCIPIO DI PRECAUZIONE** sopra gli interessi di chicchessia, *Big Pharma*, il complesso militare industriale di qualsivoglia Paese, la NATO, il Pentagono, il *NWO*...
+9. NO al ***LOBBYISM***, inteso come la vera e propria vendita di peso politico a favore di qualunque soggetto, perché è sinonimo di **CORRUZIONE LEGALIZZATA** e tradimento della volontà degli elettori. Una testa un voto.
 
-10. **STOP** al **5G** e a ***Starlink*** ed analoghe costellazioni satellitari volte a collegare capillarmente tramite onde radio ad altissima frequenza ogni punto della superficie terrestre, **fino a quando non ci siano studi che provino che non costituiscono un rischio per la salute e l'ambiente**.
+10. NO all'otorgamento di **benefici** a soggetti privati o statuali **a detrimento della sicurezza e del benessere della collettività**.
+    
+    + Per esempio, è inammissibile che la pressione fiscale sia una percentuale sulle entrate incomparabilmente più alta per il Cittadino medio che per colossi come *Google*, *Facebook* e *Alibaba*. (Quest'ultima avrebbe pagato qualche cosa come 22000 euro di tasse in Italia l'anno scorso?!) **Realmente otorgare agevolazioni fiscali smisurate alle grandi imprese crea nuovi posti di lavoro?** I grafici mostrano che nel corso degli anni sono cresciuti i profitti delle grandi imprese, la produttività dei lavoratori, e le difficoltà per i lavoratori. **Chi realmente crea posti di lavoro è *la domanda***, e poche persone, per quanto dispongano di un potere d'acquisto enorme, *non rimpiazzano* la domanda creata da un'enorme massa di persone che abbiano entrate sufficienti per permettersi di comprare pantaloni, camice, maglioni, cibo, automobili, motociclette, etc..
+    
+    + Un altro esempio sono i vaccini e il 5G: è inconcepibile che i parlamentari siano tutti così pronti a votare l'obbligatorietà di **vaccini** che stanno innegabilmente provocando danni irreparabili. Guardate le statistiche di bambini autistici di anno in anno! Non possiamo non pensare che ricevano mance dalla *Big Pharma*, è scandaloso, basta!
+      
+      E sul **5G** dovrebbe valere il principio di precauzione, a chi importano i soldi delle licenze per l'uso delle frequenze, se poi dovremo spendere molto di più in cure mediche?
+      
+      Non diciamo "in cure e indennizzazioni" perché le indennizzazioni non le deve pagare il contribuente, le deve pagare chi cerca di imporre questa spada di Damocle sulla testa del contribuente. E le indennizzazioni non ti restituiscono comunque la vita che avresti avuto se non te l'avessero rovinata.
+      
+      GLI ADORATORI DEL DENARO E DEL POTERE NON SONO IDONEI A SERVIRE LA COSA PUBBLICA.
+    
+    Ciò ci porta ai punti seguenti:
+
+11. **I CITTADINI NON SONO CAVIE DA LABORATORIO.**
+    PROPONIAMO di ristabilire il primato del **PRINCIPIO DI PRECAUZIONE** sopra gli interessi di chicchessia, *Big Pharma*, il complesso militare industriale di qualsivoglia Paese, la NATO, il Pentagono, il *NWO*...
+
+12. **STOP** al **5G** e a ***Starlink*** ed analoghe costellazioni satellitari volte a collegare capillarmente tramite onde radio ad altissima frequenza ogni punto della superficie terrestre, **fino a quando non ci siano studi che provino che non costituiscono un rischio per la salute e l'ambiente**.
     
     Politici e funzionari [saranno chiamati a rispondere](#responsabilita_diretta), così come i fabbricanti di tali dispositivi e le imprese di telefonia.
     
@@ -178,12 +182,12 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     **Gli usi militari** di queste tecnologie sono quelli che **hanno tra tutti la priorità più bassa**. (Per quanto ne sappiamo, e a giudicare dal profilo psicologico degli aspiranti imperatori e dalle loro azioni progressivamente più scoperte, potrebbe anche esistere un piano di *drones* armati per agire a vari livelli, incluso l'ambito urbano, situazione degna dei più distopici cortometraggi di fantascienza. Non è nemmeno una "teoria cospirativa" per ora, ma purtroppo constatiamo dolorosamente ogni settimana che il passato e il presente superano abbondantemente ogni nostra peggiore fantasia.)
 
-11. NO categorico a qualunque pretesa di imporre vaccinazioni "obbligatorie".
+13. NO categorico a qualunque pretesa di imporre vaccinazioni "obbligatorie".
     Le **VACCINAZIONI** devono essere **FACOLTATIVE**.
     LA SCIENZA è una dialettica in continuo divenire, si basa su PROVE e CONFUTAZIONI, NON È UNA RELIGIONE E *NESSUNO* PUÒ ARROGARSI IL RUOLO DI DEPOSITARIO DI UNA VERITÀ ASSOLUTA IN MATERIA SCIENTIFICA, tanto meno quando ciò si basa sul fraudolento occultamento di dati.
     Inoltre **è ormai chiaro che abbiamo tutte le ragioni per *dubitare* che qualcuno che non smette di parlare della necessità di ridurre la popolazione mondiale (come Bill Gates) possa volerci *proteggere* con i vaccini prodotti dai suoi laboratori**.
 
-12. **LE CASE FARMACEUTICHE** sono **RESPONSABILI** civilmente e penalmente dei danni provocati dai farmaci che producono. Questo vale per i farmaci *in generale* e vale *per i vaccini*.
+14. **LE CASE FARMACEUTICHE** sono **RESPONSABILI** civilmente e penalmente dei danni provocati dai farmaci che producono. Questo vale per i farmaci *in generale* e vale *per i vaccini*.
     
     <u>**SPECIFICO PER L'ITALIA**</u>
     
@@ -192,14 +196,14 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     E in riferimento ai punti precedenti, diciamo ora:
 
-13. NO alla ***depopulation agenda***, sotto nessun pretesto.
+15. NO alla ***depopulation agenda***, sotto nessun pretesto.
     **I problemi legati all'impatto ambientale dell'attività umana si affrontano tutti insieme**, impiegando menti e risorse che oggi vengono ampiamente riversate al complesso militare industriale, in nome della necessità di fronteggiare fantomatiche minacce create ad hoc dai burattinai che tirano i fili di politici e mainstream media.
 
-14. AL CONTRARIO, promuoveremo il **miglioramento della sanità pubblica, rigettando le ricette dell'FMI**, che a tutti i popoli a cui "presta" denaro (di altri popoli) impone una riduzione degli stanziamenti per la **SANITÀ** e l'**EDUCAZIONE**, come se non si trattasse di **elementi determinanti per il futuro di un paese**... o <u>chissà proprio per questo</u>.
+16. AL CONTRARIO, promuoveremo il **miglioramento della sanità pubblica, rigettando le ricette dell'FMI**, che a tutti i popoli a cui "presta" denaro (di altri popoli) impone una riduzione degli stanziamenti per la **SANITÀ** e l'**EDUCAZIONE**, come se non si trattasse di **elementi determinanti per il futuro di un paese**... o <u>chissà proprio per questo</u>.
     
     (L'FMI impone anche altre "tariffe" semi-occulte, come nuove basi militari straniere sul territorio o facilitazioni per certe multinazionali, o la consegna di un Julian Assange anche se rifugiato in un'ambasciata. Le somme prestate dall'FMI gli devono essere restituite, mentre queste "tariffe" semi-occulte hanno effetto permanente.)
 
-15. **NO a qualunque iniziativa, occulta o meno, in buona fede o in mala fede, che possa avere effetti sulla collettività o sul pianeta, senza un previo DIBATTITO A LIVELLO MONDIALE**.
+17. **NO a qualunque iniziativa, occulta o meno, in buona fede o in mala fede, che possa avere effetti sulla collettività o sul pianeta, senza un previo DIBATTITO A LIVELLO MONDIALE**.
     
     - NO a _geoingeneering_ e in generale alle operazioni occulte che tracciano scie chimiche nei nostri cieli
     
@@ -213,17 +217,17 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     - e NO a *Starlink* e ad analoghe costellazioni satellitari, fino a prova di innoquità.
 
-16. **Lo scarico nei mari o il sotterramento abusivo di scorie plastiche o tossiche o radioattive dovrà essere prevenuto, o castigato duramente se già avvenuto.**
+18. **Lo scarico nei mari o il sotterramento abusivo di scorie plastiche o tossiche o radioattive dovrà essere prevenuto, o castigato duramente se già avvenuto.**
     
     È INCONCEPIBILE e INAMMISSIBILE che **i residui radioattivi del disastro di Fukushima** vengano lasciati filtrare nel sottosuolo per l'inadeguatezza dei contenitori, o addirittura vengano attivamente e volontariamente gettati nell'Oceano Pacifico, che starebbe interamente morendo secondo le testimonianze di sopravvenuta scarsezza di forme di vita e presenza di indiviui con tumori enormi (oltre a incremento drastico della radioattività sui litorali ad est e ad ovest del Pacifico, rilevabile anche in volo sopra il Pacifico, l'ovest e il *Midwest* degli USA, e oltre all'incremento drastico di neonati con malformazioni).
 
-17. Le **specie in via di estinzione** dovranno essere protette con più decisione e **la caccia camuffata da ricerca scientifica dovrà essere impedita**.
+19. Le **specie in via di estinzione** dovranno essere protette con più decisione e **la caccia camuffata da ricerca scientifica dovrà essere impedita**.
 
-18. **L'ACQUA E L'ARIA** SONO PATRIMONIO DELL'UMANITÀ E DIRITTI UMANI BASILARI.
+20. **L'ACQUA E L'ARIA** SONO PATRIMONIO DELL'UMANITÀ E DIRITTI UMANI BASILARI.
     
     NO categorico ai CEO che sostengono che l'acqua non è un diritto umano, per poi imbottigliare alla chetichella e vendere migliaia o milioni di litri all'anno di acqua attinta da sorgenti pubbliche, con regalie di pochi dollari all'anno alle istituzioni pubbliche (e presumibili mance ai politici corrotti di turno).
 
-19. PROMUOVEREMO ANALISI E DIBATTITO SULL'OPPORTUNITÀ DI ELIMINARE IL **SIGNORAGGIO BANCARIO** E RECUPERARE IL CONTROLLO DELL'EMISSIONE DI MONETA, tenendo presente quanto segue:
+21. PROMUOVEREMO ANALISI E DIBATTITO SULL'OPPORTUNITÀ DI ELIMINARE IL **SIGNORAGGIO BANCARIO** E RECUPERARE IL CONTROLLO DELL'EMISSIONE DI MONETA, tenendo presente quanto segue:
     
     1. I presidenti USA che se lo proponevano hanno ricevuto uno o più proiettili.
     
@@ -233,10 +237,10 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     4. **Svalutare** è una maniera con cui i governi mettono **le mani nelle tasche dei Cittadini** senza passare per una discussione in Parlamento.
 
-20. Ci rendiamo conto che il **capitalismo** non è un male in se stesso, e nemmeno il **liberismo**, è invece **un male che *lo Stato* si lasci corrompere da capitalisti senza scrupoli**, rendendo possibile un'ingegnerizzazione economica volta a impoverire le masse, demolendo progressivamente i diritti da loro faticosamente acquisiti durante decenni e disintegrando il potere d'acquisto dei loro guadagni, dando luogo a quanto ora viene (impropriamente) identificato come **"neoliberismo"**.
+22. Ci rendiamo conto che il **capitalismo** non è un male in se stesso, e nemmeno il **liberismo**, è invece **un male che *lo Stato* si lasci corrompere da capitalisti senza scrupoli**, rendendo possibile un'ingegnerizzazione economica volta a impoverire le masse, demolendo progressivamente i diritti da loro faticosamente acquisiti durante decenni e disintegrando il potere d'acquisto dei loro guadagni, dando luogo a quanto ora viene (impropriamente) identificato come **"neoliberismo"**.
     Assistiamo quindi alla **privatizzazione dei guadagni** e alla **socializzazione delle perdite**.
 
-21. Analogamente, assistiamo da sempre - e nessuno lo pone in discussione - alla **socializzazione della spesa militare** e alla **privatizzazione dei bottini**. Un caso evidente per tutti fu la **Libia**, ai danni della quale ci fu **una vera e propria RAPINA A MANO ARMATA**. (Ci sorprendiamo dei mezzi impressionanti di cui dispone il *NWO*, ma non facciamo niente per chiedere che nessuno risponda di niente di fronte alla giustizia.)
+23. Analogamente, assistiamo da sempre - e nessuno lo pone in discussione - alla **socializzazione della spesa militare** e alla **privatizzazione dei bottini**. Un caso evidente per tutti fu la **Libia**, ai danni della quale ci fu **una vera e propria RAPINA A MANO ARMATA**. (Ci sorprendiamo dei mezzi impressionanti di cui dispone il *NWO*, ma non facciamo niente per chiedere che nessuno risponda di niente di fronte alla giustizia.)
     
     Siamo consapevoli che **anche se andassimo *in questo stesso momento* alla maggioranza assoluta non potremmo immediatamente ridurre la spesa militare**, ci vorrebbe un tempo di transizione, di vigilanza, di osservazione degli altri Paesi, prima di poter finalmente celebrare il raggiungimento di una situazione di pace generalizzata nel pianeta.
     Ma vogliamo qui citare alcune parole da un libro che sembra essere diventato una fonte di ispirazione per coloro che hanno fabbricato il presente distopico in cui viviamo:
@@ -263,7 +267,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     > 
     > (*HUMAN REFORM POLITICS*, una forza per un cambio positivo)
 
-22. Proponiamo **MAGGIORE SIMMETRIA nella relazione Cittadino-Stato**.
+24. Proponiamo **MAGGIORE SIMMETRIA nella relazione Cittadino-Stato**.
     
     È inammissibile, per esempio, che ci siano imprese che CHIUDONO perché il debitore insolvente è lo Stato, o che ci siano espropri che non vengono rimborsati durante decine di anni, quando lo stesso Stato impone una penale il giorno dopo una scadenza.
     <a name="responsabilita_diretta"></a>
@@ -275,21 +279,21 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
 
 ## Relazioni tra le nazioni: signori guerrafondai, <u>ci avete *stufato*</u>, vogliamo PACE!
 
-23. CREDIAMO nella **COLLABORAZIONE MUTUAMENTE VANTAGGIOSA**  ("win-win") tra i governi e tra i Popoli di tutte le Nazioni.
+25. CREDIAMO nella **COLLABORAZIONE MUTUAMENTE VANTAGGIOSA**  ("win-win") tra i governi e tra i Popoli di tutte le Nazioni.
     
     + CONDANNIAMO OGNI AFFERMAZIONE DELLA VOLONTÀ DI DOMINIO E CONTROLLO DA PARTE DI QUALSIVOGLIA NAZIONE SULLE ALTRE.
     
     + RIGETTIAMO *OGNI* IDEOLOGIA SUPREMAZISTA, INCLUSE QUELLE CHE PRETENDONO DI ESSERE LEGITTIMATE DAI TESTI DI UNA RELIGIONE.
 
-24. Proponiamo a tutti i Popoli della Terra di **PUNTARE IL DITO SUI PREDATORI**, i centri di potere e i governi che stanno agendo con estrema ferocia a danno di intere popolazioni innocenti, non solo approfittando di difficoltà che possano stare attraversando i loro paesi, ma *provocando* tali difficoltà, con **fredda e ostinata ingegnerizzazione delle disgrazie altrui**.
+26. Proponiamo a tutti i Popoli della Terra di **PUNTARE IL DITO SUI PREDATORI**, i centri di potere e i governi che stanno agendo con estrema ferocia a danno di intere popolazioni innocenti, non solo approfittando di difficoltà che possano stare attraversando i loro paesi, ma *provocando* tali difficoltà, con **fredda e ostinata ingegnerizzazione delle disgrazie altrui**.
     
     **Questi sciacalli dispongono di risorse ingentissime, non possono addurre come giustificazione il lemma *mors tua vita mea*.**
 
-25. <a name="princ_economisti_intellettuali"></a>
+27. <a name="princ_economisti_intellettuali"></a>
     Auspichiamo **dialogo diretto e collaborazione tra i giuristi, gli economisti e in generale gli intellettuali che *da vari paesi* ci stanno da tempo mettendo in allerta, e che istintivamente si sono mobilizzati in difesa delle genti** contro il mostro a più teste che le ha progressivamente impoverite in questi anni.
     Arriverà [il momento](#progr_economisti_intellettuali) in cui potremo dar loro un peso reale nella gestione della cosa pubblica.
 
-26. <a name="princ_inf"></a><a name="princ_guerra_odioPopoli"></a>
+28. <a name="princ_inf"></a><a name="princ_guerra_odioPopoli"></a>
     VOGLIAMO TUTELARE L'ESISTENZA DI UN'**INFORMAZIONE "MULTIPOLARE"**. 
     
     Vigileremo e **promuoveremo contro-informazione** ogni volta che riconosceremo l'esistenza di campagne di diffamazione verso qualunque Nazione o le sue personalità di spicco, campagne volte a fomentare l'odio tra i Popoli e giustificare guerre che ai Popoli di certo non giovano, mentre impediscono di focalizzare l'attenzione sul **vero nemico**, **coloro che realmente provocano tali guerre**.
@@ -314,7 +318,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     [Torneremo a parlare di informazione](#progr_inf) nel corso del 2º obiettivo.
 
-27. RICORDIAMO che ogni Paese è tenuto a rispettare le leggi internazionali e ne rende conto alle altre Nazioni in seno all'ONU.
+29. RICORDIAMO che ogni Paese è tenuto a rispettare le leggi internazionali e ne rende conto alle altre Nazioni in seno all'ONU.
     
     Nessun Paese è legalmente tenuto a rendere conto alla Casa Bianca, purtroppo da tempo "infettata" dall'enorme virus che viene descritto da JFK nel discorso già citato nella premessa. I primi a farne le spese sono gli stessi statunitensi.
     
@@ -340,11 +344,11 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     - Milosevic fu ASSOLTO _post mortem_ dalla Corte Internazionale di Giustizia.
 
-28. **La NATO è oggi un'organizzazione terrorista.**
+30. **La NATO è oggi un'organizzazione terrorista.**
     Abbiamo visto lo scempio commesso nei Balcani a danni di popolazioni e strutture civili.
     È URGENTISSIMA UNA **RIFORMA** che restituisca ai singoli Parlamenti il potere di prendere decisioni sull'attuare delle rispettive Forze Armate, oggi sottomesse alla catena di comando NATO, **O** SAREMO COSTRETTI A USCIRE dalla NATO e a passare ad uno status di **PAESE NEUTRALE**, secondo l'esempio della Svizzera.
 
-29. <u>**ESIGIAMO**</u> che si torni a **rispettare le parole della nostra Costituzione** quando dice:
+31. <u>**ESIGIAMO**</u> che si torni a **rispettare le parole della nostra Costituzione** quando dice:
     
     > "*L’Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali*".
     
@@ -354,7 +358,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     <a name="nuovaInvestigazione9_11_bis"></a>
     Ma speriamo che anche un numero sufficiente di Cittadini USA si risveglieranno e che potranno eliminare il voto elettronico sistematicamente truccato e installare una democrazia, dando il via tra l'altro ad una nuova investigazione sul **9-11** &ndash; [ne abbiamo già parlato](#nuovaInvestigazione9_11) &ndash; in modo che siano definitivamente identificati e puniti **i veri colpevoli** e sia chiaro che non sempre chi parla di patriottismo è un patriota.
 
-30. CONDANNIAMO CON VEEMENZA **OGNI SFORZO VOLTO A POTENZIARE VIRUS ESISTENTI O A CREARNE DI NUOVI**.
+32. CONDANNIAMO CON VEEMENZA **OGNI SFORZO VOLTO A POTENZIARE VIRUS ESISTENTI O A CREARNE DI NUOVI**.
     L'UMANITÀ DEVE <u>***CATEGORICAMENTE PROIBIRE***</u> **OGNI ATTIVITÀ IN TAL SENSO**, EFFETTUATA SOTTO QUALUNQUE PRETESTO, DA PARTE DI SOGGETTI PRIVATI O STATUALI, IMPONENDO PER I TRASGRESSORI **PENE PESANTI QUANTO LO È LA MINACCIA CHE LE LORO ATTIVITÀ COSTITUISCONO** PER L'UMANITÀ.
     
     IN CASO DI "FUGHE" ACCIDENTALI O MENO, I PROPRIETARI DEI LABORATORI CHE COMPIANO TALI ATTIVITÀ DEVONO ESSERE CHIAMATI A RISPONDERE SOLO PER IL FATTO DI STAR COMIPENDO TALI ATTIVITÀ, ANCHE IN MANCANZA DI PROVE CHE LI COLLEGHINO DIRETTAMENTE ALL'ACCADUTO.
