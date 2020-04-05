@@ -2,11 +2,11 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Draft ver. 01.036 – 2020-04-05 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
+Draft ver. 01.037 – 2020-04-05 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
 
 &nbsp;
 
-Bozza ver. 01.036 – 2020-04-05 &ndash; scritto con ***Mark Text***:
+Bozza ver. 01.037 – 2020-04-05 &ndash; scritto con ***Mark Text***:
 
 https://marktext.app/ &ndash; https://github.com/marktext/marktext/
 
@@ -136,7 +136,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
    
    SE TUTTI I GOVERNI FOSSERO TOTALMENTE TRASPARENTI, NON CI SAREBBERO PIÙ GUERRE NÉ "TERRORISMO".
 
-2. Dobbiamo **EVITARE DI CADERE NELLA TRAPPOLA "DIVIDE ET IMPERA"**. Proprio questo *tremendo* paradosso, le forze armate USA in realtà al servizio dei fautori del 9-11 e dell'assassionio di JFK, è un esempio evidente della **potenza del paradigma "divide et impera"** e del livello che può raggiungere la frattura, purtroppo presente in molti paesi. PROMUOVEREMO DIALOGO CON GLI UNIFORMATI perché I LORO VERTICI spieghino che non sono meno patrioti e meno di loro tenaci difensori della Patria coloro che manifestano in piazza (senza che sia parte dei compiti per cui gli pagano uno stipendio), a volte a rischio di procedimenti penali a loro carico e perfino a rischio della loro incolumità fisica. I docenti argentini malamente sloggiati dalla Plaza de Mayo con il pretesto di una quindicina di violenti all'altro estremo della piazza si rendevano conto della direzione in cui andava l'Argentina durante la presidenza di Mauricio Macri molto prima che arrivassero a constatarlo gli uniformati. (Gli autori di uno di questi episodi di violenza apparivano poi in fotografie con l'uniforme, in servizio in altre località.)
+2. Dobbiamo **EVITARE DI CADERE NELLA TRAPPOLA "DIVIDE ET IMPERA"**. Proprio questo *tremendo* paradosso, le forze armate USA in realtà al servizio dei fautori del 9-11 e dell'assassionio di JFK, è un esempio evidente della **potenza del paradigma "divide et impera"** e del livello che può raggiungere la frattura, purtroppo presente in molti paesi. PROMUOVEREMO DIALOGO CON GLI UNIFORMATI perché I LORO VERTICI spieghino che non amano meno di loro la patria e non sono meno di loro tenaci difensori della patria coloro che manifestano in piazza (senza che sia parte dei compiti per cui gli pagano uno stipendio), a volte a rischio di procedimenti penali a loro carico e perfino a rischio della loro incolumità fisica. I docenti argentini malamente sloggiati dalla Plaza de Mayo con il pretesto di una quindicina di violenti all'altro estremo della piazza si rendevano conto della direzione in cui andava l'Argentina durante la presidenza di Mauricio Macri molto prima che arrivassero a constatarlo gli uniformati. (Gli autori di uno di questi episodi di violenza apparivano poi in fotografie con l'uniforme, in servizio in altre località.)
    DOBBIAMO ASSOLUTAMENTE IMPEDIRE CHE CIÒ ACCADA, IL POPOLO PAGA GLI STIPENDI DEGLI UNIFORMATI E NON POSSIAMO LASCIARE CHE VENGANO MANIPOLATI PER TRASFORMARLI NEL CANE DA GUARDIA DEI *BANKSTERS*. E IL RESTO DELLA POPOLAZIONE DOVRÀ ESSERE MESSO IN GUARDIA PERCHÉ NON CADA NELLA TRAPPOLA, SCHIVARE IL CONFRONTO CON GLI UNIFORMATI, IL PROBLEMA È "IN ALTO" (in una scala soldi, potere e bassezza) E VA AFFRONTATO TOP-DOWN.
 
 3. <a name="nuovaInvestigazione9_11"></a>
@@ -325,7 +325,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     Nessun Paese è legalmente tenuto a rendere conto alla Casa Bianca, purtroppo da tempo "infettata" dall'enorme virus che viene descritto da JFK nel discorso già citato nella premessa. I primi a farne le spese sono gli stessi statunitensi.
     
-    Sicuramente chi la occupa vorrà castigare la nostra mancanza di obbedienza, ma ci organizzeremo e prenderemo le nostre precauzioni. Di nuovo rimandiamo a quanto scritto nella premessa di questo documento: "fare la piega" non ci garantirebbe comunque la sopravvivenza, anzi aumenterebbe i rischi, oltre a costituire un'opzione semplicemente immorale.
+    Sicuramente chi la occupa vorrà castigare la nostra mancanza di obbedienza, ma ci organizzeremo e prenderemo le nostre precauzioni. Di nuovo rimandiamo a quanto scritto nella premessa di questo documento: "fare la piega" non ci garantirebbe comunque la sopravvivenza, anzi aumenterebbe i rischi, oltre a costituire un'opzione semplicemente immorale. Lasciarci porre al fronte di una aggressione contro potenze nucleari non è certo una maniera di evitare i rischi.
     
     AMIAMO IL POPOLO DEGLI STATI UNITI, MA, <u>CONGIUNTAMENTE AD UN NUMERO VIA VIA CRESCENTE DI CITTADINI STATUNITENSI, RIFIUTIAMO L'IMPERIALISMO</u> PROMOSSO DAI GOVERNI MARIONETTA DEL *DEEP STATE* E DEL COMPLESSO MILITARE INDUSTRIALE.
     
@@ -351,7 +351,9 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     Abbiamo visto lo scempio commesso nei Balcani a danni di popolazioni e strutture civili.
     È URGENTISSIMA UNA **RIFORMA** che restituisca ai singoli Parlamenti il potere di prendere decisioni sull'attuare delle rispettive Forze Armate, oggi sottomesse alla catena di comando NATO, **O** SAREMO COSTRETTI A USCIRE dalla NATO e a passare ad uno status di **PAESE NEUTRALE**, secondo l'esempio della Svizzera.
 
-32. <u>**ESIGIAMO**</u> che si torni a **rispettare le parole della nostra Costituzione** quando dice:
+32. **La presenza di basi militari della NATO e degli USA non costituisce una fonte di sicurezza, ben al contrario.** Coloro che sono al comando ci considerano come **bersagli sacrificabili di un'eventuale ritorsione nucleare**, alla stregua di navi militari e sommergibili, mentre loro fanno *bullying* contro altre potenze nucleari, paesi pacifici che non si prestano a piegarsi all'imposizione di un mondo unipolare, all'imposizione del predominio di cui apertamente si parla nelle dottrine pubblicate sul web da pochi scellerati. Non abbiano la **sfacciataggine** di venirci a **chiedere più soldi** di quelli che già sta risucchiando il poderoso virus del *loro* complesso militare industriale! ANZI, **NOI dovremmo chiedergli di pagare affitti ESORBITANTI**, fino a quando non ce li potremo togliere di dosso. **Se ci colpisse anche solo *una* testata atomica, la "ricaduta" negativa in termini economici ed umani supererebbe di gran lunga tutto il "beneficio" di questi 70 anni di occupazione** ("beneficio" tra virgolette perché **l'inquinamento chimico ed elettromagnetico** e **l'aumento di casi di tumori** ed altre malattie intorno a certe installazioni non sono certo catalogabili come benefici).
+
+33. <u>**ESIGIAMO**</u> che si torni a **rispettare le parole della nostra Costituzione** quando dice:
     
     > "*L’Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali*".
     
@@ -361,7 +363,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     <a name="nuovaInvestigazione9_11_bis"></a>
     Ma speriamo che anche un numero sufficiente di Cittadini USA si risveglieranno e che potranno eliminare il voto elettronico sistematicamente truccato e installare una democrazia, dando il via tra l'altro ad una nuova investigazione sul **9-11** &ndash; [ne abbiamo già parlato](#nuovaInvestigazione9_11) &ndash; in modo che siano definitivamente identificati e puniti **i veri colpevoli** e sia chiaro che non sempre chi parla di patriottismo è un patriota.
 
-33. CONDANNIAMO CON VEEMENZA **OGNI SFORZO VOLTO A POTENZIARE VIRUS ESISTENTI O A CREARNE DI NUOVI**.
+34. CONDANNIAMO CON VEEMENZA **OGNI SFORZO VOLTO A POTENZIARE VIRUS ESISTENTI O A CREARNE DI NUOVI**.
     L'UMANITÀ DEVE <u>***CATEGORICAMENTE PROIBIRE***</u> **OGNI ATTIVITÀ IN TAL SENSO**, EFFETTUATA SOTTO QUALUNQUE PRETESTO, DA PARTE DI SOGGETTI PRIVATI O STATUALI, IMPONENDO PER I TRASGRESSORI **PENE PESANTI QUANTO LO È LA MINACCIA CHE LE LORO ATTIVITÀ COSTITUISCONO** PER L'UMANITÀ.
     
     IN CASO DI "FUGHE" ACCIDENTALI O MENO, I PROPRIETARI DEI LABORATORI CHE COMPIANO TALI ATTIVITÀ DEVONO ESSERE CHIAMATI A RISPONDERE SOLO PER IL FATTO DI STAR COMIPENDO TALI ATTIVITÀ, ANCHE IN MANCANZA DI PROVE CHE LI COLLEGHINO DIRETTAMENTE ALL'ACCADUTO.
@@ -466,7 +468,7 @@ Dopo una prima maturazione di questo documento, vorremmo tradurlo in varie lingu
    
    CHE CREDIAMO POSSANO VOLER CONTRIBUIRE A MIGLIORARE QUESTO MANIFESTO, E POTENZIALMENTE ADERIRE AI SUOI VALORI O A PARTE DI ESSI.
    
-   DIFFICILMENTE ARRIVERÀ AD ESSERE "PERFETTO" PER TUTTI, L'IDEA È AVERE <u>**UN'ORIENTAZIONE DI MASSIMA IN COMUNE**</u>, IN MODO CHE IL NEMICO NON POSSA VINCERE FACENDOCI CREDERE CHE SIAMO SOLI.
+   È EVIDENTE CHE **DIFFICILMENTE ARRIVERÀ AD ESSERE "PERFETTO" PER TUTTI**, L'IDEA È AVERE <u>**UN'ORIENTAZIONE DI MASSIMA IN COMUNE**</u>, IN MODO CHE IL NEMICO NON POSSA VINCERE FACENDOCI CREDERE CHE SIAMO SOLI.
    LE PERSONE E LE FORZE POLITICHE CHE VORRANNO FARLO, POTRANNO DICHIARARE, QUI E SULLA LORO "FACCIATA" NEL WEB, CHE SI RICONOSCONO IN QUESTO MANIFESTO, INVITANDO ALTRI A VALUTARLO. LE FORZE CHE QUI SI INCONTRERANNO SARANNO COSÌ IN GRADO DI CONTATTARSI ANCHE DIRETTAMENTE TRA DI LORO, IL CHE POTREBBE RIVELARSI FONDAMENTALE.
 
 2. INFORMARE I CITTADINI CHE SOLO SI SONO NUTRITI DELLE INFORMAZIONI PROVENIENTI DAI MEZZI DI COMUNICAZIONE DOMINANTI.
