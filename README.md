@@ -2,11 +2,11 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Draft ver. 01.034 – 2020-04-04 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
+Draft ver. 01.035 – 2020-04-05 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
 
 &nbsp;
 
-Bozza ver. 01.034 – 2020-04-04 &ndash; scritto con ***Mark Text***:
+Bozza ver. 01.035 – 2020-04-05 &ndash; scritto con ***Mark Text***:
 
 https://marktext.app/ &ndash; https://github.com/marktext/marktext/
 
