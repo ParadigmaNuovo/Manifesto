@@ -147,14 +147,13 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
 5. Dobbiamo compiere una verifica su queste accuse all'OMS, **Organizzazione Mondiale per la Sanità**.
    
    ![OMS organizzazione criminale](https://i.postimg.cc/d0Z7Z0sY/TEXT-PIC-OMS-STRUTTURA-CRIMINALE-NELLE-MANI-DELL-INDUSTRIA-ASHKENAZITA-DEI-FARMACI.jpg)
-   
-   
+
    (**NOTA BENE:** non siamo in condizione in questo momento di verificare quanto il testo nell'immagine denuncia, né se l'industria in questione sia ashkenazita o italiana o giapponese o quant'altro. Noi non saltiamo a difendere la memoria di Al Capone o di altri mafiosi di origine italiana, così come i cittadini giapponesi o russi non saltano offesi quando si nominano le rispettive mafie. Non crediamo che l'appartenenza a una particolare etnia possa costituire uno scudo contro le critiche. Non ci importa se le persone sono bionde o brune o di che colore abbiano la pelle, ci importa ciò che fanno. [Personalmente tendiamo a pensare che al giorno d'oggi tutti i grandi gruppi criminali devono essere multi-etnici, ma ovviamente non lo sappiamo.])
-   
+
    Se le accuse risulteranno fondate, allora dovremo **negare ogni autorità all'OMS**.
-   
+
    <a name="Gates_depopulation"></a>**Bill Gates** è evidentemente **[ossessionato](https://www.bitchute.com/video/hO8IBMtk27xS/) dalla necessità di ridurre la popolazione mondiale**, **non crediamo che abbia nessuna intenzione di tutelare la nostra salute con i suoi vaccini** (e *anche* se fosse in buona fede, dopo decenni di *bugs* incredibilmente evidenti &ndash; per non dire altro &ndash; in tutte le versioni del suo sistema operativo *Windows*,  avremmo *ottime* ragioni per diffidare della qualità dei suoi vaccini).
-   
+
    (Facciamo notare che da più parti si muovono accuse alla stessa ONU, **Organizzazione delle Nazioni Unite**, accuse su cui ci riserviamo un approfondimento. L'ONU avrebbe per esempio emesso una pubblicazione politica pretendendo che la stessa avesse un fondamento scientifico che invece è risultato essere totalmente inconsistente. La pubblicazione sembrava alludere all'ineluttabilità di una necessità di ridurre la popolazione umana in tempi brevi. Trovate vari link in questa pagina e una critica in video: [**Pay Up or the Earth Gets It! – #PropagandaWatch - corbettreport.com**](https://www.corbettreport.com/pay-up-or-the-earth-gets-it-propagandawatch/ "Permanent Link to Pay Up or the Earth Gets It! – #PropagandaWatch")  
    L'ONU viene anche frequentemente accusata di voler imporre un governo mondiale. Dobbiamo per ora lasciare in sospeso un giudizio in merito.)
 
@@ -318,7 +317,8 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     **Questi sciacalli dispongono di risorse ingentissime, non possono addurre come giustificazione il lemma *mors tua vita mea*.**
     
-    Ecco un esempio - in inglese e con sottotitoli in italiano - di come poche persone poterono montare una guerra mondiale, dobbiamo **apprendere e non permettere che il passato si ripeta, oggi stanno facendo ai danni della Russia e della Cina la campagna di diffamazione a mezzo stampa che allora fecero ai danni della Germania**: [**The WWI Conspiracy**](https://mondiaspora.net/posts/fde4e49010ca01382d7d5f6ffff812c4)   
+    Ecco un esempio - in inglese e con sottotitoli in italiano - di come poche persone poterono montare una guerra mondiale, dobbiamo **apprendere e non permettere che il passato si ripeta, oggi stanno facendo ai danni della Russia e della Cina la campagna di diffamazione a mezzo stampa che allora fecero ai danni della Germania**: [**The WWI Conspiracy**](https://mondiaspora.net/posts/fde4e49010ca01382d7d5f6ffff812c4)
+    
     Un altro documentario assolutamente da prendere in esame, in inglese: [**All Wars Are Bankers' Wars**](https://www.youtube.com/watch?v=5hfEBupAeo4&feature=share)
 
 31. <a name="princ_inf"></a><a name="princ_guerra_odioPopoli"></a>
