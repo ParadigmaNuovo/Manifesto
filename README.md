@@ -2,11 +2,11 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Draft ver. 01.038 – 2020-04-07 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
+Draft ver. 01.039 – 2020-04-07 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
 
 &nbsp;
 
-Bozza ver. 01.038 – 2020-04-07 &ndash; scritto con ***Mark Text***:
+Bozza ver. 01.039 – 2020-04-07 &ndash; scritto con ***Mark Text***:
 
 https://marktext.app/ &ndash; https://github.com/marktext/marktext/
 
@@ -148,7 +148,10 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
    
    ![OMS organizzazione criminale](https://i.postimg.cc/d0Z7Z0sY/TEXT-PIC-OMS-STRUTTURA-CRIMINALE-NELLE-MANI-DELL-INDUSTRIA-ASHKENAZITA-DEI-FARMACI.jpg)
    
-   Se le accuse risultano fondate, dobbiamo **negare ogni autorità all'OMS**.
+   
+   (**NOTA BENE:** non siamo in condizione in questo momento di verificare quanto il testo nell'immagine denuncia, né se l'industria in questione sia ashkenazita o italiana o giapponese o quant'altro. Noi non saltiamo a difendere la memoria di Al Capone o di altri mafiosi di origine italiana, così come i cittadini giapponesi o russi non saltano offesi quando si nominano le rispettive mafie. Non crediamo che l'appartenenza a una particolare etnia possa costituire uno scudo contro le critiche. Non ci importa se le persone sono bionde o brune o di che colore abbiano la pelle, ci importa ciò che fanno. [Personalmente tendiamo a pensare che al giorno d'oggi tutti i grandi gruppi criminali devono essere multi-etnici, ma ovviamente non lo sappiamo.])
+   
+   Se le accuse risulteranno fondate, allora dovremo **negare ogni autorità all'OMS**.
    
    <a name="Gates_depopulation"></a>**Bill Gates** è evidentemente **[ossessionato](https://www.bitchute.com/video/hO8IBMtk27xS/) dalla necessità di ridurre la popolazione mondiale**, **non crediamo che abbia nessuna intenzione di tutelare la nostra salute con i suoi vaccini** (e *anche* se fosse in buona fede, dopo decenni di *bugs* incredibilmente evidenti &ndash; per non dire altro &ndash; in tutte le versioni del suo sistema operativo *Windows*,  avremmo *ottime* ragioni per diffidare della qualità dei suoi vaccini).
    
@@ -311,11 +314,12 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
 
 29. Auspichiamo **dialogo diretto e collaborazione tra i giuristi, gli economisti e in generale gli intellettuali che *da vari paesi* ci stanno da tempo mettendo in allerta, e che istintivamente si sono mobilizzati in difesa delle genti** contro il mostro a più teste che le ha progressivamente impoverite in questi anni. Arriverà [il momento](#progr_economisti_intellettuali) in cui potremo dar loro un peso reale nella gestione della cosa pubblica.
 
-30. Proponiamo a tutti i Popoli della Terra di **PUNTARE IL DITO SUI PREDATORI**, i centri di potere e i governi che stanno agendo con estrema ferocia a danno di intere popolazioni innocenti, non solo approfittando di difficoltà che possano stare attraversando i loro paesi, ma *provocando* tali difficoltà, con **fredda e ostinata ingegnerizzazione delle disgrazie altrui**.
+30. Proponiamo a tutti i Popoli della Terra di <u>**PUNTARE IL DITO SUI PREDATORI**</u>, i centri di potere e i governi che stanno agendo con estrema ferocia a danno di intere popolazioni innocenti, non solo approfittando di difficoltà che possano stare attraversando i loro paesi, ma *provocando* tali difficoltà, con **fredda e ostinata ingegnerizzazione delle disgrazie altrui**.
     
     **Questi sciacalli dispongono di risorse ingentissime, non possono addurre come giustificazione il lemma *mors tua vita mea*.**
     
-    Ecco un esempio - in inglese e con sottotitoli in italiano - di come poche persone poterono montare una guerra mondiale, dobbiamo **apprendere e non permettere che il passato si ripeta, oggi stanno facendo ai danni della Russia e della Cina la campagna di diffamazione a mezzo stampa che allora fecero ai danni della Germania**: [**The WWI Conspiracy**](https://mondiaspora.net/posts/fde4e49010ca01382d7d5f6ffff812c4)
+    Ecco un esempio - in inglese e con sottotitoli in italiano - di come poche persone poterono montare una guerra mondiale, dobbiamo **apprendere e non permettere che il passato si ripeta, oggi stanno facendo ai danni della Russia e della Cina la campagna di diffamazione a mezzo stampa che allora fecero ai danni della Germania**: [**The WWI Conspiracy**](https://mondiaspora.net/posts/fde4e49010ca01382d7d5f6ffff812c4)   
+    Un altro documentario assolutamente da prendere in esame, in inglese: [**All Wars Are Bankers' Wars**](https://www.youtube.com/watch?v=5hfEBupAeo4&feature=share)
 
 31. <a name="princ_inf"></a><a name="princ_guerra_odioPopoli"></a>
     VOGLIAMO TUTELARE L'ESISTENZA DI UN'**INFORMAZIONE "MULTIPOLARE"**. 
