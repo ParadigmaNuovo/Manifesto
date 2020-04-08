@@ -48,7 +48,7 @@ Potete suggerire cambiamenti in vari modi:
 
 + potete scrivere **un commento alla** [**presentazione in Diaspora**](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653)
 
-**(*)** Chi ha scritto fino ad ora il manifesto l'ha fatto sottraendo già molte ore ad altri compiti, alcuni svolti, similmente, *ad honorem*, ma non meno importanti, altri invece parte di obblighi di lavoro etcl, NON VORREMMO SOTTRARRE TEMPO AD ULTERIORI SVILUPPI - TRADUZIONE, DIFFUSIONE, ETC. - PER RIFARE TUTTO IL FORMATO dopo che qualcuno l'ha PERSO facendosi un copia&incolla dalla pagina nel browser.
+**(*)** Chi ha scritto fino ad ora il manifesto l'ha fatto sottraendo già molte ore ad altri compiti, alcuni svolti, similmente, *ad honorem*, ma non meno importanti, altri invece parte di obblighi di lavoro etcl, NON VORREMMO SOTTRARRE TEMPO AD ULTERIORI SVILUPPI &ndash; TRADUZIONE, DIFFUSIONE, ETC. &ndash; PER RIFARE TUTTO IL FORMATO dopo che qualcuno l'ha PERSO facendosi un copia&incolla dalla pagina nel browser.
 
 **GRAZIE**
 
