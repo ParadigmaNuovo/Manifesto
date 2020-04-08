@@ -2,13 +2,11 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Draft ver. 01.041 – 2020-04-08 &ndash; Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
+Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
 
 &nbsp;
 
-Bozza ver. 01.041 – 2020-04-08 &ndash; scritto con ***Mark Text***:
-
-https://marktext.app/ &ndash; https://github.com/marktext/marktext/
+Bozza ver. 01.042 – 2020-04-08 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
 
 &nbsp;
 
@@ -73,15 +71,15 @@ https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/amer
 
 <br>
 
-> "[...] *For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.*
+> [...] *For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.*
 > 
-> *Its preparations are concealed, not published. Its mistakes are buried, not headlined. Its dissenters are silenced, not praised. No expenditure is questioned, no rumor is printed, no secret is revealed. It conducts the Cold War, in short, with a war-time discipline no democracy would ever hope or wish to match.* [...]"
+> *Its preparations are concealed, not published. Its mistakes are buried, not headlined. Its dissenters are silenced, not praised. No expenditure is questioned, no rumor is printed, no secret is revealed. It conducts the Cold War, in short, with a war-time discipline no democracy would ever hope or wish to match.* [...]
 
 <u>Traduzione all'italiano:</u>
 
-> "[...] *Perché ci fronteggia in tutto il mondo una cospirazione monolitica e spietata che si basa principalmente su mezzi segreti per espandere la sua sfera di influenza &ndash; sull'infiltrazione anziché sull'invasione, sulla sovversione anziché su elezioni, sull'intimidazione anziché sulla libera scelta, sulla guerriglia di notte invece di eserciti di giorno. È un sistema che ha inglobato vaste risorse umane e materiali nella costruzione di una macchina compatta e altamente efficiente che combina operazioni militari, diplomatiche, di intelligence, economiche, scientifiche e politiche.*
+> [...] *Perché ci fronteggia in tutto il mondo una cospirazione monolitica e spietata che si basa principalmente su mezzi segreti per espandere la sua sfera di influenza &ndash; sull'infiltrazione anziché sull'invasione, sulla sovversione anziché su elezioni, sull'intimidazione anziché sulla libera scelta, sulla guerriglia di notte invece di eserciti di giorno. È un sistema che ha inglobato vaste risorse umane e materiali nella costruzione di una macchina compatta e altamente efficiente che combina operazioni militari, diplomatiche, di intelligence, economiche, scientifiche e politiche.*
 > 
-> *I suoi preparativi sono nascosti, non vengono pubblicati. I suoi errori sono sepolti, non vengono messi in evidenza. I suoi dissidenti sono messi a tacere, non vengono elogiati. Nessuna spesa viene messa in discussione, nessuna voce di corridoio viene stampata, nessun segreto viene rivelato. Conduce la Guerra Fredda, in breve, con una disciplina marziale che nessuna democrazia avrebbe mai sperato né desiderato eguagliare.* [...]"
+> *I suoi preparativi sono nascosti, non vengono pubblicati. I suoi errori sono sepolti, non vengono messi in evidenza. I suoi dissidenti sono messi a tacere, non vengono elogiati. Nessuna spesa viene messa in discussione, nessuna voce di corridoio viene stampata, nessun segreto viene rivelato. Conduce la Guerra Fredda, in breve, con una disciplina marziale che nessuna democrazia avrebbe mai sperato né desiderato eguagliare.* [...]
 
 <br>
 
@@ -140,7 +138,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
    DOBBIAMO ASSOLUTAMENTE IMPEDIRE CHE CIÒ ACCADA, IL POPOLO PAGA GLI STIPENDI DEGLI UNIFORMATI E NON POSSIAMO LASCIARE CHE VENGANO MANIPOLATI PER TRASFORMARLI NEL CANE DA GUARDIA DEI *BANKSTERS*. E IL RESTO DELLA POPOLAZIONE DOVRÀ ESSERE MESSO IN GUARDIA PERCHÉ NON CADA NELLA TRAPPOLA, SCHIVARE IL CONFRONTO CON GLI UNIFORMATI, IL PROBLEMA È "IN ALTO" (in una scala soldi, potere e bassezza) E VA AFFRONTATO TOP-DOWN.
 
 3. <a name="nuovaInvestigazione9_11"></a>
-   Dobbiamo iniziare una nuova **indagine** sul **9-11** ed esigere che vengano **processati e castigati i *veri* colpevoli**  (lo menzioneremo [di nuovo più avanti](#nuovaInvestigazione9_11_bis)).
+   Dobbiamo iniziare una nuova **indagine** sul **9-11** &ndash; lo menzioneremo [di nuovo più avanti](#nuovaInvestigazione9_11_bis) &ndash; ed esigere che vengano **processati e castigati i *veri* colpevoli**.
 
 4. Dobbiamo aprire un'**indagine** sulla pandemia da Covid-19**, poniendo **in correlazione tutti i dati disponibili, includendo la distribuzioni di laboratori, basi militari, aeroporti civili e militari e voli effettuati prima e durante la pandemia, specialmente i voli a bassa quota**.
 
@@ -170,21 +168,33 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
 7. NO all'erosione della democrazia da parte della **casta** politica. I punti seguenti si soffermano su vari aspetti di questa erosione.
 
 8. <a name="princ_Orwell_1984"></a>
-   NO ad uno stato di "emergenza" permanente. NO al permanere di misure installate con il pretesto di un'emergenza. Ora c'è la pandemia, prima c'era il "terrorismo islamico", c'è sempre qualche pretesto per limitare le libertà dei cittadini. **Negli USA "*the war on terror*" è ufficialmente finita ma sono rimaste in vigore gravissime limitazioni alle libertà personali** come il [Patriot Act](https://duckduckgo.com/?q=patriot+act&t=canonical&ia=news) e il [National Defense Authorization Act](https://duckduckgo.com/?q=national+defense+authorization+act&t=canonical&ia=web). (Se ammettiamo che gli autori stessi degli attacchi del 9-11 sono un importante gruppo di potere *negli* USA, diventa evidente che ci troviamo in un presente distopico che ha in parte *superato* quello descritto da George Orwell in ["**1984**"](#progr_Orwell_1984), romanzo che gli aspiranti imperatori del *NWO* sembrerebbero aver preso come modello da implementare.)
+   NO ad uno **stato di "emergenza" permanente**. NO al permanere di misure installate con il pretesto di un'emergenza. Ora c'è la pandemia, prima c'era il "terrorismo islamico", c'è sempre qualche pretesto per limitare le libertà dei cittadini. **Negli USA "*the war on terror*" è ufficialmente finita ma sono rimaste in vigore gravissime limitazioni alle libertà personali** come il [Patriot Act](https://duckduckgo.com/?q=patriot+act&t=canonical&ia=news) e il [National Defense Authorization Act](https://duckduckgo.com/?q=national+defense+authorization+act&t=canonical&ia=web). (Se ammettiamo che gli autori stessi degli attacchi del 9-11 sono un importante gruppo di potere *negli* USA, diventa evidente che ci troviamo in un presente distopico che ha in parte *superato* quello descritto da George Orwell in ["**1984**"](#progr_Orwell_1984), romanzo che gli aspiranti imperatori del *NWO* sembrerebbero aver preso come modello da implementare.)
 
-9. NO agli **"assegni in bianco"** a politici che una volta eletti tradiscono disinvoltamente i principi proclamati in campagna elettorale, che gli hanno valso la preferenza degli elettori che li hanno votati.
+9. NO a **misure messe in atto durante uno situazione di "emergenza" che non siano STRETTAMENTE ATTINENTI all'emergenza stessa**.
+   Inoltre: **CONGELAMENTO** di qualunque provvedimento con conseguenze a lungo termine per i cittadini, anche se attinente ad una situazione di emergenza, mentre gli stessi si ritrovino in qualche modo limitati, per esempio durante una situazione di "quarantena".
    
-   Per questo, proporremo azioni nell'ambito del 2º obiettivo e una riforma nell'ambito del 3º obiettivo.
+   ESEMPI SPECIFICI PER L'ITALIA:
+   
+   - <a name="princ_13_marzo"></a>
+     NO al decreto del 13 marzo 2020 con cui il *premier* Conte dava il via libera all'installazione di antenne 5G (lo menzionaremo anche [più avanti](#progr_13_marzo)).
+   
+   - NO al MES di cui l'Italia non ha bisogno, con cui il *premier* Conte vuole i cittadini italiani permanentemente legati all'Unione Europea pagando interessi per ricevere in prestito soldi propri.
+   
+   Questo si chiama **"golpe blando", colpo di stato morbido**, né più né meno, dove l'aggettivo è dovuto solamente al fatto che non si impiegano le forze armate e si gioca con i margini discrezionali per restare nell'apparenza della legalità e del rispetto per le istituzioni.
 
-10. NO a **un'oligarchia** che presume di dovere o potere governare **un popolo di infanti**. Il livello culturale di molti Cittadini non è inferiore a quello dei membri della classe politica.
+10. NO agli **"assegni in bianco"** a politici che una volta eletti tradiscono disinvoltamente i principi proclamati in campagna elettorale, che gli hanno valso la preferenza degli elettori che li hanno votati.
+    
+    Per questo, proporremo azioni nell'ambito del 2º obiettivo e una riforma nell'ambito del 3º obiettivo.
 
-11. NO categorico a **istituzioni anti-democratiche a qualunque livello**, comunale, regionale, nazionale o internazionale.
+11. NO a **un'oligarchia** che presume di dovere o potere governare **un popolo di infanti**. Il livello culturale di molti Cittadini non è inferiore a quello dei membri della classe politica.
 
-12. Quindi NO a ***questa* Unione Europea**: **RIFORMA o USCITA**.
+12. NO categorico a **istituzioni anti-democratiche a qualunque livello**, comunale, regionale, nazionale o internazionale.
 
-13. NO al ***LOBBYISM***, inteso come la vera e propria vendita di peso politico a favore di qualunque soggetto, perché è sinonimo di **CORRUZIONE LEGALIZZATA** e tradimento della volontà degli elettori. Una testa un voto.
+13. Quindi NO a ***questa* Unione Europea**: **RIFORMA o USCITA**.
 
-14. NO all'otorgamento di **benefici** a soggetti privati o statuali **a detrimento della sicurezza e del benessere della collettività**.
+14. NO al ***LOBBYISM***, inteso come la vera e propria vendita di peso politico a favore di qualunque soggetto, perché è sinonimo di **CORRUZIONE LEGALIZZATA** e tradimento della volontà degli elettori. Una testa un voto.
+
+15. NO all'otorgamento di **benefici** a soggetti privati o statuali **a detrimento della sicurezza e del benessere della collettività**.
     
     + Per esempio, è inammissibile che la pressione fiscale sia una percentuale sulle entrate incomparabilmente più alta per il Cittadino medio che per colossi come *Google*, *Facebook* e *Alibaba*. (Quest'ultima avrebbe pagato qualche cosa come 22000 euro di tasse in Italia l'anno scorso?!) **Realmente otorgare agevolazioni fiscali smisurate alle grandi imprese crea nuovi posti di lavoro?** I grafici mostrano che nel corso degli anni sono cresciuti i profitti delle grandi imprese, la produttività dei lavoratori, e le difficoltà per i lavoratori. **Chi realmente crea posti di lavoro è *la domanda***, e poche persone, per quanto dispongano di un potere d'acquisto enorme, *non rimpiazzano* la domanda creata da un'enorme massa di persone che abbiano entrate sufficienti per permettersi di comprare pantaloni, camice, maglioni, cibo, automobili, motociclette, etc..
     
@@ -198,10 +208,10 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     Ciò ci porta ai punti seguenti:
 
-15. **I CITTADINI NON SONO CAVIE DA LABORATORIO.**
+16. **I CITTADINI NON SONO CAVIE DA LABORATORIO.**
     PROPONIAMO di ristabilire il primato del **PRINCIPIO DI PRECAUZIONE** sopra gli interessi di chicchessia, *Big Pharma*, il complesso militare industriale di qualsivoglia Paese, la NATO, il Pentagono, il *NWO*...
 
-16. **STOP** al **5G** e a ***Starlink*** ed analoghe costellazioni satellitari volte a collegare capillarmente tramite onde radio ad altissima frequenza ogni punto della superficie terrestre, **fino a quando non ci siano studi che provino che non costituiscono un rischio per la salute e l'ambiente**.
+17. **STOP** al **5G** e a ***Starlink*** ed analoghe costellazioni satellitari volte a collegare capillarmente tramite onde radio ad altissima frequenza ogni punto della superficie terrestre, **fino a quando non ci siano studi che provino che non costituiscono un rischio per la salute e l'ambiente**.
     
     Politici e funzionari [saranno chiamati a rispondere](#responsabilita_diretta), così come i fabbricanti di tali dispositivi e le imprese di telefonia.
     
@@ -211,12 +221,12 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     **Gli usi militari** di queste tecnologie sono quelli che **hanno tra tutti la priorità più bassa**. (Per quanto ne sappiamo, e a giudicare dal profilo psicologico degli aspiranti imperatori e dalle loro azioni progressivamente più scoperte, potrebbe anche esistere un piano di *drones* armati per agire a vari livelli, incluso l'ambito urbano, situazione degna dei più distopici cortometraggi di fantascienza. Non è nemmeno una "teoria cospirativa" per ora, ma purtroppo constatiamo dolorosamente ogni settimana che il passato e il presente superano abbondantemente ogni nostra peggiore fantasia.)
 
-17. NO categorico a qualunque pretesa di imporre vaccinazioni "obbligatorie".
+18. NO categorico a qualunque pretesa di imporre vaccinazioni "obbligatorie".
     Le **VACCINAZIONI** devono essere **FACOLTATIVE**.
     LA SCIENZA è una dialettica in continuo divenire, si basa su PROVE e CONFUTAZIONI, NON È UNA RELIGIONE E *NESSUNO* PUÒ ARROGARSI IL RUOLO DI DEPOSITARIO DI UNA VERITÀ ASSOLUTA IN MATERIA SCIENTIFICA, tanto meno quando ciò si basa sul fraudolento occultamento di dati.  
     Come abbiamo [già menzionato](#Gates_depopulation), **è logico che abbiamo ragione di *dubitare* che qualcuno che non smette di parlare della necessità di ridurre la popolazione mondiale possa volerci *proteggere* con i vaccini prodotti dai suoi laboratori**.
 
-18. **LE CASE FARMACEUTICHE** sono **RESPONSABILI** civilmente e penalmente dei danni provocati dai farmaci che producono. Questo vale per i farmaci *in generale* e vale *per i vaccini*.
+19. **LE CASE FARMACEUTICHE** sono **RESPONSABILI** civilmente e penalmente dei danni provocati dai farmaci che producono. Questo vale per i farmaci *in generale* e vale *per i vaccini*.
     
     <u>**SPECIFICO PER L'ITALIA**</u>
     
@@ -225,14 +235,14 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     E in riferimento ai punti precedenti, diciamo ora:
 
-19. NO alla ***depopulation agenda***, sotto nessun pretesto.
+20. NO alla ***depopulation agenda***, sotto nessun pretesto.
     **I problemi legati all'impatto ambientale dell'attività umana si affrontano tutti insieme**, impiegando menti e risorse che oggi vengono ampiamente riversate al complesso militare industriale, in nome della necessità di fronteggiare fantomatiche minacce create ad hoc dai burattinai che tirano i fili di politici e mainstream media.
 
-20. AL CONTRARIO, promuoveremo il **miglioramento della sanità pubblica, rigettando le ricette dell'FMI**, che a tutti i popoli a cui "presta" denaro (di altri popoli) impone una riduzione degli stanziamenti per la **SANITÀ** e l'**EDUCAZIONE**, come se non si trattasse di **elementi determinanti per il futuro di un paese**... o <u>chissà proprio per questo</u>.
+21. AL CONTRARIO, promuoveremo il **miglioramento della sanità pubblica, rigettando le ricette dell'FMI**, che a tutti i popoli a cui "presta" denaro (di altri popoli) impone una riduzione degli stanziamenti per la **SANITÀ** e l'**EDUCAZIONE**, come se non si trattasse di **elementi determinanti per il futuro di un paese**... o <u>chissà proprio per questo</u>.
     
     (L'FMI impone anche altre "tariffe" semi-occulte, come nuove basi militari straniere sul territorio o facilitazioni per certe multinazionali, o la consegna di un Julian Assange anche se rifugiato in un'ambasciata. Le somme prestate dall'FMI gli devono essere restituite, mentre queste "tariffe" semi-occulte hanno effetto permanente.)
 
-21. **NO a qualunque iniziativa, occulta o meno, in buona fede o in mala fede, che possa avere effetti sulla collettività o sul pianeta, senza un previo DIBATTITO A LIVELLO MONDIALE**.
+22. **NO a qualunque iniziativa, occulta o meno, in buona fede o in mala fede, che possa avere effetti sulla collettività o sul pianeta, senza un previo DIBATTITO A LIVELLO MONDIALE**.
     
     - NO a _geoingeneering_ e in generale alle operazioni occulte che tracciano scie chimiche nei nostri cieli
     
@@ -246,17 +256,17 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     - e NO a *Starlink* e ad analoghe costellazioni satellitari, fino a prova di innoquità.
 
-22. **Lo scarico nei mari o il sotterramento abusivo di scorie plastiche o tossiche o radioattive dovrà essere prevenuto, o castigato duramente se già avvenuto.**
+23. **Lo scarico nei mari o il sotterramento abusivo di scorie plastiche o tossiche o radioattive dovrà essere prevenuto, o castigato duramente se già avvenuto.**
     
     È INCONCEPIBILE e INAMMISSIBILE che **i residui radioattivi del disastro di Fukushima** vengano lasciati filtrare nel sottosuolo per l'inadeguatezza dei contenitori, o addirittura vengano attivamente e volontariamente gettati nell'Oceano Pacifico, che starebbe interamente morendo secondo le testimonianze di sopravvenuta scarsezza di forme di vita e presenza di indiviui con tumori enormi (oltre a incremento drastico della radioattività sui litorali ad est e ad ovest del Pacifico, rilevabile anche in volo sopra il Pacifico, l'ovest e il *Midwest* degli USA, e oltre all'incremento drastico di neonati con malformazioni).
 
-23. Le **specie in via di estinzione** dovranno essere protette con più decisione e **la caccia camuffata da ricerca scientifica dovrà essere impedita**.
+24. Le **specie in via di estinzione** dovranno essere protette con più decisione e **la caccia camuffata da ricerca scientifica dovrà essere impedita**.
 
-24. **L'ACQUA E L'ARIA** SONO PATRIMONIO DELL'UMANITÀ E DIRITTI UMANI BASILARI.
+25. **L'ACQUA E L'ARIA** SONO PATRIMONIO DELL'UMANITÀ E DIRITTI UMANI BASILARI.
     
     NO categorico ai CEO che sostengono che l'acqua non è un diritto umano, per poi imbottigliare alla chetichella e vendere migliaia o milioni di litri all'anno di acqua attinta da sorgenti pubbliche, con regalie di pochi dollari all'anno alle istituzioni pubbliche (e presumibili mance ai politici corrotti di turno).
 
-25. PROMUOVEREMO ANALISI E DIBATTITO SULL'OPPORTUNITÀ DI ELIMINARE IL **SIGNORAGGIO BANCARIO** E RECUPERARE IL CONTROLLO DELL'EMISSIONE DI MONETA, tenendo presente quanto segue:
+26. PROMUOVEREMO ANALISI E DIBATTITO SULL'OPPORTUNITÀ DI ELIMINARE IL **SIGNORAGGIO BANCARIO** E RECUPERARE IL CONTROLLO DELL'EMISSIONE DI MONETA, tenendo presente quanto segue:
     
     1. I presidenti USA che se lo proponevano hanno ricevuto uno o più proiettili.
     
@@ -266,10 +276,10 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     4. **Svalutare** è una maniera con cui i governi mettono **le mani nelle tasche dei Cittadini** senza passare per una discussione in Parlamento.
 
-26. Ci rendiamo conto che il **capitalismo** non è un male in se stesso, e nemmeno il **liberismo**, è invece **un male che *lo Stato* si lasci corrompere da capitalisti senza scrupoli**, rendendo possibile un'ingegnerizzazione economica volta a impoverire le masse, demolendo progressivamente i diritti da loro faticosamente acquisiti durante decenni e disintegrando il potere d'acquisto dei loro guadagni, dando luogo a quanto ora viene (impropriamente) identificato come **"neoliberismo"**.
+27. Ci rendiamo conto che il **capitalismo** non è un male in se stesso, e nemmeno il **liberismo**, è invece **un male che *lo Stato* si lasci corrompere da capitalisti senza scrupoli**, rendendo possibile un'ingegnerizzazione economica volta a impoverire le masse, demolendo progressivamente i diritti da loro faticosamente acquisiti durante decenni e disintegrando il potere d'acquisto dei loro guadagni, dando luogo a quanto ora viene (impropriamente) identificato come **"neoliberismo"**.
     Assistiamo quindi alla **privatizzazione dei guadagni** e alla **socializzazione delle perdite**.
 
-27. Analogamente, assistiamo da sempre - e nessuno lo pone in discussione - alla **socializzazione della spesa militare** e alla **privatizzazione dei bottini**. Un caso evidente per tutti fu la **Libia**, ai danni della quale ci fu **una vera e propria RAPINA A MANO ARMATA**. (Ci sorprendiamo dei mezzi impressionanti di cui dispone il *NWO*, ma non facciamo niente per chiedere che nessuno risponda di niente di fronte alla giustizia.)
+28. Analogamente, assistiamo da sempre - e nessuno lo pone in discussione - alla **socializzazione della spesa militare** e alla **privatizzazione dei bottini**. Un caso evidente per tutti fu la **Libia**, ai danni della quale ci fu **una vera e propria RAPINA A MANO ARMATA**. (Ci sorprendiamo dei mezzi impressionanti di cui dispone il *NWO*, ma non facciamo niente per chiedere che nessuno risponda di niente di fronte alla giustizia.)
     
     Siamo consapevoli che **anche se andassimo *in questo stesso momento* alla maggioranza assoluta non potremmo immediatamente ridurre la spesa militare**, ci vorrebbe un tempo di transizione, di vigilanza, di osservazione degli altri Paesi, prima di poter finalmente celebrare il raggiungimento di una situazione di pace generalizzata nel pianeta.
     Ma vogliamo qui citare alcune parole da un libro che sembra essere diventato una fonte di ispirazione per coloro che hanno fabbricato il presente distopico in cui viviamo:
@@ -277,11 +287,11 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     <a name="progr_Orwell_1984"></a>
     Dal romanzo <a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four" target="_blank">**“Nineteen Eighty-Four”**</a>, [già menzionato](#princ_Orwell_1984), spesso pubblicato come “1984”, di George Orwell:
     
-    > "[...] *For if leisure and security were enjoyed by all alike, the great mass of human beings who are normally stupefied by poverty would become literate and would learn to think for themselves; and when once they had done this, they would sooner or later realise that the privileged minority had no function, and they would sweep it away. In the long run, a hierarchical society was only possible on a basis of poverty and ignorance. […] Goods must be produced, but they must not be distributed. And in practice the only way of achieving this was by continuous warfare.* [...]"
+    > [...] *For if leisure and security were enjoyed by all alike, the great mass of human beings who are normally stupefied by poverty would become literate and would learn to think for themselves; and when once they had done this, they would sooner or later realise that the privileged minority had no function, and they would sweep it away. In the long run, a hierarchical society was only possible on a basis of poverty and ignorance. […] Goods must be produced, but they must not be distributed. And in practice the only way of achieving this was by continuous warfare.* [...]
     
     Traduzione all'italiano:
     
-    > "[...] *Perché se ozio e tranquillità fossero accessibili ugualmente a tutti, la grande massa di esseri umani che sono normalmente inebetiti dalla povertà diventerebbe istruita e imparerebbe a pensare autonomamente; e una volta compiuto questo passo, presto o tardi si renderebbero conto che la minoranza privilegiata non ha alcuna funzione, e la spazzerebbero via. A lungo termine, una società gerarchica era possibile soltanto su una base di povertà e ignoranza. [...] I beni devono essere prodotti, ma non devono essere distribuiti. E in pratica l'unica maniera di ottenere ciò era tramite guerra continua.* [...]"
+    > [...] *Perché se ozio e tranquillità fossero accessibili ugualmente a tutti, la grande massa di esseri umani che sono normalmente inebetiti dalla povertà diventerebbe istruita e imparerebbe a pensare autonomamente; e una volta compiuto questo passo, presto o tardi si renderebbero conto che la minoranza privilegiata non ha alcuna funzione, e la spazzerebbero via. A lungo termine, una società gerarchica era possibile soltanto su una base di povertà e ignoranza. [...] I beni devono essere prodotti, ma non devono essere distribuiti. E in pratica l'unica maniera di ottenere ciò era tramite guerra continua.* [...]
     
     Vediamo ora, di fronte a questa pandemia, che una porzione *enorme* (50%?) della popolazione della Nazione che più spende in armamenti non ha una copertura sanitaria.
     
@@ -289,7 +299,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     Traduzione all'italiano:
     
-    > "*Un drone che costa 28 milioni di dollari e la cui ora di volo costa 3624 dollari, spara un missile da 70000 dollari per ammazzare gente in Medio Oriente che vive con meno di 1 dollaro al giorno.*
+    > *Un drone che costa 28 milioni di dollari e la cui ora di volo costa 3624 dollari, spara un missile da 70000 dollari per ammazzare gente in Medio Oriente che vive con meno di 1 dollaro al giorno.*
     > 
     > *Viviamo in un Paese in cui se vuoi andare a bombardare qualcuno c'è incredibilmente poca discussione su quanto potrebbe costare. Ma poi ti ritrovi a discutere se possiamo o non possiamo assistere gente che sta soffrendo, e allora improvvisamente diventiamo molto consapevoli dei costi.*
     > 
@@ -297,27 +307,28 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     > 
     > (*HUMAN REFORM POLITICS*, una forza per un cambio positivo)
 
-28. Proponiamo **MAGGIORE SIMMETRIA nella relazione Cittadino-Stato**.
+29. Proponiamo **MAGGIORE SIMMETRIA nella relazione Cittadino-Stato**.
     
     È inammissibile, per esempio, che ci siano imprese che CHIUDONO perché il debitore insolvente è lo Stato, o che ci siano espropri che non vengono rimborsati durante decine di anni, quando lo stesso Stato impone una penale il giorno dopo una scadenza.
     <a name="responsabilita_diretta"></a>
     Politici e funzionari saranno chiamati a rispondere:
     
-    > "*ART. 28 DELLA COSTITUZIONE REPUBBLICA ITALIANA:*
+    > *ART. 28 DELLA COSTITUZIONE REPUBBLICA ITALIANA:*
     > 
-    > *I funzionari e i dipendenti dello Stato e degli enti pubblici sono direttamente responsabili, secondo le leggi penali, civili e amministrative, degli atti compiuti in violazione di diritti. In tali casi la responsabilità civile si estende allo Stato e agli enti pubblici.*"
+    > *I funzionari e i dipendenti dello Stato e degli enti pubblici sono direttamente responsabili, secondo le leggi penali, civili e amministrative, degli atti compiuti in violazione di diritti. In tali casi la responsabilità civile si estende allo Stato e agli enti pubblici.*
 
 ## Relazioni tra le nazioni: signori guerrafondai, <u>ci avete *stufato*</u>, vogliamo PACE!
 
-28. CREDIAMO nella **COLLABORAZIONE MUTUAMENTE VANTAGGIOSA**  ("win-win") tra i governi e tra i Popoli di tutte le Nazioni.
+30. CREDIAMO nella **COLLABORAZIONE MUTUAMENTE VANTAGGIOSA**  ("win-win") tra i governi e tra i Popoli di tutte le Nazioni.
     
     + CONDANNIAMO OGNI AFFERMAZIONE DELLA VOLONTÀ DI DOMINIO E CONTROLLO DA PARTE DI QUALSIVOGLIA NAZIONE SULLE ALTRE.
     
     + RIGETTIAMO *OGNI* IDEOLOGIA SUPREMAZISTA, INCLUSE QUELLE CHE PRETENDONO DI ESSERE LEGITTIMATE DAI TESTI DI UNA RELIGIONE.
 
-29. Auspichiamo **dialogo diretto e collaborazione tra i giuristi, gli economisti e in generale gli intellettuali che *da vari paesi* ci stanno da tempo mettendo in allerta, e che istintivamente si sono mobilizzati in difesa delle genti** contro il mostro a più teste che le ha progressivamente impoverite in questi anni. Arriverà [il momento](#progr_economisti_intellettuali) in cui potremo dar loro un peso reale nella gestione della cosa pubblica.
+31. <a name="princ_economisti_intellettuali"></a>
+    Auspichiamo **dialogo diretto e collaborazione tra i giuristi, gli economisti e in generale gli intellettuali che *da vari paesi* ci stanno da tempo mettendo in allerta, e che istintivamente si sono mobilizzati in difesa delle genti** contro il mostro a più teste che le ha progressivamente impoverite in questi anni. Arriverà [il momento](#progr_economisti_intellettuali) in cui potremo dar loro un peso reale nella gestione della cosa pubblica.
 
-30. Proponiamo a tutti i Popoli della Terra di <u>**PUNTARE IL DITO SUI PREDATORI**</u>, i centri di potere e i governi che stanno agendo con estrema ferocia a danno di intere popolazioni innocenti, non solo approfittando di difficoltà che possano stare attraversando i loro paesi, ma *provocando* tali difficoltà, con **fredda e ostinata ingegnerizzazione delle disgrazie altrui**.
+32. Proponiamo a tutti i Popoli della Terra di <u>**PUNTARE IL DITO SUI PREDATORI**</u>, i centri di potere e i governi che stanno agendo con estrema ferocia a danno di intere popolazioni innocenti, non solo approfittando di difficoltà che possano stare attraversando i loro paesi, ma *provocando* tali difficoltà, con **fredda e ostinata ingegnerizzazione delle disgrazie altrui**.
     
     **Questi sciacalli dispongono di risorse ingentissime, non possono addurre come giustificazione il lemma *mors tua vita mea*.**
     
@@ -325,7 +336,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     Un altro documentario da prendere in esame, in inglese: [**All Wars Are Bankers' Wars**](https://www.youtube.com/watch?v=5hfEBupAeo4&feature=share)
 
-31. <a name="princ_inf"></a><a name="princ_guerra_odioPopoli"></a>
+33. <a name="princ_inf"></a><a name="princ_guerra_odioPopoli"></a>
     VOGLIAMO TUTELARE L'ESISTENZA DI UN'**INFORMAZIONE "MULTIPOLARE"**. 
     
     Vigileremo e **promuoveremo contro-informazione** ogni volta che riconosceremo l'esistenza di campagne di diffamazione verso qualunque Nazione o le sue personalità di spicco, campagne volte a fomentare l'odio tra i Popoli e giustificare guerre che ai Popoli di certo non giovano, mentre impediscono di focalizzare l'attenzione sul **vero nemico**, **coloro che realmente provocano tali guerre**.
@@ -350,7 +361,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     [Torneremo a parlare di informazione](#progr_inf) nel corso del 2º obiettivo.
 
-32. RICORDIAMO che ogni Paese è tenuto a rispettare le leggi internazionali e ne rende conto alle altre Nazioni in seno all'ONU.
+34. RICORDIAMO che ogni Paese è tenuto a rispettare le leggi internazionali e ne rende conto alle altre Nazioni in seno all'ONU.
     
     Nessun Paese è legalmente tenuto a rendere conto alla Casa Bianca, purtroppo da tempo "infettata" dall'enorme virus che viene descritto da JFK nel discorso già citato nella premessa. I primi a farne le spese sono gli stessi statunitensi.
     
@@ -376,15 +387,17 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     - Milosevic fu ASSOLTO _post mortem_ dalla Corte Internazionale di Giustizia.
 
-33. **La NATO è oggi un'organizzazione terrorista.**
+35. **La NATO è oggi un'organizzazione terrorista.**
     Abbiamo visto lo scempio commesso nei Balcani a danni di popolazioni e strutture civili.
     È URGENTISSIMA UNA **RIFORMA** che restituisca ai singoli Parlamenti il potere di prendere decisioni sull'attuare delle rispettive Forze Armate, oggi sottomesse alla catena di comando NATO, **O** SAREMO COSTRETTI A USCIRE dalla NATO e a passare ad uno status di **PAESE NEUTRALE**, secondo l'esempio della Svizzera.
 
-34. **La presenza di basi militari della NATO e degli USA non costituisce una fonte di sicurezza, ben al contrario.** Coloro che sono al comando ci considerano come **bersagli sacrificabili di un'eventuale ritorsione nucleare**, alla stregua di navi militari e sommergibili, mentre loro fanno *bullying* contro altre potenze nucleari, paesi pacifici che non si prestano a piegarsi all'imposizione di un mondo unipolare, all'imposizione del predominio di cui apertamente si parla nelle dottrine pubblicate sul web da pochi scellerati. Non abbiano la **sfacciataggine** di venirci a **chiedere più soldi** di quelli che già sta risucchiando il poderoso virus del *loro* complesso militare industriale! ANZI, **NOI dovremmo chiedergli di pagare affitti ESORBITANTI**, fino a quando non ce li potremo togliere di dosso. **Se ci colpisse anche solo *una* testata atomica, la "ricaduta" negativa in termini economici ed umani supererebbe di gran lunga tutto il "beneficio" di questi 70 anni di occupazione** ("beneficio" tra virgolette perché **l'inquinamento chimico ed elettromagnetico** e **l'aumento di casi di tumori** ed altre malattie intorno a certe installazioni non sono certo catalogabili come benefici).
+36. **La presenza di basi militari della NATO e degli USA non costituisce una fonte di sicurezza, ben al contrario.** Coloro che sono al comando ci considerano come **bersagli sacrificabili di un'eventuale ritorsione nucleare**, alla stregua di navi militari e sommergibili, mentre loro fanno *bullying* contro altre potenze nucleari, paesi pacifici che non si prestano a piegarsi all'imposizione di un mondo unipolare, all'imposizione del predominio di cui apertamente si parla nelle dottrine pubblicate sul web da pochi scellerati. Non abbiano la **sfacciataggine** di venirci a **chiedere più soldi** di quelli che già sta risucchiando il poderoso virus del *loro* complesso militare industriale! ANZI, **NOI dovremmo chiedergli di pagare affitti ESORBITANTI**, fino a quando non ce li potremo togliere di dosso. **Se ci colpisse anche solo *una* testata atomica, la "ricaduta" negativa in termini economici ed umani supererebbe di gran lunga tutto il "beneficio" di questi 70 anni di occupazione** ("beneficio" tra virgolette perché **l'inquinamento chimico ed elettromagnetico** e **l'aumento di casi di tumori** ed altre malattie intorno a certe installazioni non sono certo catalogabili come benefici).
 
-35. <u>**ESIGIAMO**</u> che si torni a **rispettare le parole della nostra Costituzione** quando dice:
+37. <u>**ESIGIAMO**</u> che si tornino a rispettare queste parole:
     
-    > "*L’Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali*".
+    > *ART. 11 DELLA COSTITUZIONE REPUBBLICA ITALIANA:*
+    > 
+    > *L’Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali.*
     
     Ci rendiamo conto che **un simile cambio di posizionamento geo-strategico non avverrebbe senza conseguenze**, prima fra tutte il passaggio dallo status di vassallo degli USA a quello di area non controllabile, cioè di Paese, secondo le dottrine da loro stessi pubblicati, da affondare nel caos permanente, se non addirittura da catalogare come nemico o collaboratore di nemici.
     E sappiamo quanto vendicative siano le personalità in controllo del "Deep State". **Un tale governo sarebbe immediatamente *demonizzato***, con insinuazioni più tossiche del veleno di un serpente a sonagli (assolutamente *indignante* l'accusa alla Russia di aver inviato all'Italia mascherine infettate, che è quanto farebbero piuttosto le menti perverse del *NWO*).
@@ -392,7 +405,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     <a name="nuovaInvestigazione9_11_bis"></a>
     Ma speriamo che anche un numero sufficiente di Cittadini USA si risveglieranno e che potranno eliminare il voto elettronico sistematicamente truccato e installare una democrazia, dando il via tra l'altro ad una nuova investigazione sul **9-11** &ndash; [ne abbiamo già parlato](#nuovaInvestigazione9_11) &ndash; in modo che siano definitivamente identificati e puniti **i veri colpevoli** e sia chiaro che non sempre chi parla di patriottismo è un patriota.
 
-36. CONDANNIAMO CON VEEMENZA **OGNI SFORZO VOLTO A POTENZIARE VIRUS ESISTENTI O A CREARNE DI NUOVI**.
+38. CONDANNIAMO CON VEEMENZA **OGNI SFORZO VOLTO A POTENZIARE VIRUS ESISTENTI O A CREARNE DI NUOVI**.
     L'UMANITÀ DEVE <u>***CATEGORICAMENTE PROIBIRE***</u> **OGNI ATTIVITÀ IN TAL SENSO**, EFFETTUATA SOTTO QUALUNQUE PRETESTO, DA PARTE DI SOGGETTI PRIVATI O STATUALI, IMPONENDO PER I TRASGRESSORI **PENE PESANTI QUANTO LO È LA MINACCIA CHE LE LORO ATTIVITÀ COSTITUISCONO** PER L'UMANITÀ.
     
     IN CASO DI "FUGHE" ACCIDENTALI O MENO, I PROPRIETARI DEI LABORATORI CHE COMPIANO TALI ATTIVITÀ DEVONO ESSERE CHIAMATI A RISPONDERE SOLO PER IL FATTO DI STAR COMIPENDO TALI ATTIVITÀ, ANCHE IN MANCANZA DI PROVE CHE LI COLLEGHINO DIRETTAMENTE ALL'ACCADUTO.
@@ -413,15 +426,16 @@ Fin d'ora, possiamo pensare ai seguenti punti.
    
    **Una "purga"? Ovvio! Urgente e capillare! Ora regna l'impunità totale.**
 
-> "*ART. 28 DELLA COSTITUZIONE REPUBBLICA ITALIANA [evidenziamo noi tre parole]:*
+> *ART. 28 DELLA COSTITUZIONE REPUBBLICA ITALIANA [evidenziamo noi tre parole]:*
 > 
-> *I funzionari e i dipendenti dello Stato e degli enti pubblici sono <u>**direttamente**</u> responsabili, secondo le leggi penali, civili e amministrative, degli atti compiuti in violazione di diritti. In tali casi la responsabilità civile **si estende** allo Stato e agli enti pubblici.*"
+> *I funzionari e i dipendenti dello Stato e degli enti pubblici sono <u>**direttamente**</u> responsabili, secondo le leggi penali, civili e amministrative, degli atti compiuti in violazione di diritti. In tali casi la responsabilità civile **si estende** allo Stato e agli enti pubblici.*
 
 2. Faremo **pressione** per arginare i poteri dell'esecutivo, o per meglio dire, **per arginare i poteri discrezionali del primo ministro**, almeno finché non saremo in grado di affrontare il 3º obiettivo.
    
    **Veramente c'è bisogno di arginare i poteri dell'esecutivo?**
    
-   **Un esempio flagrante:** che necessità e urgenza c'era il 13 marzo in piena crisi Covid-19 che il *premier* italiano Conte desse via libera **PER DECRETO** all'installazione di antenne **5G** in Italia? Pochi giorni dopo lo stesso Conte sospendeva i lavori agricoli... ma non l'installazione del 5G. Anche gli installatori possono ammalarsi contagiare altre persone.
+   <a name="progr_13_marzo"></a>
+   **Un esempio flagrante:** che necessità e urgenza c'era il 13 marzo (decreto [già menzionato](#princ_13_marzo)) in piena crisi Covid-19 che il *premier* italiano Conte desse via libera **PER DECRETO** all'installazione di antenne **5G** in Italia? Pochi giorni dopo lo stesso Conte sospendeva i lavori agricoli... ma non l'installazione del 5G. Anche gli installatori possono ammalarsi contagiare altre persone.
    
    Vale la pena di ricordare che **non c'è un solo studio sulle implicazioni del 5G per la salute**, come evidenziava negli **USA** il **Sen. Blumenthal** in questo video:
    
@@ -449,8 +463,20 @@ Fin d'ora, possiamo pensare ai seguenti punti.
    Nel 2016, Jill Stein del *Green Party* e gli altri candidati indipendenti ebbero accesso ad una frazione *infinitesimale* dello spazio mediatico di cui disposero Donald Trump e Hillary Clinton.
 
 4. <a name="progr_economisti_intellettuali"></a>
-   Vorremo finalmente dare un peso reale ai giuristi, agli economisti e in generale agli intellettuali che abbiamo [già menzionato](#princ_economisti_intellettuali) nei principi di base, quelli che ci stanno da tempo mettendo in allerta, e che istintivamente si sono mobilizzati in difesa delle genti contro il mostro a più teste che le ha progressivamente impoverite in questi anni.
+   Vorremo finalmente dare u**n peso reale ai giuristi, agli economisti e in generale agli intellettuali** che abbiamo [già menzionato](#princ_economisti_intellettuali) nei principi di base, quelli **che ci stanno da tempo mettendo in allerta**, e che si sono mobilizzati in difesa delle genti contro il mostro a più teste che le ha progressivamente impoverite in questi anni.
    Abbiamo alcuni nomi italiani in mente. Speriamo che altri nomi verranno da altri Paesi.
+
+5. Proporremo l'istituzione di una CONNESSIONE DIRETTA tra i cittadini e la Corte Costituzionale, per cui **QUALUNQUE VIOLAZIONE DELLA COSTITUZIONE da parte di chicchessia possa essere valutata e BLOCCATA SUL NASCERE**.
+   Un esempio: il "Ministero della Verità" recentemente formato dall'attuale governo (aggiungiamo questo articolo l'8 aprile 2020) per attaccare la libertà di espressione sulle reti sociali. Le forze oggi in carica dimenticano che sono potute andare al governo grazie alle reti sociali. Il neonato "Ministero della Verità" &ndash; lo chiamiamo così perché di questo si tratta &ndash; è ben lungi dal rappresentare una *par condicio*. Suscita perplessità, per non dire ilarità, il fatto che sia composto anche da membri di organi di stampa che *si distinsero* nella pubblicazione di *fake news*.
+
+> *ART. 21 DELLA COSTITUZIONE REPUBBLICA ITALIANA:*
+> 
+> *Tutti hanno diritto di manifestare liberamente il proprio pensiero con la
+> parola, lo scritto e ogni altro mezzo di diffusione.
+> La stampa non può essere soggetta ad autorizzazioni o censure.*
+
+6. Proporremo al contrario di **PROIBIRE CATEGORICAMENTE CHE I GOVERNI SI SERVANO DI *FAKE NEWS***, le cosiddette ***PSY-OPS***, "operazioni psicologiche", incluse quelle condotte da reparti specializzati di certe forze armate, sotto qualunque pretesto, anche quello del "supporto psicologico", sia che vengano rivolte ai connazionali sia che vengano dirette ad altri Popoli.
+   Aborriamo e condanniamo qualunque altro mezzo di **manipolazione occulta delle masse**, per esempio gli **attentati sotto falsa bandiera**, ovviamente già illegali, da parte di qualunque governo ai danni dei propri cittadini o dei cittadini di altre Nazioni.
 
 ---
 
