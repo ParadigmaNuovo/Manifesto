@@ -6,7 +6,7 @@ Italian language only for now, but we plan to translate it to English and possib
 
 &nbsp;
 
-Bozza ver. 01.044 – 2020-04-08 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
+Bozza ver. 01.045 – 2020-04-08 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
 
 &nbsp;
 
@@ -32,9 +32,29 @@ Saranno benvenuti **giuristi**, **costituzionalisti**, **economisti**, **filosof
 
 Saranno anche benvenuti **traduttori** e **artisti**.
 
-Potremmo valutare l'aggiunta di note in calce con ulteriori riferimenti precisi per vari argomenti di cui fa menzione questo documento. Non l'abbiamo per ora considerato prioritario con rispetto all'avere una prima stesura e a lavorare per diffonderla senza ulteriori indugi. In quest'ambito non pretendiamo di dimostrare niente, **stiamo *constatando*, preoccupati, e proponendo una bandiera fatta di ideali in cui crediamo**.
+Potremmo valutare l'aggiunta di note in calce con *ulteriori* riferimenti in merito a vari argomenti toccati da questo documento. Non l'abbiamo per ora considerato prioritario con rispetto all'avere una prima stesura e a lavorare per diffonderla senza ulteriori indugi. In quest'ambito non pretendiamo di dimostrare niente, **stiamo *constatando*, preoccupati, e proponendo una bandiera fatta di ideali in cui crediamo**.
 
-## 
+&nbsp;
+
+**PER CHI VOLESSE DARE SUGGERIMENTI: PER FAVORE MANTENETE IL FORMATO MARKDOWN, SCARICATEVI DIRETTAMENTE IL FILE README.md**, a meno che non si tratti di modifiche molto puntuali, molto piccole **(*)**
+
+Potete suggerire cambiamenti in vari modi:
+
++ potete crearvi un account gratuito in GitHub, con lo pseudonimo che vorrete, onde poter **aprire *issues*** nel "repository" del manifesto, è facilissimo e comodissimo per noi da gestire, un *issue* per ogni punto che proopnete di modificare o aggiungere o rimuovere
+
++ chi fosse invece più familiare con GitHub, può spingersi ad utilizzare il flusso di lavoro tipico in GitHub per modifiche sostanziali, che sfocia tipicamente in una ***pull request***, ma non è essenziale e non lo esigiamo in nessun modo, gli *issues* vanno benissimo
+
++ al limite, va bene anche **una semplice segnalazione via mail** (in effetti, misura *anti-spam*, l'indirizzo è accessibile in *GitHub* solo *dopo* aver effettuato il login), sapendo che inviare mail espone a *metadata recollection*, ma *noi* stiamo comunque dalla parte della legalità e della Costituzione (potrete comunque usare *GPG* per segnalarci punti deboli del manifesto)
+
++ potete scrivere **un commento alla** [**presentazione in Diaspora**](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653)
+
+**(*)** Chi ha scritto fino ad ora il manifesto l'ha fatto sottraendo già molte ore ad altri compiti, alcuni svolti, similmente, *ad honorem*, ma non meno importanti, altri invece parte di obblighi di lavoro etcl, NON VORREMMO SOTTRARRE TEMPO AD ULTERIORI SVILUPPI - TRADUZIONE, DIFFUSIONE, ETC. - PER RIFARE TUTTO IL FORMATO dopo che qualcuno l'ha PERSO facendosi un copia&incolla dalla pagina nel browser.
+
+**GRAZIE**
+
+&nbsp;
+
+---
 
 ## PREMESSA
 
