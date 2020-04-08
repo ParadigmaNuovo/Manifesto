@@ -6,7 +6,7 @@ Italian language only for now, but we plan to translate it to English and possib
 
 &nbsp;
 
-Bozza ver. 01.043 – 2020-04-08 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
+Bozza ver. 01.044 – 2020-04-08 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
 
 &nbsp;
 
@@ -193,10 +193,10 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     
     > *ART. 15 DELLA COSTITUZIONE DELLA REPUBBLICA ITALIANA:*
     > 
-    > *La libertà e la segretezza della corrispondenza e di ogni altra forma di comunicazione sono inviolabili.*
+    > *La libertà e la segretezza della corrispondenza e di ogni altra forma di comunicazione sono inviolabili.*  
     > *La loro limitazione può avvenire soltanto per atto motivato dell’autorità giudiziaria con le garanzie stabilite dalla legge.*
     
-    Rimandiamo al punto precedente.
+    Rimandiamo al punto precedente, nessuna legge che regoli questa materia doveva essere approvata in piena pandemia, è evidente che questo contribuisce a creare una *frattura* tra la casta politica e la cittadinanza.
     
     Risposta: **"Non ho niente da nascondere"**. Bravo, neanche noi, ma certi giornalisti devono invece proteggere *la vita* di fonti che denunciano crimini commessi con la partecipazione degli stessi governanti. Dovremmo crittare sempre tutti quanti, non c'è altro modo.  
     
