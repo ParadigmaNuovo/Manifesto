@@ -6,7 +6,7 @@ Italian language only for now, but we plan to translate it to English and possib
 
 &nbsp;
 
-Bozza ver. 01.045 – 2020-04-08 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
+Bozza ver. 01.046 – 2020-04-08 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
 
 &nbsp;
 
@@ -40,7 +40,7 @@ Potremmo valutare l'aggiunta di note in calce con *ulteriori* riferimenti in mer
 
 Potete suggerire cambiamenti in vari modi:
 
-+ potete crearvi un account gratuito in GitHub, con lo pseudonimo che vorrete, onde poter **aprire *issues*** nel "repository" del manifesto, è facilissimo e comodissimo per noi da gestire, un *issue* per ogni punto che proopnete di modificare o aggiungere o rimuovere
++ potete crearvi un account gratuito in GitHub, con lo pseudonimo che vorrete, onde poter **aprire *issues*** nel "repository" del manifesto, è facilissimo e comodissimo per noi da gestire, un *issue* per ogni punto che proponete di modificare o aggiungere o rimuovere
 
 + chi fosse invece più familiare con GitHub, può spingersi ad utilizzare il flusso di lavoro tipico in GitHub per modifiche sostanziali, che sfocia tipicamente in una ***pull request***, ma non è essenziale e non lo esigiamo in nessun modo, gli *issues* vanno benissimo
 
