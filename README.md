@@ -21,7 +21,7 @@ Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
   https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653
   
   Non abbiamo per ora un nostro sito web con base dati, onde proporre una raccolta di firme, una sorta di petizione.  
-  **Commentare quella pubblicazione in Diaspora è al momento un modo per segnalarci la vostra approvazoine.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
+  **Commentare [quella pubblicazione](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653) in Diaspora è al momento un modo per segnalarci la vostra approvazoine.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
   **"Approvo il manifesto *Nuovo Paradigma 1.0* (bozza ver. nn.nnn)"**.  
   La versione che vi è piaciuta potrete anche copiarvela ovviamente (così come qualunque altra).  
   **Se avete una "facciata" nel web, potrete segnalare nella stessa il manifesto.**  
