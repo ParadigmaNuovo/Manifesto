@@ -1,7 +1,7 @@
 **Italiano**  
 
 Per contribuire, potrete seguire le procedure standard di GitHub, ben documentate in numerose "lezioni" sul web.
-In linea di principio, vorremmo mantenere il linguaggio il più semplice e "pulito" possibile, perché sia facile una lettura rapida da parte di chiunque. Non cerchiamo specificamente linguaggio accademico altisonante o frasi strutturate in modo complesso. Forse *dovremo* servircene, ma in linea di massima cercheremo di evitare.
+In linea di principio, vorremmo mantenere il linguaggio il più semplice possibile, perché sia facile una lettura rapida da parte di chiunque. Non cerchiamo specificamente linguaggio accademico altisonante o frasi strutturate in modo complesso. Forse *dovremo* servircene, ma in linea di massima cercheremo di evitarlo.
 
 Come indicano le "lezioni" sul web, l'ideale sarebbe mantenere ogni *issue* e ogni *pull request* limitata a un aspetto specifico del lavoro in corso. Questo aiuta a gestire gli "issues" con più chiarezza, e rende possibile apportare immediatamente *alcune* delle modifiche da voi proposte e chiudere i relativi "issues", mentre si va discutendo ed elaborando ulteriormente su *altre*.
 
