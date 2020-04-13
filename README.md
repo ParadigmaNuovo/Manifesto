@@ -23,7 +23,7 @@ Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
   Non abbiamo per ora un nostro sito web con base dati, onde proporre una raccolta di firme, una sorta di petizione.  
   **Commentare quella pubblicazione in Diaspora è al momento un modo per segnalarci la vostra approvazoine.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
   **"Approvo il manifesto *Nuovo Paradigma 1.0* (bozza ver. nn.nnn)"**.  
-  La versione che vi è piaciuta potrete anche copiarvela.  
+  La versione che vi è piaciuta potrete anche copiarvela ovviamente (così come qualunque altra).  
   **Se avete una "facciata" nel web, potrete segnalare nella stessa il manifesto.**  
   Spendere 5 o 10 minuti del vostro tempo per aprire un acount gratuito su Diaspora sarà l'occasione di uscire un po' dalle grinfie di Facebook, con la sua censura e la sua connivenza con *Big Data*.
 
