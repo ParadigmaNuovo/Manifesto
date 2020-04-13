@@ -6,7 +6,7 @@ Italian language only for now, but we plan to translate it to English and possib
 
 &nbsp;
 
-Bozza ver. 01.046 – 2020-04-08 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
+Bozza ver. 01.047 – 2020-04-12 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
 
 &nbsp;
 
@@ -19,12 +19,19 @@ Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
 - Link diretto alla breve presentazione di questo manifesto:
   
   https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653
+  
+  Non abbiamo per ora un nostro sito web con base dati, onde proporre una raccolta di firme, una sorta di petizione.  
+  **Commentare quella pubblicazione in Diaspora è al momento un modo per segnalarci la vostra approvazoine.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
+  **"Approvo il manifesto *Nuovo Paradigma 1.0, bozza ver. ...*".**  
+  La versione che vi è piaciuta potrete anche copiarvela.  
+  **Se avete una "facciata" nel web, potrete segnalare nella stessa il manifesto.**  
+  Spendere 5 o 10 minuti del vostro tempo per aprire un acount gratuito su Diaspora sarà l'occasione di uscire un po' dalle grinfie di Facebook, con la sua censura e la sua connivenza con *Big Data*.
 
 &nbsp;
 
-Questo sarà un lavoro in perenne trasformazione, anche se vorremo marcare il raggiungimento di certe tappe di sviluppo del pensiero e dell'azione.
+Almeno durante un primo periodo, questo sarà un lavoro in evoluzione, anche se vorremo marcare il raggiungimento di certe tappe di sviluppo del pensiero e dell'azione (potremmo valutare se effettuare delle *release*).
 
-Se avete delle idee con cui contribuire, fatevi avanti. 
+**SE AVETE DELLE IDEE CON CUI CONTRIBUIRE, FATEVI AVANTI.**
 
 Abbiamo per ora una sola regola: **niente aggressioni**, **niente stroncature di nessun apporto**. Solo così la creatività di tutti potrà dare i frutti migliori.
 
