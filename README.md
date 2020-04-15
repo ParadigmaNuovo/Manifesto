@@ -20,44 +20,45 @@ Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
   
   https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653
   
-  Non abbiamo per ora un nostro sito web con base dati, onde proporre una raccolta di firme, una sorta di petizione.  
-  **Commentare [quella pubblicazione](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653) in Diaspora è al momento un modo per segnalarci la vostra approvazoine.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
+  Ancora non abbiamo predisposto un nostro sito web con base dati, dove proporre una raccolta di firme o una petizione. 
+  **Commentare [quella pubblicazione](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653) in Diaspora è al momento un modo per segnalarci la vostra approvazione.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
   **"Approvo il manifesto *Nuovo Paradigma 1.0* (bozza ver. nn.nnn)"**.  
-  La versione che vi è piaciuta potrete anche copiarvela ovviamente (così come qualunque altra).  
-  **Se avete una "facciata" nel web, potrete segnalare nella stessa il manifesto.**  
-  Spendere 5 o 10 minuti del vostro tempo per aprire un acount gratuito su Diaspora sarà l'occasione di uscire un po' dalle grinfie di Facebook, con la sua censura e la sua connivenza con *Big Data*.
+  La versione che più vi è piaciuta potrete anche copiarla (e lo stesso dicasi per qualunque altra).  
+  **Se disponete di un *account* o un *nick* nelle reti sociali o in Telegram, o di una "facciata" nel web &ndash; un vostro *blog* o un vero e proprio sito web &ndash; potrete segnalare l'esitenza del manifesto ai vostri contatti e seguitori.**  
+  Vi ringrazieremo se spenderete 5-10 minuti del vostro tempo per aprire un account gratuito su Diaspora, sarà anche un'occasione per uscire un po' dalle grinfie di *Facebook*, con la sua censura e la sua connivenza con *Big Data*.
 
 &nbsp;
 
-Almeno durante un primo periodo, questo sarà un lavoro in evoluzione, anche se vorremo marcare il raggiungimento di certe tappe di sviluppo del pensiero e dell'azione (potremmo valutare se effettuare delle *release*).
+Almeno per un primo periodo questo manifesto è da cosiderare come un lavoro in evoluzione, anche se vorremmo marcare il raggiungimento di certe tappe di sviluppo del pensiero e dell'azione entro breve tempo (potremmo valutare se effettuare delle *release*).
 
 **SE AVETE DELLE IDEE CON CUI CONTRIBUIRE, FATEVI AVANTI.**
 
-Abbiamo per ora una sola regola: **niente aggressioni**, **niente stroncature di nessun apporto**. Solo così la creatività di tutti potrà dare i frutti migliori.
+Abbiamo per ora una sola regola: **atteggiamento positivo e produttivo**.
+**Niente aggressioni, nessuna proposta verrà schernita e non ci sarà nessun attacco ad *hominem***. Solo così la creatività di tutti potrà dare i frutti migliori.
 
-Saranno benvenuti **giuristi**, **costituzionalisti**, **economisti**, **filosofi**, **scienziati**, **informatici**, **matematici**, **giornalisti**, ***bloggers*** e **pensatori e intellettuali in genere**.
+Saranno benvenuti **giuristi**, **costituzionalisti**, **economisti**, **filosofi**, **scienziati**, **informatici**, **matematici**, **giornalisti**, ***bloggers*** e in generale **pensatori e intellettuali**, così come **traduttori** e **artisti**.
 
-Saranno anche benvenuti **traduttori** e **artisti**.
-
-Potremmo valutare l'aggiunta di note in calce con *ulteriori* riferimenti in merito a vari argomenti toccati da questo documento. Non l'abbiamo per ora considerato prioritario con rispetto all'avere una prima stesura e a lavorare per diffonderla senza ulteriori indugi. In quest'ambito non pretendiamo di dimostrare niente, **stiamo *constatando*, preoccupati, e proponendo una bandiera fatta di ideali in cui crediamo**.
+Valuteremo l'aggiunta di note in calce con *ulteriori* riferimenti ed approfondimenti in merito ai vari argomenti toccati in questo manifesto. Abbiamo per ora considerato *prioritaria* l'esigenza di pubblicare *una prima stesura* e di lavorare per *diffonderla* senza ulteriori indugi. In quest'ambito non pretendiamo di dimostrare nulla, **stiamo constatando, preoccupati, e proponendo una bandiera fatta di ideali in cui crediamo**.
 
 &nbsp;
 
-**PER CHI VOLESSE DARE SUGGERIMENTI: PER FAVORE MANTENETE IL FORMATO MARKDOWN, SCARICATEVI DIRETTAMENTE IL FILE README.md**, a meno che non si tratti di modifiche molto puntuali, molto piccole **(*)**
-
-Potete suggerire cambiamenti in vari modi:
+Potete **suggerire cambiamenti** in vari modi:
 
 + potete crearvi un account gratuito in GitHub, con lo pseudonimo che vorrete, onde poter **aprire *issues*** nel "repository" del manifesto, è facilissimo e comodissimo per noi da gestire, un *issue* per ogni punto che proponete di modificare o aggiungere o rimuovere
 
-+ chi fosse invece più familiare con GitHub, può spingersi ad utilizzare il flusso di lavoro tipico in GitHub per modifiche sostanziali, che sfocia tipicamente in una ***pull request***, ma non è essenziale e non lo esigiamo in nessun modo, gli *issues* vanno benissimo
++ chi fosse invece più familiare con GitHub, può spingersi ad utilizzare il flusso di lavoro tipico in GitHub, che sfocia tipicamente in una ***pull request***, ma non è essenziale e non lo esigiamo in nessun modo, gli *issues* vanno benissimo
 
-+ al limite, va bene anche **una semplice segnalazione via mail** (in effetti, misura *anti-spam*, l'indirizzo è accessibile in *GitHub* solo *dopo* aver effettuato il login), sapendo che inviare mail espone a *metadata recollection*, ma *noi* stiamo comunque dalla parte della legalità e della Costituzione (potrete comunque usare *GPG* per segnalarci punti deboli del manifesto)
++ va bene anche **una segnalazione via mail** (in effetti, misura *anti-spam*, l'indirizzo è accessibile in *GitHub* solo *dopo* aver effettuato il login), sapendo che inviare mail espone a *metadata recollection*, ma *noi* stiamo comunque dalla parte della legalità e della Costituzione (potrete comunque usare *GPG* per segnalarci punti deboli del manifesto)
 
-+ potete scrivere **un commento alla** [**presentazione in Diaspora**](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653)
++ potete scrivere **un commento alla** [**presentazione in Diaspora**](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653), anche se la commistione tra gli eventuali messaggi di approvazione del manifesto e gli eventuali suggerimenti di modifiche potrebbe risultare un po' caotica.
 
-**(*)** Chi ha scritto fino ad ora il manifesto l'ha fatto sottraendo già molte ore ad altri compiti, alcuni svolti, similmente, *ad honorem*, ma non meno importanti, altri invece parte di obblighi di lavoro etcl, NON VORREMMO SOTTRARRE TEMPO AD ULTERIORI SVILUPPI &ndash; TRADUZIONE, DIFFUSIONE, ETC. &ndash; PER RIFARE TUTTO IL FORMATO dopo che qualcuno l'ha PERSO facendosi un copia&incolla dalla pagina nel browser.
+**PER CHI VOLESSE MODIFICARE PARTI DEL DOCUMENTO PER POI PROPORCELE VIA MAIL, SENZA CIOÈ RICORRERE AD UNA DELLE MODALITÀ DELLA PIATTAFORMA GITHUB (fork + interfaccia web o fork + clone locale tramite software git):**
 
-**GRAZIE**
+**PER FAVORE <u>MANTENETE IL FORMATO MARKDOWN</u>, SCARICATEVI DIRETTAMENTE IL FILE README.md**, a meno che non si tratti di modifiche molto puntuali, molto piccole.
+
+<small>(Chi ha scritto fino ad ora il manifesto l'ha fatto sottraendo già molte ore ad altri compiti, alcuni svolti, similmente, *ad honorem*, ma non meno importanti, altri invece parte di obblighi di lavoro etc., NON VORREMMO SOTTRARRE TEMPO AD ULTERIORI SVILUPPI &ndash; TRADUZIONE, DIFFUSIONE, ETC. &ndash; PER RIFARE TUTTO IL FORMATO dopo che qualcuno l'ha PERSO facendo un copia&incolla dalla pagina nel browser, né vorremmo dover chiedere di preparare di nuovo la proposta.)</small>
+
+**<u>GRAZIE</u>**
 
 &nbsp;
 
