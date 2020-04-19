@@ -6,7 +6,7 @@ Italian language only for now, but we plan to translate it to English and possib
 
 &nbsp;
 
-Bozza ver. 01.048 – 2020-04-19 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
+Bozza ver. 01.049 – 2020-04-19 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
 
 &nbsp;
 
@@ -198,7 +198,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
 7. NO all'erosione della democrazia da parte della **casta** politica. I punti seguenti si soffermano su vari aspetti di questa erosione.
 
 8. <a name="princ_Orwell_1984"></a>
-   NO ad uno **stato di "emergenza" permanente**. NO al permanere di misure installate con il pretesto di un'emergenza. Ora c'è la pandemia, prima c'era il "terrorismo islamico", c'è sempre qualche pretesto per limitare le libertà dei cittadini. **Negli USA "*the war on terror*" è ufficialmente finita ma sono rimaste in vigore gravissime limitazioni alle libertà personali** come il [Patriot Act](https://duckduckgo.com/?q=patriot+act&t=canonical&ia=news) e il [National Defense Authorization Act](https://duckduckgo.com/?q=national+defense+authorization+act&t=canonical&ia=web). (Se ammettiamo che gli autori stessi degli attacchi del 9-11 sono un importante gruppo di potere *negli* USA, diventa evidente che ci troviamo in un presente distopico che ha in parte *superato* quello descritto da George Orwell in ["**1984**"](#progr_Orwell_1984), romanzo che gli aspiranti imperatori del *NWO* sembrerebbero aver preso come modello da implementare.)
+   NO ad uno **stato di "emergenza" permanente**. **NO al permanere di misure autoritarie installate con il pretesto di un'emergenza** e al limite della costituzionalità o al di fuori della stessa. Ora c'è la pandemia, prima c'era il "terrorismo islamico", c'è sempre qualche pretesto per limitare le libertà dei cittadini. **Negli USA "*the war on terror*" è ufficialmente finita ma sono rimaste in vigore gravissime limitazioni alle libertà personali** come il [Patriot Act](https://duckduckgo.com/?q=patriot+act&t=canonical&ia=news) e il [National Defense Authorization Act](https://duckduckgo.com/?q=national+defense+authorization+act&t=canonical&ia=web). (Se ammettiamo che gli autori stessi degli attacchi del 9-11 sono un importante gruppo di potere *negli* USA, diventa evidente che ci troviamo in un presente distopico che ha in parte *superato* quello descritto da George Orwell in ["**1984**"](#progr_Orwell_1984), romanzo che gli aspiranti imperatori del *NWO* sembrerebbero aver preso come modello da implementare.)
 
 9. NO a **misure messe in atto durante uno situazione di "emergenza" che non siano STRETTAMENTE ATTINENTI all'emergenza stessa**.
    Inoltre: **CONGELAMENTO** di qualunque provvedimento con conseguenze a lungo termine per i cittadini, anche se attinente ad una situazione di emergenza, mentre gli stessi si ritrovino in qualche modo limitati, per esempio durante una situazione di "quarantena".
