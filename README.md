@@ -6,7 +6,7 @@ Italian language only for now, but we plan to translate it to English and possib
 
 &nbsp;
 
-Bozza ver. 01.047 – 2020-04-12 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
+Bozza ver. 01.048 – 2020-04-19 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
 
 &nbsp;
 
@@ -175,7 +175,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
    
    ![OMS organizzazione criminale](https://i.postimg.cc/d0Z7Z0sY/TEXT-PIC-OMS-STRUTTURA-CRIMINALE-NELLE-MANI-DELL-INDUSTRIA-ASHKENAZITA-DEI-FARMACI.jpg)
    
-   (**NOTA BENE:** non siamo in condizione in questo momento di verificare quanto il testo nell'immagine denuncia, né se l'industria in questione sia ashkenazita o italiana o giapponese o quant'altro. Noi non saltiamo a difendere la memoria di Al Capone o di altri mafiosi di origine italiana, così come i cittadini giapponesi o russi non saltano offesi quando si nominano le rispettive mafie. Non crediamo che l'appartenenza a una particolare etnia possa costituire uno scudo contro le critiche. Non ci importa se le persone sono bionde o brune o di che colore abbiano la pelle, ci importa ciò che fanno. [Personalmente tendiamo a pensare che al giorno d'oggi tutti i grandi gruppi criminali devono essere multi-etnici, ma ovviamente non lo sappiamo.])
+   (**NOTA BENE:** non siamo in condizione in questo momento di verificare quanto il testo nell'immagine denuncia, né se l'industria in questione sia ashkenazita o italiana o giapponese o quant'altro. Noi non saltiamo a difendere la memoria di Al Capone o di altri mafiosi di origine italiana, così come i cittadini giapponesi o russi non saltano offesi quando si nominano le rispettive mafie. Non crediamo che l'appartenenza a una particolare etnia possa costituire uno scudo contro le critiche. Non ci importa se le persone sono bionde o brune o di che colore abbiano la pelle, ci importa ciò che fanno. [Tendiamo a pensare che al giorno d'oggi tutti i grandi gruppi criminali devono essere multi-etnici, ma ovviamente non lo sappiamo.])
    
    Se le accuse risulteranno fondate, allora dovremo **negare ogni autorità all'OMS**.
    
