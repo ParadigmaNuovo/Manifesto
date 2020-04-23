@@ -4,7 +4,7 @@
 
 Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.  
 
-Bozza ver. 01.054 – 2020-04-23 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)  
+Bozza ver. 01.055 – 2020-04-23 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)  
 
 ---
 
@@ -46,8 +46,6 @@ Questo documento vuole installare le fondamenta per il 1º obiettivo. Il 2º e i
 - [CONCLUSIONE](#CONCLUSIONE)
 
 ---
-
-&nbsp;
 
 <a name="IDEE"></a>
 
@@ -107,6 +105,8 @@ Potete **suggerire cambiamenti** in vari modi:
 
 &nbsp;
 
+---
+---
 ---
 
 <a name="PREMESSA"></a>
