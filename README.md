@@ -14,12 +14,14 @@ Questo documento delinea principi in cui crediamo si possano identificare *molti
 
 **Non proponiamo un insieme *monolitico***, del tipo "*o siamo d'accordo su tutto quanto al 100% o niente, non abbiamo nessuna affinità, frammentiamoci in movimenti antagonisti*".
 
-Dopo aver presentato una piattaforma di base di valori comuni (1º obiettivo), auspichiamo un rafforzamento della democrazia parlamentare ora sotto attacco (2º obiettivo), e successivamente la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc.** (3º obiettivo).
+Dopo aver presentato una piattaforma di base di valori comuni (1º obiettivo), auspichiamo un rafforzamento della democrazia ora sotto attacco in molti Paesi (2º obiettivo), e successivamente la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc.** (3º obiettivo).
 Proponiamo per esempio di lasciare che sia ogni votazione a decidere quanto lo Stato dovrà essere "presente" o "liberale".
 
 Un primo livello di progettazione di una tale democrazia riformata potrebbe avvenire qui, in un *repository* analogo a questo che ospita il nostro Manifesto, con l'apporto di giuristi, costituzionalisti, economisti, informatici, matematici...
 
 Ma già il fatto di *constatare* che siamo in *moltissimi* ad entrare in risonanza per gli stessi valori sarebbe un passo importante e ci darebbe una gran forza.
+
+Questo documento vuole installare le fondamenta per il 1º obiettivo. Il 2º e il 3º obiettivo saranno più complessi e saranno oggetto di dibattito e di molto lavoro.
 
 ---
 
@@ -162,7 +164,7 @@ https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/amer
 
 # 1º obiettivo: <u>RICONOSCERCI</u>
 
-Proponiamo dei **PRINCIPI DI BASE**. Con essi, o con parte di essi, crediamo che possano sentirsi affini ***varie* delle nuove forze politiche che stanno sorgendo** in vari paesi del mondo. Ciò permetterà che esse si riconoscano tra loro e che si formi **un'alleanza naturale**. Abbiamo bisogno di **RICONOSCERCI** e lavorare insieme.
+Proponiamo dei **PRINCIPI DI BASE**. Con essi, o con parte di essi, crediamo che possano sentirsi affini ***varie* delle nuove forze politiche che stanno sorgendo** in vari Paesi del mondo. Ciò permetterà che esse si riconoscano tra loro e che si formi **un'alleanza naturale**. Abbiamo bisogno di **RICONOSCERCI** e lavorare insieme.
 
 Siamo consapevoli che **non tutti i popoli entreranno in risonanza** con i nostri parametri di democrazia, **non pretendiamo che ciò accada**.
 
@@ -210,7 +212,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
    <a name="se_governi_trasparenti"></a>
    Crediamo fermamente che **SE TUTTI I GOVERNI FOSSERO TOTALMENTE TRASPARENTI, NON CI SAREBBERO PIÙ GUERRE NÉ "TERRORISMO"**.
 
-2. Dobbiamo **EVITARE DI CADERE NELLA TRAPPOLA "DIVIDE ET IMPERA"**. Proprio questo *tremendo* paradosso, le forze armate USA in realtà al servizio dei fautori del 9-11 e dell'assassionio di JFK, è un esempio evidente della **potenza del paradigma "divide et impera"** e del livello che può raggiungere la frattura, purtroppo presente in molti paesi. PROMUOVEREMO DIALOGO CON GLI UNIFORMATI perché I LORO VERTICI spieghino che non amano meno di loro la patria e non sono meno di loro tenaci difensori della patria coloro che manifestano in piazza (senza che sia parte dei compiti per cui gli pagano uno stipendio), a volte a rischio di procedimenti penali a loro carico e perfino a rischio della loro incolumità fisica. I docenti argentini malamente sloggiati dalla Plaza de Mayo con il pretesto di una quindicina di violenti all'altro estremo della piazza si rendevano conto della direzione in cui andava l'Argentina durante la presidenza di Mauricio Macri molto prima che arrivassero a constatarlo gli uniformati. (Gli autori di uno di questi episodi di violenza apparivano poi in fotografie con l'uniforme, in servizio in altre località.)
+2. Dobbiamo **EVITARE DI CADERE NELLA TRAPPOLA "DIVIDE ET IMPERA"**. Proprio questo *tremendo* paradosso, le forze armate USA in realtà al servizio dei fautori del 9-11 e dell'assassionio di JFK, è un esempio evidente della **potenza del paradigma "divide et impera"** e del livello che può raggiungere la frattura, purtroppo presente in molti Paesi. PROMUOVEREMO DIALOGO CON GLI UNIFORMATI perché I LORO VERTICI spieghino che non amano meno di loro la patria e non sono meno di loro tenaci difensori della patria coloro che manifestano in piazza (senza che sia parte dei compiti per cui gli pagano uno stipendio), a volte a rischio di procedimenti penali a loro carico e perfino a rischio della loro incolumità fisica. I docenti argentini malamente sloggiati dalla Plaza de Mayo con il pretesto di una quindicina di violenti all'altro estremo della piazza si rendevano conto della direzione in cui andava l'Argentina durante la presidenza di Mauricio Macri molto prima che arrivassero a constatarlo gli uniformati. (Gli autori di uno di questi episodi di violenza apparivano poi in fotografie con l'uniforme, in servizio in altre località.)
    DOBBIAMO ASSOLUTAMENTE IMPEDIRE CHE CIÒ ACCADA, IL POPOLO PAGA GLI STIPENDI DEGLI UNIFORMATI E NON POSSIAMO LASCIARE CHE VENGANO MANIPOLATI PER TRASFORMARLI NEL CANE DA GUARDIA DEI *BANKSTERS*. E IL RESTO DELLA POPOLAZIONE DOVRÀ ESSERE MESSO IN GUARDIA PERCHÉ NON CADA NELLA TRAPPOLA, SCHIVARE IL CONFRONTO CON GLI UNIFORMATI, IL PROBLEMA È "IN ALTO" (in una scala soldi, potere e bassezza) E VA AFFRONTATO TOP-DOWN.
 
 3. <a name="nuovaInvestigazione9_11"></a>
@@ -338,7 +340,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
 21. NO alla ***depopulation agenda***, sotto nessun pretesto.
     **I problemi legati all'impatto ambientale dell'attività umana si affrontano tutti insieme**, impiegando menti e risorse che oggi vengono ampiamente riversate al complesso militare industriale, in nome della necessità di fronteggiare fantomatiche minacce create ad hoc dai burattinai che tirano i fili di politici e mainstream media.
 
-22. AL CONTRARIO, promuoveremo il **miglioramento della sanità pubblica, rigettando le ricette dell'FMI**, che a tutti i popoli a cui "presta" denaro (di altri popoli) impone una riduzione degli stanziamenti per la **SANITÀ** e l'**EDUCAZIONE**, come se non si trattasse di **elementi determinanti per il futuro di un paese**... o <u>chissà proprio per questo</u>.
+22. AL CONTRARIO, promuoveremo il **miglioramento della sanità pubblica, rigettando le ricette dell'FMI**, che a tutti i popoli a cui "presta" denaro (di altri popoli) impone una riduzione degli stanziamenti per la **SANITÀ** e l'**EDUCAZIONE**, come se non si trattasse di **elementi determinanti per il futuro di un Paese**... o <u>chissà proprio per questo</u>.
     
     (L'FMI impone anche altre "tariffe" semi-occulte, come nuove basi militari straniere sul territorio o facilitazioni per certe multinazionali, o la consegna di un Julian Assange anche se rifugiato in un'ambasciata. Le somme prestate dall'FMI gli devono essere restituite, mentre queste "tariffe" semi-occulte hanno effetto permanente.)
 
@@ -426,9 +428,9 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     + RIGETTIAMO *OGNI* IDEOLOGIA SUPREMAZISTA, INCLUSE QUELLE CHE PRETENDONO DI ESSERE LEGITTIMATE DAI TESTI DI UNA RELIGIONE.
 
 32. <a name="princ_economisti_intellettuali"></a>
-    Auspichiamo **dialogo diretto e collaborazione tra i giuristi, gli economisti e in generale gli intellettuali che *da vari paesi* ci stanno da tempo mettendo in allerta, e che istintivamente si sono mobilizzati in difesa delle genti** contro il mostro a più teste che le ha progressivamente impoverite in questi anni. Arriverà [il momento](#progr_economisti_intellettuali) in cui potremo dar loro un peso reale nella gestione della cosa pubblica.
+    Auspichiamo **dialogo diretto e collaborazione tra i giuristi, gli economisti e in generale gli intellettuali che *da vari Paesi* ci stanno da tempo mettendo in allerta, e che istintivamente si sono mobilizzati in difesa delle genti** contro il mostro a più teste che le ha progressivamente impoverite in questi anni. Arriverà [il momento](#progr_economisti_intellettuali) in cui potremo dar loro un peso reale nella gestione della cosa pubblica.
 
-33. Proponiamo a tutti i Popoli della Terra di <u>**PUNTARE IL DITO SUI PREDATORI**</u>, i centri di potere e i governi che stanno agendo con estrema ferocia a danno di intere popolazioni innocenti, non solo approfittando di difficoltà che possano stare attraversando i loro paesi, ma *provocando* tali difficoltà, con **fredda e ostinata ingegnerizzazione delle disgrazie altrui**.
+33. Proponiamo a tutti i Popoli della Terra di <u>**PUNTARE IL DITO SUI PREDATORI**</u>, i centri di potere e i governi che stanno agendo con estrema ferocia a danno di intere popolazioni innocenti, non solo approfittando di difficoltà che possano stare attraversando i loro Paesi, ma *provocando* tali difficoltà, con **fredda e ostinata ingegnerizzazione delle disgrazie altrui**.
     
     **Questi sciacalli dispongono di risorse ingentissime, non possono addurre come giustificazione il lemma *mors tua vita mea*.**
     
@@ -491,7 +493,7 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
     Abbiamo visto lo scempio commesso nei Balcani a danni di popolazioni e strutture civili.
     È URGENTISSIMA UNA **RIFORMA** che restituisca ai singoli Parlamenti il potere di prendere decisioni sull'attuare delle rispettive Forze Armate, oggi sottomesse alla catena di comando NATO, **O** SAREMO COSTRETTI A USCIRE dalla NATO e a passare ad uno status di **PAESE NEUTRALE**, secondo l'esempio della Svizzera.
 
-37. **La presenza di basi militari della NATO e degli USA non costituisce una fonte di sicurezza, ben al contrario.** Coloro che sono al comando ci considerano come **bersagli sacrificabili di un'eventuale ritorsione nucleare**, alla stregua di navi militari e sommergibili, mentre loro fanno *bullying* contro altre potenze nucleari, paesi pacifici che non si prestano a piegarsi all'imposizione di un mondo unipolare, all'imposizione del predominio di cui apertamente si parla nelle dottrine pubblicate sul web da pochi scellerati. Non abbiano la **sfacciataggine** di venirci a **chiedere più soldi** di quelli che già sta risucchiando il poderoso virus del *loro* complesso militare industriale! ANZI, **NOI dovremmo chiedergli di pagare affitti ESORBITANTI**, fino a quando non ce li potremo togliere di dosso. **Se ci colpisse anche solo *una* testata atomica, la "ricaduta" negativa in termini economici ed umani supererebbe di gran lunga tutto il "beneficio" di questi 70 anni di occupazione** ("beneficio" tra virgolette perché **l'inquinamento chimico ed elettromagnetico** e **l'aumento di casi di tumori** ed altre malattie intorno a certe installazioni non sono certo catalogabili come benefici).
+37. **La presenza di basi militari della NATO e degli USA non costituisce una fonte di sicurezza, ben al contrario.** Coloro che sono al comando ci considerano come **bersagli sacrificabili di un'eventuale ritorsione nucleare**, alla stregua di navi militari e sommergibili, mentre loro fanno *bullying* contro altre potenze nucleari, Paesi pacifici che non si prestano a piegarsi all'imposizione di un mondo unipolare, all'imposizione del predominio di cui apertamente si parla nelle dottrine pubblicate sul web da pochi scellerati. Non abbiano la **sfacciataggine** di venirci a **chiedere più soldi** di quelli che già sta risucchiando il poderoso virus del *loro* complesso militare industriale! ANZI, **NOI dovremmo chiedergli di pagare affitti ESORBITANTI**, fino a quando non ce li potremo togliere di dosso. **Se ci colpisse anche solo *una* testata atomica, la "ricaduta" negativa in termini economici ed umani supererebbe di gran lunga tutto il "beneficio" di questi 70 anni di occupazione** ("beneficio" tra virgolette perché **l'inquinamento chimico ed elettromagnetico** e **l'aumento di casi di tumori** ed altre malattie intorno a certe installazioni non sono certo catalogabili come benefici).
 
 38. <u>**ESIGIAMO**</u> che si tornino a rispettare queste parole:
     
@@ -634,7 +636,7 @@ Jill Stein dovette fare causa in vari Stati contro l'uso del voto elettronico. N
 
 ---
 
-Dopo una prima maturazione di questo documento, vorremmo tradurlo in varie lingue ed estendere a più paesi la connessione tra genti in sintonia. I punti seguenti sarebbero allora da intendere riferiti all'ambito nazionale di *varie* nazioni.
+Dopo una prima maturazione di questo documento, vorremmo tradurlo in varie lingue ed estendere a più Paesi la connessione tra genti in sintonia. I punti seguenti sarebbero allora da intendere riferiti all'ambito nazionale di *varie* nazioni.
 
 <a name="CONCRETAMENTE"></a>
 
