@@ -2,13 +2,9 @@
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
-Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.
+Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.  
 
-&nbsp;
-
-Bozza ver. 01.052 – 2020-04-23 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
-
-&nbsp;
+Bozza ver. 01.053 – 2020-04-23 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)  
 
 ---
 
@@ -18,7 +14,7 @@ Questo documento delinea principi in cui crediamo si possano identificare *molti
 
 **Non proponiamo un insieme *monolitico***, del tipo "*o siamo d'accordo su tutto quanto al 100% o niente, non abbiamo nessuna affinità, frammentiamoci in movimenti antagonisti*".
 
-Dopo aver presentato una piattaforma di base di valori comuni, auspichiamo la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc..**
+Dopo aver presentato una piattaforma di base di valori comuni (1º obiettivo), auspichiamo un rafforzamento della democrazia parlamentare ora sotto attacco (2º obiettivo), e successivamente la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc.** (3º obiettivo).
 Proponiamo per esempio di lasciare che sia ogni votazione a decidere quanto lo Stato dovrà essere "presente" o "liberale".
 
 Un primo livello di progettazione di una tale democrazia riformata potrebbe avvenire qui, in un *repository* analogo a questo che ospita il nostro Manifesto, con l'apporto di giuristi, costituzionalisti, economisti, informatici, matematici...
@@ -27,11 +23,39 @@ Ma già il fatto di *constatare* che siamo in *moltissimi* ad entrare in risonan
 
 ---
 
+## INDICE
+
+- [COME APPORTARE IDEE](#IDEE)
+
+- [PREMESSA](#PREMESSA)
+
+- [1º obiettivo: <u>RICONOSCERCI</u>](#1_OBIETTIVO)
+
+- [2ª OBIETTIVO: <u>RIANIMARE LA DEMOCRAZIA, OGGI INFETTA, E DARE SPAZIO AI GIURISTI, AGLI ECONOMISTI ED AGLI INTELLETTUALI IN GENERALE CHE CI STANNO DA TEMPO ALLERTANDO</u>](#2_OBIETTIVO)
+
+- [3º OBIETTIVO: <u>TRASFORMARE LA DEMOCRAZIA CONVALESCENTE IN UN ORGANISMO RESISTENTE AI VIRUS</u>](#3_OBIETTIVO)
+
+- [CONCRETAMENTE, CHE COSA PROPONIAMO DI FARE FIN D'ORA?](#CONCRETAMENTE)
+
+- [PIANO B &ndash; DECENTRALIZZARE TUTTO](#PLANB)
+
+- [SINTESI](#SINTESI)
+
+- [CONCLUSIONE](#CONCLUSIONE)
+
+---
+
 &nbsp;
 
-Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
+<a name="IDEE"></a>
 
-- Link all'account, che contiene pubblicazioni in relazione a questo manifesto:
+## COME APPORTARE IDEE
+
+Leggendo questo Manifesto, molti di voi avranno idee da proporre per possibili modifiche. Difficilmente arriverà ad essere "perfetto" per tutti, ma avremo un'orientazione di massima in comune.
+
+Oltre che qui su *GitHub*, ci trovate anche **in *Diaspora*, rete sociale decentralizzata:**
+
+- Link all'account che contiene pubblicazioni in relazione a questo manifesto:
   
   https://mondiaspora.net/people/14281b90538e0138a38a03f7e1ed1bc8
 
@@ -40,11 +64,11 @@ Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
   https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653
   
   Ancora non abbiamo predisposto un nostro sito web con base dati, dove proporre una raccolta di firme o una petizione. 
-  **Commentare [quella pubblicazione](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653) in Diaspora è al momento un modo per segnalarci la vostra approvazione.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
+  **Commentare [quella pubblicazione](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653) in *Diaspora* è al momento un modo per segnalarci la vostra approvazione.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
   **"Approvo il manifesto *Nuovo Paradigma 1.0* (bozza ver. nn.nnn)"**.  
   La versione che più vi è piaciuta potrete anche copiarla (e lo stesso dicasi per qualunque altra).  
   **Se disponete di un *account* o un *nick* nelle reti sociali o in Telegram, o di una "facciata" nel web &ndash; un vostro *blog* o un vero e proprio sito web &ndash; potrete segnalare l'esitenza del manifesto ai vostri contatti e seguitori.**  
-  Vi ringrazieremo se spenderete 5-10 minuti del vostro tempo per aprire un account gratuito su Diaspora, sarà anche un'occasione per uscire un po' dalle grinfie di *Facebook*, con la sua censura e la sua connivenza con *Big Data*.
+  Vi ringrazieremo se spenderete 5-10 minuti del vostro tempo per aprire un account gratuito su *Diaspora*, sarà anche un'occasione per uscire un po' dalle grinfie di *Facebook*, con la sua censura e la sua connivenza con *Big Data*.
 
 &nbsp;
 
@@ -63,13 +87,13 @@ Valuteremo l'aggiunta di note in calce con *ulteriori* riferimenti ed approfondi
 
 Potete **suggerire cambiamenti** in vari modi:
 
-+ potete crearvi un account gratuito in GitHub, con lo pseudonimo che vorrete, onde poter **aprire *issues*** nel "repository" del manifesto, è facilissimo e comodissimo per noi da gestire, un *issue* per ogni punto che proponete di modificare o aggiungere o rimuovere
++ potete crearvi un account gratuito in *GitHub*, con lo pseudonimo che vorrete, onde poter **aprire *issues*** nel "repository" del manifesto, è facilissimo e comodissimo per noi da gestire, un *issue* per ogni punto che proponete di modificare o aggiungere o rimuovere
 
-+ chi fosse invece più familiare con GitHub, può spingersi ad utilizzare il flusso di lavoro tipico in GitHub, che sfocia tipicamente in una ***pull request***, ma non è essenziale e non lo esigiamo in nessun modo, gli *issues* vanno benissimo
++ chi fosse invece più familiare con *GitHub*, può spingersi ad utilizzare il flusso di lavoro tipico in *GitHub*, che sfocia tipicamente in una ***pull request***, ma non è essenziale e non lo esigiamo in nessun modo, gli *issues* vanno benissimo
 
 + va bene anche **una segnalazione via mail** (in effetti, misura *anti-spam*, l'indirizzo è accessibile in *GitHub* solo *dopo* aver effettuato il login), sapendo che inviare mail espone a *metadata recollection*, ma *noi* stiamo comunque dalla parte della legalità e della Costituzione (potrete comunque usare *GPG* per segnalarci punti deboli del manifesto)
 
-+ potete scrivere **un commento alla** [**presentazione in Diaspora**](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653), anche se la commistione tra gli eventuali messaggi di approvazione del manifesto e gli eventuali suggerimenti di modifiche potrebbe risultare un po' caotica.
++ potete scrivere **un commento alla** [**presentazione in *Diaspora***](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653), anche se la commistione tra gli eventuali messaggi di approvazione del manifesto e gli eventuali suggerimenti di modifiche potrebbe risultare un po' caotica.
 
 **PER CHI VOLESSE MODIFICARE PARTI DEL DOCUMENTO PER POI PROPORCELE VIA MAIL, SENZA CIOÈ RICORRERE AD UNA DELLE MODALITÀ DELLA PIATTAFORMA GITHUB (fork + interfaccia web o fork + clone locale tramite software git):**
 
@@ -82,6 +106,8 @@ Potete **suggerire cambiamenti** in vari modi:
 &nbsp;
 
 ---
+
+<a name="PREMESSA"></a>
 
 ## PREMESSA
 
@@ -131,6 +157,8 @@ https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/amer
 <br>
 
 ---
+
+<a name="1_OBIETTIVO"></a>
 
 # 1º obiettivo: <u>RICONOSCERCI</u>
 
@@ -484,6 +512,8 @@ Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazio
 
 ---
 
+<a name="2_OBIETTIVO"></a>
+
 # 2ª OBIETTIVO: <u>RIANIMARE LA DEMOCRAZIA, OGGI INFETTA, E DARE SPAZIO AI GIURISTI, AGLI ECONOMISTI ED AGLI INTELLETTUALI IN GENERALE CHE CI STANNO DA TEMPO ALLERTANDO</u>
 
 Avanzando verso il compimento del 1º obivettivo, acquisiremo progressivamente un peso sufficiente ad impedire che si prendano decisioni palesemente contrarie agli interessi di qualunque settore sociale, come quelle a cui gli italiani e vari altri popoli hanno assistito costernati durante gli ultimi vent'anni o più.
@@ -563,6 +593,8 @@ Fin d'ora, possiamo pensare ai seguenti punti.
 
 ---
 
+<a name="3_OBIETTIVO"></a>
+
 # 3º OBIETTIVO: <u>TRASFORMARE LA DEMOCRAZIA CONVALESCENTE IN UN ORGANISMO RESISTENTE AI VIRUS</u>
 
 Oltre a darci da fare per raggiungere il 1º e il 2º obiettivo, staremo dibattendo su **UNA *EVENTUALE* RIFORMA PROFONDA DEI MECCANISMI DI GOVERNO**, con il fine di **PREVENIRE** azioni non conformi con quanto le popolazioni decidono.
@@ -604,6 +636,8 @@ Jill Stein dovette fare causa in vari Stati contro l'uso del voto elettronico. N
 
 Dopo una prima maturazione di questo documento, vorremmo tradurlo in varie lingue ed estendere a più paesi la connessione tra genti in sintonia. I punti seguenti sarebbero allora da intendere riferiti all'ambito nazionale di *varie* nazioni.
 
+<a name="CONCRETAMENTE"></a>
+
 # CONCRETAMENTE, CHE COSA PROPONIAMO DI FARE FIN D'ORA?
 
 1. CONTATTARE
@@ -614,7 +648,7 @@ Dopo una prima maturazione di questo documento, vorremmo tradurlo in varie lingu
    
    CHE CREDIAMO POSSANO VOLER CONTRIBUIRE A MIGLIORARE QUESTO MANIFESTO, E POTENZIALMENTE ADERIRE AI SUOI VALORI O A PARTE DI ESSI.
    
-   È EVIDENTE CHE **DIFFICILMENTE ARRIVERÀ AD ESSERE "PERFETTO" PER TUTTI**, L'IDEA È AVERE <u>**UN'ORIENTAZIONE DI MASSIMA IN COMUNE**</u>, IN MODO CHE IL NEMICO NON POSSA VINCERE FACENDOCI CREDERE CHE SIAMO SOLI.
+   COME ABBIAMO [GIÀ ACCENNATO](#IDEE), È EVIDENTE CHE **DIFFICILMENTE ARRIVERÀ AD ESSERE "PERFETTO" PER TUTTI**, L'IDEA È AVERE <u>**UN'ORIENTAZIONE DI MASSIMA IN COMUNE**</u>, IN MODO CHE IL NEMICO NON POSSA VINCERE FACENDOCI CREDERE CHE SIAMO SOLI.
    LE PERSONE E LE FORZE POLITICHE CHE VORRANNO FARLO, POTRANNO DICHIARARE, QUI E SULLA LORO "FACCIATA" NEL WEB, CHE SI RICONOSCONO IN QUESTO MANIFESTO, INVITANDO ALTRI A VALUTARLO. LE FORZE CHE QUI SI INCONTRERANNO SARANNO COSÌ IN GRADO DI CONTATTARSI ANCHE DIRETTAMENTE TRA DI LORO, IL CHE POTREBBE RIVELARSI FONDAMENTALE.
 
 2. INFORMARE I CITTADINI CHE SOLO SI SONO NUTRITI DELLE INFORMAZIONI PROVENIENTI DAI MEZZI DI COMUNICAZIONE DOMINANTI.
@@ -662,6 +696,8 @@ Ovviamente siamo consapevoli che *creare* il fantasma di tali minacce è il meto
 
 ---
 
+<a name="SINTESI"></a>
+
 # SINTESI
 
 ### COME JFK, RICONOSCIAMO L'ESISTENZA DI UN COMPLOTTO VOLTO A SCHIAVIZZARE LE GENTI, O I SOPRAVVISSUTI ALLA *DEPOPULATION AGENDA*
@@ -681,6 +717,8 @@ Ovviamente siamo consapevoli che *creare* il fantasma di tali minacce è il meto
 ![Politician making a speech, if the people leaves he falls](https://i.postimg.cc/mk4ncbKg/FB-PIC-THE-PEOPLE-DON-T-KNOW-THEIR-TRUE-POWER.jpg)
 
 ---
+
+<a name="CONCLUSIONE"></a>
 
 # CONCLUSIONE
 
