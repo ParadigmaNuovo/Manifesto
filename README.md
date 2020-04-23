@@ -6,7 +6,7 @@ Italian language only for now, but we plan to translate it to English and possib
 
 &nbsp;
 
-Bozza ver. 01.051 – 2020-04-23 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
+Bozza ver. 01.052 – 2020-04-23 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)
 
 &nbsp;
 
@@ -18,14 +18,12 @@ Questo documento delinea principi in cui crediamo si possano identificare *molti
 
 **Non proponiamo un insieme *monolitico***, del tipo "*o siamo d'accordo su tutto quanto al 100% o niente, non abbiamo nessuna affinità, frammentiamoci in movimenti antagonisti*".
 
-Dopo aver presentato una piattaforma di base, auspichiamo la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc..**
+Dopo aver presentato una piattaforma di base di valori comuni, auspichiamo la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc..**
 Proponiamo per esempio di lasciare che sia ogni votazione a decidere quanto lo Stato dovrà essere "presente" o "liberale".
 
 Un primo livello di progettazione di una tale democrazia riformata potrebbe avvenire qui, in un *repository* analogo a questo che ospita il nostro Manifesto, con l'apporto di giuristi, costituzionalisti, economisti, informatici, matematici...
 
 Ma già il fatto di *constatare* che siamo in *moltissimi* ad entrare in risonanza per gli stessi valori sarebbe un passo importante e ci darebbe una gran forza.
-
-
 
 ---
 
@@ -571,9 +569,17 @@ Oltre a darci da fare per raggiungere il 1º e il 2º obiettivo, staremo dibatte
 
 Ci sentiamo di proporre, di ipotizzare <u>**UN PRIMATO ASSOLUTO DI PRINCIPI E PROGRAMMI SU *LEADERS* E PARTITI**</u>.
 
-Tale riforma dovrà essere ampiamente dibattuta, con l'apporto di giuristi, costituzionalisti, difensori dei diritti umani, matematici ed informatici, al fine di individuare STRUTTURE E ALGORITMI CHE COSTITUISCANO UN ORGANISMO DEMOCRATICO E RESISTENTE AI TROJAN VIRUS.
+Vorremmo cioè progettare e poi implementare un sistema democratico in cui il voto verta su principi e programmi e avvenga **scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc..**
 
-BISOGNERÀ EVITARE DI ANDARE VERSO UNA SITUAZIONE IN CUI NESSUNO SIA RESPONSABILE DI NIENTE, AL CONTRARIO, LA *RES PUBLICA* DOVRÀ ESSERE GESTITA IN TOTALE TRASPARENZA, RENDENDO CONTO CONTINUAMENTE DI OGNI PASSO, E **DOVRANNO ESSERE PROGETTATI MECCANISMI PER CUI SEMPLICEMENTE NON POTRÀ ESSERE COMPIUTO NESSUN PASSO CHE ESULI DAI PRINCIPI E PROGRAMMI CHE SARANNO STATI VOTATI DAI CITTADINI**.
+Proponiamo per esempio di lasciare che sia ogni votazione a decidere quanto lo Stato dovrà essere "presente" o "liberale".
+
+Verrebbero poi incaricati degli **esecutori** di tali scelte, che dalle stesse non potrebbero deviare.
+
+Un primo livello di progettazione di una tale democrazia riformata potrebbe avvenire qui, in un *repository* analogo a questo che ospita il nostro Manifesto, con l'apporto di giuristi, costituzionalisti, economisti, difensori dei diritti umani, matematici, informatici...
+
+Tale riforma dovrà essere ampiamente dibattuta, al fine di individuare STRUTTURE E ALGORITMI CHE COSTITUISCANO UN ORGANISMO DEMOCRATICO E RESISTENTE AI TROJAN VIRUS.
+
+BISOGNERÀ EVITARE DI ANDARE VERSO UNA SITUAZIONE IN CUI NESSUNO SIA RESPONSABILE DI NIENTE, AL CONTRARIO, LA *RES PUBLICA* DOVRÀ ESSERE GESTITA IN TOTALE TRASPARENZA, RENDENDO CONTO CONTINUAMENTE AI CITTADINI, E **DOVRANNO ESSERE PROGETTATI MECCANISMI PER CUI SEMPLICEMENTE NON POTRÀ ESSERE COMPIUTO NESSUN PASSO CHE ESULI DAI PRINCIPI E PROGRAMMI CHE SARANNO STATI VOTATI DAI CITTADINI**.
 
 Quando parliamo di strutture ed algoritmi, non ci riferiamo ad un'implementazione *basata* su computers.
 
