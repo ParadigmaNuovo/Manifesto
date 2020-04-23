@@ -4,7 +4,7 @@
 
 Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.  
 
-Bozza ver. 01.055 – 2020-04-23 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)  
+Bozza ver. 01.056 – 2020-04-23 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)  
 
 ---
 
@@ -14,7 +14,7 @@ Questo documento delinea principi in cui crediamo si possano identificare *molti
 
 **Non proponiamo un insieme *monolitico***, del tipo "*o siamo d'accordo su tutto quanto al 100% o niente, non abbiamo nessuna affinità, frammentiamoci in movimenti antagonisti*".
 
-Dopo aver presentato una piattaforma di base di valori comuni (1º obiettivo), auspichiamo un rafforzamento della democrazia ora sotto attacco in molti Paesi (2º obiettivo), e successivamente la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc.** (3º obiettivo).
+Dopo aver presentato una piattaforma di base di valori comuni (1º obiettivo), auspichiamo un rafforzamento della democrazia ora sotto attacco in molti Paesi (2º obiettivo), e successivamente la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc.** (3º obiettivo).  
 Proponiamo per esempio di lasciare che sia ogni votazione a decidere quanto lo Stato dovrà essere "presente" o "liberale".
 
 Un primo livello di progettazione di una tale democrazia riformata potrebbe avvenire qui, in un *repository* analogo a questo che ospita il nostro Manifesto, con l'apporto di giuristi, costituzionalisti, economisti, informatici, matematici...
