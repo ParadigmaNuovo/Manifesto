@@ -245,11 +245,11 @@ I gruppi di potere pagano i legislatori e la correlazione tra le loro esigenze e
 
 + [**Corruption is Legal in America**](https://act.represent.us/sign/the-problem/)  
   
-  <div><center>[![snapshot from video "Corruption Is Legal"](https://i.postimg.cc/7ZvZdwtN/represent-us-Corruption-Is-Legal.jpg)](https://act.represent.us/sign/the-problem/)</center></div>
+  <div><center>[![snapshot from video Corruption Is Legal](https://i.postimg.cc/7ZvZdwtN/represent-us-Corruption-Is-Legal.jpg)](https://act.represent.us/sign/the-problem/)</center></div>
     
 + [**The Strategy to End Corruption**](https://act.represent.us/sign/our-strategy/)  
   
-  <div><center>[![snapshot from video "The Strategy to End Corruption"](https://i.postimg.cc/1zBR86mW/represent-us-The-Strategy-To-End-Corruption.jpg)](https://act.represent.us/sign/our-strategy/)</center></div>
+  <div><center>[![snapshot from video The Strategy to End Corruption](https://i.postimg.cc/1zBR86mW/represent-us-The-Strategy-To-End-Corruption.jpg)](https://act.represent.us/sign/our-strategy/)</center></div>
 
 È così che i popoli finiscono con avere un'influenza quasi nulla sulle decisioni dei legislatori e dell'esecutivo, altro che democrazia, "governo del popolo".
 
