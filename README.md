@@ -262,7 +262,7 @@ Torneremo [più avanti](#diNuovoCorruzioneEVaccinazioni_e5G) sui vaccini.
 **IL VERO MALE NON È IL CAPITALISMO IN SE STESSO, MA UNO STATO CHE SI LASCIA CORROMPERE.**  
 **UNA MAGGIOR "PRESENZA" DI UNO STATO COSÌ SUSCETTIBILE DI ESSERE CORROTTO NON È *AFFATTO* UNA RISPOSTA CHE POSSA MIGLIORARE LE COSE.**
 
-(Se ne stanno rendendo conto più persone ora, in tempi di *lockdown*, con molti governi apparentemente strumento di un complotto internazionale.<a href="#fn3" id="fnref3"><sup>3</sup></a>  
+(Se ne stanno rendendo conto più persone ora, in tempi di *lockdown*, con molti governi apparentemente strumento di un complotto internazionale.  
 Ce ne stavamo già rendendo conto prima, con vari governi agendo come criminali e attaccando costantemente la [*privacy*](#princ_privacy) dei cittadini.)
 
 Di nuovo: proponiamo in questo manifesto la creazione di un organismo resistente ai virus e di una vera democrazia che non sia una plutocrazia.
@@ -868,11 +868,3 @@ MA NON DIMENTICHIAMO:
 E IN OGNI CASO, A QUANTO PARE, NON ABBIAMO SCELTA:
 **È ORMAI UNA QUESTIONE DI SOPRAVVIVENZA**.
 
----
-
-#### NOTE
-
-
-1. <a id="fn1"></a>Si veda per esempio [*free-market anarchism*](https://en.wikipedia.org/wiki/Free-market_anarchism) e anche in [questa pagina](https://en.wikipedia.org/wiki/Laissez-faire) il termine *left-wing laissez-faire*.<a href="#fnref1">↩</a>
-2. <a id="fn2"></a>Ecco un video *estremamente* istruttivo: [**Come è fatto un vaccino? con la dr.ssa Loretta Bolgan**](https://www.youtube.com/watch?v=-dddlxI5AD0).  Raccomandiamo *molto* caldamente di vederlo.<a href="#fnref2">↩</a>
-3. <a id="fn3"></a> Si cerchi *"LOCK STEP"* nel documento pubblicato nel 2010 dalla *Rockefeller Foundation* dal titolo [***Scenarios for the Future of Technology and International Development***](http://www.nommeraadio.ee/meedia/pdf/RRS/Rockefeller%20Foundation.pdf), già [ampiamente discusso](https://duckduckgo.com/?q=Scenarios+for+the+Future+of+Technology+and+International+Development+Rockefeller&t=canonical&ia=web) sul web.<a href="#fnref3">↩</a>
