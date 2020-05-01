@@ -4,7 +4,7 @@
 
 Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.  
 
-Bozza ver. 01.058 – 2020-05-01 – Scritto con [***Kate***](https://kate-editor.org/) + [***pandoc***](https://www.maketecheasier.com/convert-markdown-to-html-in-kate-text-editor/) (inizialmente con [***Mark Text***](https://marktext.app/))
+Bozza ver. 01.057b – 2020-05-01 – Scritto con [***Kate***](https://kate-editor.org/) + [***pandoc***](https://www.maketecheasier.com/convert-markdown-to-html-in-kate-text-editor/) (inizialmente con [***Mark Text***](https://marktext.app/))
 
 ---
 
@@ -234,7 +234,9 @@ Ciò permetterebbe di **USCIRE DALLA TRAPPOLA IN CUI CI TROVIAMO OGGI, CON I POP
 + I "liberali" disprezzano coloro che disprezzano il "neoliberismo", perché presumono che devono essere propensi a calpestare le libertà individuali, visto che sono contrari a qualche cosa che si chiama "---liberismo".
 + Chi invece disprezza il "neoliberismo" ne vede le pratiche di corruzione occulta o scoperta, il volto totalitario, la volontà di imporre un pensiero unico, la mancanza evidente di buona fede da parte di tanti governanti che sventolano quella bandiera (con questo non stiamo affermando che non ci sia stata mala fede sotto altre bandiere!), e i disastri economici ai danni di un numero crescente di popolazioni. 
 
-**Quanto succede oggi non è *laissez-faire* di nessun "colore"**.
+**Quanto succede oggi non è *laissez-faire* di nessun "colore"**.[^1]
+
+[^1]: Si veda in [questa pagina](https://en.wikipedia.org/wiki/Laissez-faire) il termine *left-wing laissez-faire* e si veda questa pagina su [*free-market anarchism*](https://en.wikipedia.org/wiki/Free-market_anarchism).
 
 Il cittadino comune e il piccolo imprenditore sono *vessati* da restrizioni di ogni tipo e dalle imposizioni fiscali a cui il grande capitale sfugge agilmente e in piena compatibilità con le leggi. Percentualmente, [paga più tasse il cittadino comune che il ricchissimo](#ilRicchissimo).
 
@@ -256,14 +258,18 @@ I gruppi di potere pagano i legislatori e la correlazione tra le loro esigenze e
 Non è meno grave della corruzione in Paesi africani sulle cui elezioni certi funzionari degli USA pretenderebbero di essere legittimizzati a vigilare.
 
 <a name="corruzioneEVaccinazioni"></a>
-Anche in altri Paesi questo cancro si sta facendo più scoperto, basti vedere **la rapidità con cui sono state firmate leggi su vaccinazioni "obbligatorie"**, in violazione delle rispettive Costituzioni (e di convenzioni internazionali che sanciscono la priorità del rispetto per l'individuo rispetto a qualunque considerazione di presunti benefici per la società), quando le stesse case farmaceutiche che producono i vaccini hanno raccolto dati sulle reazioni avverse solamente durante i primi sette giorni dalla somministrazione, in certi casi quindici giorni, e invariabilmente **NON PRESENTANO NESSUN DATO SUGLI EFFETTI A DISTANZA DI MESI O ANNI**.  
+Anche in altri Paesi questo cancro si sta facendo più scoperto, basti vedere **la rapidità con cui sono state firmate leggi su vaccinazioni "obbligatorie"**, in violazione delle rispettive Costituzioni (e di convenzioni internazionali che sanciscono la priorità del rispetto per l'individuo rispetto a qualunque considerazione di presunti benefici per la società), quando le stesse case farmaceutiche che producono i vaccini hanno raccolto dati sulle reazioni avverse solamente durante i primi sette giorni dalla somministrazione, in certi casi quindici giorni, e invariabilmente **NON PRESENTANO NESSUN DATO SUGLI EFFETTI A DISTANZA DI MESI O ANNI**.[^2]  
 Torneremo [più avanti](#diNuovoCorruzioneEVaccinazioni_e5G) sui vaccini.
+
+[^2]: Raccomandiamo *molto* caldamente di vedere questo video: [**Come è fatto un vaccino? con la dr.ssa Loretta Bolgan**](https://www.youtube.com/watch?v=-dddlxI5AD0).
 
 **IL VERO MALE NON È IL CAPITALISMO IN SE STESSO, MA UNO STATO CHE SI LASCIA CORROMPERE.**  
 **UNA MAGGIOR "PRESENZA" DI UNO STATO COSÌ SUSCETTIBILE DI ESSERE CORROTTO NON È *AFFATTO* UNA RISPOSTA CHE POSSA MIGLIORARE LE COSE.**
 
-(Se ne stanno rendendo conto più persone ora, in tempi di *lockdown*, con molti governi apparentemente strumento di un complotto internazionale.  
+(Se ne stanno rendendo conto più persone ora, in tempi di *lockdown*, con molti governi apparentemente strumento di un complotto internazionale.[^3]  
 Ce ne stavamo già rendendo conto prima, con vari governi agendo come criminali e attaccando costantemente la [*privacy*](#princ_privacy) dei cittadini.)
+
+[^3]: Si cerchi *"LOCK STEP"* nel documento pubblicato nel 2010 dalla *Rockefeller Foundation* dal titolo [***Scenarios for the Future of Technology and International Development***](http://www.nommeraadio.ee/meedia/pdf/RRS/Rockefeller%20Foundation.pdf), già [ampiamente discusso sul web](https://duckduckgo.com/?q=Scenarios+for+the+Future+of+Technology+and+International+Development+Rockefeller&t=canonical&ia=web).
 
 Di nuovo: proponiamo in questo manifesto la creazione di un organismo resistente ai virus e di una vera democrazia che non sia una plutocrazia.
 
@@ -867,4 +873,3 @@ MA NON DIMENTICHIAMO:
 
 E IN OGNI CASO, A QUANTO PARE, NON ABBIAMO SCELTA:
 **È ORMAI UNA QUESTIONE DI SOPRAVVIVENZA**.
-
