@@ -256,13 +256,13 @@ I gruppi di potere pagano i legislatori e la correlazione tra le loro esigenze e
 Non è meno grave della corruzione in Paesi africani sulle cui elezioni certi funzionari degli USA pretenderebbero di essere legittimizzati a vigilare.
 
 <a name="corruzioneEVaccinazioni"></a>
-Anche in altri Paesi questo cancro si sta facendo più scoperto, basti vedere **la rapidità con cui sono state firmate leggi su vaccinazioni "obbligatorie"**, in violazione delle rispettive Costituzioni (e di convenzioni internazionali che sanciscono la priorità del rispetto per l'individuo rispetto a qualunque considerazione di presunti benefici per la società), quando le stesse case farmaceutiche che producono i vaccini hanno raccolto dati sulle reazioni avverse solamente durante i primi sette giorni dalla somministrazione, in certi casi quindici giorni, e invariabilmente **NON PRESENTANO NESSUN DATO SUGLI EFFETTI A DISTANZA DI MESI O ANNI**.<a href="#fn2" id="fnref2"><sup>2</sup></a>  
+Anche in altri Paesi questo cancro si sta facendo più scoperto, basti vedere **la rapidità con cui sono state firmate leggi su vaccinazioni "obbligatorie"**, in violazione delle rispettive Costituzioni (e di convenzioni internazionali che sanciscono la priorità del rispetto per l'individuo rispetto a qualunque considerazione di presunti benefici per la società), quando le stesse case farmaceutiche che producono i vaccini hanno raccolto dati sulle reazioni avverse solamente durante i primi sette giorni dalla somministrazione, in certi casi quindici giorni, e invariabilmente **NON PRESENTANO NESSUN DATO SUGLI EFFETTI A DISTANZA DI MESI O ANNI**.  
 Torneremo [più avanti](#diNuovoCorruzioneEVaccinazioni_e5G) sui vaccini.
 
 **IL VERO MALE NON È IL CAPITALISMO IN SE STESSO, MA UNO STATO CHE SI LASCIA CORROMPERE.**  
 **UNA MAGGIOR "PRESENZA" DI UNO STATO COSÌ SUSCETTIBILE DI ESSERE CORROTTO NON È *AFFATTO* UNA RISPOSTA CHE POSSA MIGLIORARE LE COSE.**
 
-(Se ne stanno rendendo conto più persone ora, in tempi di *lockdown*, con molti governi apparentemente strumento di un complotto internazionale.<a href="#fn3" id="fnref3"><sup>3</sup></a>
+(Se ne stanno rendendo conto più persone ora, in tempi di *lockdown*, con molti governi apparentemente strumento di un complotto internazionale.<a href="#fn3" id="fnref3"><sup>3</sup></a>  
 Ce ne stavamo già rendendo conto prima, con vari governi agendo come criminali e attaccando costantemente la [*privacy*](#princ_privacy) dei cittadini.)
 
 Di nuovo: proponiamo in questo manifesto la creazione di un organismo resistente ai virus e di una vera democrazia che non sia una plutocrazia.
