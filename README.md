@@ -1,54 +1,48 @@
-# PARADIGMA NUOVO  – 1.0
+# PARADIGMA NUOVO  &ndash; 1.0
 
 ### Manifesto anti-distopico per una coalizione tra le genti
 
 Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.  
 
-Bozza ver. 01.057b – 2020-05-01 – Scritto con [***Kate***](https://kate-editor.org/) + [***pandoc***](https://www.maketecheasier.com/convert-markdown-to-html-in-kate-text-editor/) (inizialmente con [***Mark Text***](https://marktext.app/))
+Bozza ver. 01.056 – 2020-04-23 &ndash; Scritto con [***Mark Text***](https://marktext.app/) e con [***Kate***](https://kate-editor.org/)  
 
 ---
 
 ## Di che cosa si tratta?
 
-Questo documento delinea **principi in cui crediamo si possano identificare *moltitudini* di esseri umani**. È importante constatarlo e dircelo, **riconoscerci** ed unire le forze.
+Questo documento delinea principi in cui crediamo si possano identificare *moltitudini* di esseri umani. È importante constatarlo e dircelo, **riconoscerci** ed unire le forze.
 
-**Non proponiamo un insieme *monolitico***, del tipo *"o siamo d'accordo al 100% su tutto quanto o niente"*.
+**Non proponiamo un insieme *monolitico***, del tipo "*o siamo d'accordo su tutto quanto al 100% o niente, non abbiamo nessuna affinità, frammentiamoci in movimenti antagonisti*".
 
-**Questi ideali, questi principi, costituiscono un'affinità più che sufficiente per decidere di lavorare insieme, invece di frammentarci in movimenti antagonisti.** Si tratta di trovare una formula perché ciò avvenga, e crediamo che questo sia un cammino possibile:
+Dopo aver presentato una piattaforma di base di valori comuni (1º obiettivo), auspichiamo un rafforzamento della democrazia ora sotto attacco in molti Paesi (2º obiettivo), e successivamente la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi scegliendo, da un menu *non monolitico*, quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc.** (3º obiettivo).  
+Proponiamo per esempio di lasciare che sia ogni votazione a decidere quanto lo Stato dovrà essere "presente" o "liberale".
 
-+ Dopo aver presentato una piattaforma di base di valori comuni intorno ai quali riunirci (1º obiettivo)
-+ auspichiamo un rafforzamento della democrazia ora sotto attacco in molti Paesi (2º obiettivo)
-+ e successivamente la creazione di un sistema democratico in cui si dia **priorità a principi e programmi rispetto a partiti e persone**, con la possibilità di **votare principi e programmi, scegliendo da un menu <u>non monolitico</u> quale sarà il da farsi in ambiti diversi, istruzione, sanità, energia, difesa, etc.** (3º obiettivo).  
-  Proponiamo **che sia ogni votazione a decidere quanto lo Stato dovrà essere "presente" o "liberale"**, su punti precisi, in ambiti diversi.  
-  (Tratteremo [più avanti](#scissorStatements) in questo documento una delle trappole in cui ci troviamo attualmente: il conflitto tra i "liberali" e coloro che disprezzano il "neoliberismo".)  
-  Si tratterà di implementare una democrazia più diretta, senza omettere di prenderne in considerazione i pro *e i contro*, e di porre le basi perché i rischi vengano annullati o minimizzati (stiamo pensando alla scarsità di pluralismo dovuta al "potere di fuoco" di certa informazione di massa coagulata in un pensiero unico, che è molto evidentemente il pensiero di chi paga, rispetto alle fonti di informazione "alternative").  
-  Bisognerà svolgere **un'analisi di sistema per progettare meccanismi implementativi della democrazia che ne facciano un organismo resistente ai virus, democrazia, non plutocrazia**. Si tratterà di lavorare realmente con la mentalità degli analisti di sistemi. Non a caso auspichiamo di avere l'apporto di **informatici e matematici**, oltre a giuristi, costituzionalisti, economisti, giornalisti...  
-  Il lavoro di progettazione di una tale democrazia *potrebbe* avvenire qui, in un *repository* analogo a questo che ospita il nostro Manifesto.
-  <a name="kiss"></a>
-  Affinché il risultato risponda a criteri di trasparenza e responsabilità, ci proponiamo di rispettare un principio di progettazione ben noto ai programmatori di *computers*: [***KISS***](https://duckduckgo.com/?q=keep+it+simple%2C+stupid&t=canonical&ia=web), "Keep It Simple, Stupid" or "Keep It Stupid Simple".
+Un primo livello di progettazione di una tale democrazia riformata potrebbe avvenire qui, in un *repository* analogo a questo che ospita il nostro Manifesto, con l'apporto di giuristi, costituzionalisti, economisti, informatici, matematici...
 
-<u>**Questo documento vuole installare le fondamenta per il 1º obiettivo. Il 2º e il 3º saranno oggetto di dibattito e di ulteriore lavoro di stesura.**</u>
+Ma già il fatto di *constatare* che siamo in *moltissimi* ad entrare in risonanza per gli stessi valori sarebbe un passo importante e ci darebbe una gran forza.
 
-Già il fatto di *constatare* che siamo in *moltissimi* ad entrare in risonanza per gli stessi valori (1º obiettivo) sarà un passo importante e ci darà una gran forza.
-
+Questo documento vuole installare le fondamenta per il 1º obiettivo. Il 2º e il 3º obiettivo saranno più complessi e saranno oggetto di dibattito e di molto lavoro.
 
 ---
 
 ## INDICE
 
 - [COME APPORTARE IDEE](#IDEE)
+
 - [PREMESSA](#PREMESSA)
-- [1º obiettivo: RICONOSCERCI](#1_OBIETTIVO)
-    + [*SCISSOR STATEMENTS*, DICHIARAZIONI FORBICE](#scissorStatements)
-        - ["NEOLIBERISMO"](#neoliberismo)
-    + [PRINCIPI DI BASE](#principiDiBase)
-    + [PUNTI CHIAVE](#puntiChiave)
-      - [Relazioni tra le nazioni: signori guerrafondai, *ci avete stufato*, vogliamo PACE!](#relazioniTraLeNazioni)
-- [2º OBIETTIVO: RIANIMARE LA DEMOCRAZIA, OGGI INFETTA, E DARE SPAZIO AI GIURISTI, AGLI ECONOMISTI ED AGLI INTELLETTUALI IN GENERALE CHE CI STANNO DA TEMPO ALLERTANDO](#2_OBIETTIVO)
-- [3º OBIETTIVO: TRASFORMARE LA DEMOCRAZIA CONVALESCENTE IN UN ORGANISMO RESISTENTE AI VIRUS](#3_OBIETTIVO)
+
+- [1º obiettivo: <u>RICONOSCERCI</u>](#1_OBIETTIVO)
+
+- [2ª OBIETTIVO: <u>RIANIMARE LA DEMOCRAZIA, OGGI INFETTA, E DARE SPAZIO AI GIURISTI, AGLI ECONOMISTI ED AGLI INTELLETTUALI IN GENERALE CHE CI STANNO DA TEMPO ALLERTANDO</u>](#2_OBIETTIVO)
+
+- [3º OBIETTIVO: <u>TRASFORMARE LA DEMOCRAZIA CONVALESCENTE IN UN ORGANISMO RESISTENTE AI VIRUS</u>](#3_OBIETTIVO)
+
 - [CONCRETAMENTE, CHE COSA PROPONIAMO DI FARE FIN D'ORA?](#CONCRETAMENTE)
-- [PIANO B – DECENTRALIZZARE TUTTO](#PLANB)
+
+- [PIANO B &ndash; DECENTRALIZZARE TUTTO](#PLANB)
+
 - [SINTESI](#SINTESI)
+
 - [CONCLUSIONE](#CONCLUSIONE)
 
 ---
@@ -73,7 +67,7 @@ Oltre che qui su *GitHub*, ci trovate anche **in *Diaspora*, rete sociale decent
   **Commentare [quella pubblicazione](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653) in *Diaspora* è al momento un modo per segnalarci la vostra approvazione.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
   **"Approvo il manifesto *Nuovo Paradigma 1.0* (bozza ver. nn.nnn)"**.  
   La versione che più vi è piaciuta potrete anche copiarla (e lo stesso dicasi per qualunque altra).  
-  **Se disponete di un *account* o un *nick* nelle reti sociali o in Telegram, o di una "facciata" nel web – un vostro *blog* o un vero e proprio sito web – potrete segnalare l'esitenza del manifesto ai vostri contatti e seguitori.**  
+  **Se disponete di un *account* o un *nick* nelle reti sociali o in Telegram, o di una "facciata" nel web &ndash; un vostro *blog* o un vero e proprio sito web &ndash; potrete segnalare l'esitenza del manifesto ai vostri contatti e seguitori.**  
   Vi ringrazieremo se spenderete 5-10 minuti del vostro tempo per aprire un account gratuito su *Diaspora*, sarà anche un'occasione per uscire un po' dalle grinfie di *Facebook*, con la sua censura e la sua connivenza con *Big Data*.
 
 &nbsp;
@@ -105,16 +99,14 @@ Potete **suggerire cambiamenti** in vari modi:
 
 **PER FAVORE <u>MANTENETE IL FORMATO MARKDOWN</u>, SCARICATEVI DIRETTAMENTE IL FILE README.md**, a meno che non si tratti di modifiche molto puntuali, molto piccole.
 
-<small>(Chi ha scritto fino ad ora il manifesto l'ha fatto sottraendo già molte ore ad altri compiti, alcuni svolti, similmente, *ad honorem*, ma non meno importanti, altri invece parte di obblighi di lavoro etc., NON VORREMMO SOTTRARRE TEMPO AD ULTERIORI SVILUPPI – TRADUZIONE, DIFFUSIONE, ETC. – PER RIFARE TUTTO IL FORMATO dopo che qualcuno l'ha PERSO facendo un copia&incolla dalla pagina nel browser, né vorremmo dover chiedere di preparare di nuovo la proposta.)</small>
+<small>(Chi ha scritto fino ad ora il manifesto l'ha fatto sottraendo già molte ore ad altri compiti, alcuni svolti, similmente, *ad honorem*, ma non meno importanti, altri invece parte di obblighi di lavoro etc., NON VORREMMO SOTTRARRE TEMPO AD ULTERIORI SVILUPPI &ndash; TRADUZIONE, DIFFUSIONE, ETC. &ndash; PER RIFARE TUTTO IL FORMATO dopo che qualcuno l'ha PERSO facendo un copia&incolla dalla pagina nel browser, né vorremmo dover chiedere di preparare di nuovo la proposta.)</small>
 
 **<u>GRAZIE</u>**
 
 &nbsp;
 
 ---
-
 ---
-
 ---
 
 <a name="PREMESSA"></a>
@@ -140,7 +132,7 @@ Perché chiamarlo **"manifesto anti-distopico"**, non è forse **un'utopia?** An
 
 Ci rendiamo conto che i cambiamenti che stiamo proponendo non sono semplici, né privi di rischi, né facili (presentiamo alla fine di questo documento un [**PIANO B**](#PLANB)). 
 
-Ma anche se gli aspiranti imperatori ci garantissero sicurezza totale e benessere, non potremmo tollerare di continuare a nutrire la macchina che dichiara apertamente di prepararsi ad aggredire ed assassinare altri popoli, sarebbe un'opzione immorale (non ci riferiamo al moralismo ipocrita di individui che fanno scandalo per l'amica *pornostar* di Donald Trump – questione che a nostro avviso deve discutere solo con sua moglie – ma poi approvano "bombardamenti umanitari" e genocidi vari).
+Ma anche se gli aspiranti imperatori ci garantissero sicurezza totale e benessere, non potremmo tollerare di continuare a nutrire la macchina che dichiara apertamente di prepararsi ad aggredire ed assassinare altri popoli, sarebbe un'opzione immorale (non ci riferiamo al moralismo ipocrita di individui che fanno scandalo per l'amica *pornostar* di Donald Trump &ndash; questione che a nostro avviso deve discutere solo con sua moglie – ma poi approvano "bombardamenti umanitari" e genocidi vari).
 
 E per i più opportunisti:  è chiaro ormai che anche **"fare la piega"**, seguire la direzione del vento per paura di spezzarsi, obbedire, non ci garantirebbe la sopravvivenza, crediamo anzi che probabilmente **aumenterebbe i rischi**.
 
@@ -158,9 +150,9 @@ https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/amer
 > 
 > *Its preparations are concealed, not published. Its mistakes are buried, not headlined. Its dissenters are silenced, not praised. No expenditure is questioned, no rumor is printed, no secret is revealed. It conducts the Cold War, in short, with a war-time discipline no democracy would ever hope or wish to match.* [...]
 
-Traduzione all'italiano:
+<u>Traduzione all'italiano:</u>
 
-> [...] *Perché ci fronteggia in tutto il mondo una cospirazione monolitica e spietata che si basa principalmente su mezzi segreti per espandere la sua sfera di influenza – sull'infiltrazione anziché sull'invasione, sulla sovversione anziché su elezioni, sull'intimidazione anziché sulla libera scelta, sulla guerriglia di notte invece di eserciti di giorno. È un sistema che ha inglobato vaste risorse umane e materiali nella costruzione di una macchina compatta e altamente efficiente che combina operazioni militari, diplomatiche, di intelligence, economiche, scientifiche e politiche.*
+> [...] *Perché ci fronteggia in tutto il mondo una cospirazione monolitica e spietata che si basa principalmente su mezzi segreti per espandere la sua sfera di influenza &ndash; sull'infiltrazione anziché sull'invasione, sulla sovversione anziché su elezioni, sull'intimidazione anziché sulla libera scelta, sulla guerriglia di notte invece di eserciti di giorno. È un sistema che ha inglobato vaste risorse umane e materiali nella costruzione di una macchina compatta e altamente efficiente che combina operazioni militari, diplomatiche, di intelligence, economiche, scientifiche e politiche.*
 > 
 > *I suoi preparativi sono nascosti, non vengono pubblicati. I suoi errori sono sepolti, non vengono messi in evidenza. I suoi dissidenti sono messi a tacere, non vengono elogiati. Nessuna spesa viene messa in discussione, nessuna voce di corridoio viene stampata, nessun segreto viene rivelato. Conduce la Guerra Fredda, in breve, con una disciplina marziale che nessuna democrazia avrebbe mai sperato né desiderato eguagliare.* [...]
 
@@ -170,7 +162,7 @@ Traduzione all'italiano:
 
 <a name="1_OBIETTIVO"></a>
 
-# 1º obiettivo: RICONOSCERCI
+# 1º obiettivo: <u>RICONOSCERCI</u>
 
 Proponiamo dei **PRINCIPI DI BASE**. Con essi, o con parte di essi, crediamo che possano sentirsi affini ***varie* delle nuove forze politiche che stanno sorgendo** in vari Paesi del mondo. Ciò permetterà che esse si riconoscano tra loro e che si formi **un'alleanza naturale**. Abbiamo bisogno di **RICONOSCERCI** e lavorare insieme.
 
@@ -187,107 +179,6 @@ E se ci scollegassero dalla rete? Parliamo! Se io parlo con varie persone, e a 1
 
 Non dimentichiamo le parole di JFK, citate poc'anzi: fronteggiamo una cospirazione **monolitica** e spietata, che ha inglobato a livello planetario vaste risorse umane e materiali nella costruzione di una macchina compatta e altamente efficiente che combina operazioni militari, diplomatiche, di *intelligence*, economiche, scientifiche e politiche.
 
-<a name="scissorStatements"></a>
-
-## *SCISSOR STATEMENTS*, DICHIARAZIONI FORBICE
-
-Finché ne saranno influenzati, non potranno "riconoscersi", e resteranno frammentati in gruppi antagonisti, gli umani "decenti" che condividono un'enorme capitale di valori comuni.
-
-Che cosa significa "dichiarazione forbice"? È molto chiaro in proposito un commento a [questo articolo](https://slatestarcodex.com/2018/10/30/sort-by-controversial/), (non è tanto l'articolo quanto il commento che ci interessa in questo momento). Il commento risponde all'affermazione di un altro lettore che appare come citazione nella citazione:
-
-> > *That which can be destroyed by a Scissor Statement should be.*
-> > *Change my mind.*
-> 
-> *The essence of a scissor is that it divides a group of otherwise aligned people. The scissor “nuclear power is safer than solar” divides the group “people concerned about climate change.” The scissor “Kavanaugh confirmation” divides the group Americans.*
-> 
-> *What it’s doing is taking a group of people who thought they were on the same team and telling them no, actually, you’re on opposite sides. You should fight each other.*
-> 
-> *There is a name for this. Divide and conquer.*
-> 
-> *The thing being destroyed isn’t the thing being fought over, it’s the larger coalition of people with other common interests.*
-> 
-> *It’s a weapon of general application. Any group larger than an individual will disagree about something. Insert the wedge there and the group fractures. If any given group or coalition can be destroyed by a scissor statement, your claim generalizes to the claim that every group or coalition should be destroyed.*
-
-Traduzione all'italiano:
-
-> > *Quanto può essere distrutto da una Frase Forbice dovrebbe esserlo.*
-> > *Provate a farmi cambiare idea.*
-> 
-> *L'essenza di una forbice è che divide un gruppo di persone altrimenti allineate. La forbice "l'energia nucleare è più sicura di quella solare" divide il gruppo "persone preoccupate per il cambiamento climatico". La forbice "conferma di Kavanaugh" divide il gruppo Statunitensi.*
-> 
-> *Ciò che sta producendo è prendere un gruppo di persone che pensavano di far parte della stessa squadra e dirgli no, in effetti, siete su sponde opposte. Dovreste lottare gli uni contro gli altri.*
-> 
-> *C'è un nome per questo. Divide et impera.*
-> 
-> *La cosa che viene distrutta non è l'oggetto della contesa, è la coalizione più ampia di persone con altri interessi in comune.*
-> 
-> *È un'arma di applicazione generale. In qualunque gruppo che non sia costituito da un unico individuo ci saranno divergenze su qualche cosa. Inserisci lì il cuneo e il gruppo si frattura. Se qualunque gruppo o coalizione può essere distrutto da una dichiarazione forbice, la tua affermazione si generalizza nell'affermazione che tutti i gruppi o coalizioni dovrebbero essere distrutti.*
-
-<a name="neoliberismo"></a>
-
-### "NEOLIBERISMO
-
-<u>**Crediamo che il termine "neoliberismo" sia un termine improprio e impreciso e che se ne debba *urgentemente* trovare e adottare un altro che lo rimpiazzi, sintetico, preciso, eloquente, privo di sarcasmo ma non della connotazione negativa che certa condotta merita: *corrompere* per modificare le leggi a proprio favore.**</u>
-
-Ciò permetterebbe di **USCIRE DALLA TRAPPOLA IN CUI CI TROVIAMO OGGI, CON I POPOLI *DIVISI* DA <u>UNA DELLE DICOTOMIE PIÙ IMPORTANTI CHE AFFLIGGONO ATTUALMENTE L'UMANITÀ "DECENTE"</u>:**
-
-+ I "liberali" disprezzano coloro che disprezzano il "neoliberismo", perché presumono che devono essere propensi a calpestare le libertà individuali, visto che sono contrari a qualche cosa che si chiama "---liberismo".
-+ Chi invece disprezza il "neoliberismo" ne vede le pratiche di corruzione occulta o scoperta, il volto totalitario, la volontà di imporre un pensiero unico, la mancanza evidente di buona fede da parte di tanti governanti che sventolano quella bandiera (con questo non stiamo affermando che non ci sia stata mala fede sotto altre bandiere!), e i disastri economici ai danni di un numero crescente di popolazioni. 
-
-**Quanto succede oggi non è *laissez-faire* di nessun "colore"**.[^1]
-
-[^1]: Si veda in [questa pagina](https://en.wikipedia.org/wiki/Laissez-faire) il termine *left-wing laissez-faire* e si veda questa pagina su [*free-market anarchism*](https://en.wikipedia.org/wiki/Free-market_anarchism).
-
-Il cittadino comune e il piccolo imprenditore sono *vessati* da restrizioni di ogni tipo e dalle imposizioni fiscali a cui il grande capitale sfugge agilmente e in piena compatibilità con le leggi. Percentualmente, [paga più tasse il cittadino comune che il ricchissimo](#ilRicchissimo).
-
-Com'è possibile?
-
-Ce ne dà un'idea la chiara e semplice analisi che [**represent.us**](https://represent.us/) compie del sistema statunitense di CORRUZIONE LEGALIZZATA, uno scandalo permanente chiamato LOBBYISM.  
-I gruppi di potere pagano i legislatori e la correlazione tra le loro esigenze e le leggi approvate è quasi perfetta, mentre è quasi nulla rispetto alle esigenze del comune cittadino.
-
-+ [**Corruption is Legal in America**](https://act.represent.us/sign/the-problem/)  
-  
-  <div><center>[![snapshot from video "Corruption Is Legal"](https://i.postimg.cc/7ZvZdwtN/represent-us-Corruption-Is-Legal.jpg)](https://act.represent.us/sign/the-problem/)</center></div>
-    
-+ [**The Strategy to End Corruption**](https://act.represent.us/sign/our-strategy/)  
-  
-  <div><center>[![snapshot from video "The Strategy to End Corruption"](https://i.postimg.cc/1zBR86mW/represent-us-The-Strategy-To-End-Corruption.jpg)](https://act.represent.us/sign/our-strategy/)</center></div>
-
-È così che i popoli finiscono con avere un'influenza quasi nulla sulle decisioni dei legislatori e dell'esecutivo, altro che democrazia, "governo del popolo".
-
-Non è meno grave della corruzione in Paesi africani sulle cui elezioni certi funzionari degli USA pretenderebbero di essere legittimizzati a vigilare.
-
-<a name="corruzioneEVaccinazioni"></a>
-Anche in altri Paesi questo cancro si sta facendo più scoperto, basti vedere **la rapidità con cui sono state firmate leggi su vaccinazioni "obbligatorie"**, in violazione delle rispettive Costituzioni (e di convenzioni internazionali che sanciscono la priorità del rispetto per l'individuo rispetto a qualunque considerazione di presunti benefici per la società), quando le stesse case farmaceutiche che producono i vaccini hanno raccolto dati sulle reazioni avverse solamente durante i primi sette giorni dalla somministrazione, in certi casi quindici giorni, e invariabilmente **NON PRESENTANO NESSUN DATO SUGLI EFFETTI A DISTANZA DI MESI O ANNI**.[^2]  
-Torneremo [più avanti](#diNuovoCorruzioneEVaccinazioni_e5G) sui vaccini.
-
-[^2]: Raccomandiamo *molto* caldamente di vedere questo video: [**Come è fatto un vaccino? con la dr.ssa Loretta Bolgan**](https://www.youtube.com/watch?v=-dddlxI5AD0).
-
-**IL VERO MALE NON È IL CAPITALISMO IN SE STESSO, MA UNO STATO CHE SI LASCIA CORROMPERE.**  
-**UNA MAGGIOR "PRESENZA" DI UNO STATO COSÌ SUSCETTIBILE DI ESSERE CORROTTO NON È *AFFATTO* UNA RISPOSTA CHE POSSA MIGLIORARE LE COSE.**
-
-(Se ne stanno rendendo conto più persone ora, in tempi di *lockdown*, con molti governi apparentemente strumento di un complotto internazionale.[^3]  
-Ce ne stavamo già rendendo conto prima, con vari governi agendo come criminali e attaccando costantemente la [*privacy*](#princ_privacy) dei cittadini.)
-
-[^3]: Si cerchi *"LOCK STEP"* nel documento pubblicato nel 2010 dalla *Rockefeller Foundation* dal titolo [***Scenarios for the Future of Technology and International Development***](http://www.nommeraadio.ee/meedia/pdf/RRS/Rockefeller%20Foundation.pdf), già [ampiamente discusso sul web](https://duckduckgo.com/?q=Scenarios+for+the+Future+of+Technology+and+International+Development+Rockefeller&t=canonical&ia=web).
-
-Di nuovo: proponiamo in questo manifesto la creazione di un organismo resistente ai virus e di una vera democrazia che non sia una plutocrazia.
-
-&nbsp;
-
-La summenzionata [dicotomia](#neoliberismo) che scaturisce dal termine "neo**liberal**" ha l'effetto di impedirci di mettere a fuoco quanto in realtà è **corruzione**. Ciò fa si che una moltitudine di intellettuali stiano sparando sul bersaglio sbagliato, il ---liberismo in se stesso.
-
-È solo *una* delle *moltissime* dicotomie che ci dividono.  
-L'umanità "decente" spreca tempo ed energie frammentandosi in innumerevoli gruppi in contrasto gli uni con gli altri, lasciando che questioni di ogni tipo creino **spaccature** che spesso coprono a 360º la visione delle persone coinvolte, per questioni di razza, religione, orientamento sessuale, matrimonio tra persone dello stesso sesso, aborto... È sorto perfino l'argomento **LA TERRA È PIATTA**, che abbiamo spesso visto apparire in *forum* su Internet dove il 100% dei partecipanti disprezzava l'imperialismo, più volte proprio nel bel mezzo di discussioni in cui fortissima era la condanna *unanime* per la condotta del *Deep State* (termine che non possiamo circoscrivere ai confini degli USA), confermando come si faccia del paradigma *divide et impera* una vera e propria tecnica per produrre frammentazione, depistaggio, perdita di tempo ed energie.
-
-<u>Il paradigma *divide et impera* viene applicato IN CONTINUAZIONE in ogni ambito, è urgente che più persone se ne rendano conto. **Quanto ci accomuna supera** questo tipo di divisioni. **PRENDIAMO ATTO DI QUESTO PATRIMONIO.**</u>
-
-Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il controllo della Siria perché Zbigniew Brzezinski scriveva "chi controlla quella regione controllerà il mondo", giustificando così le sofferenze tremende vissute dalle popolazioni di quella regione, teste tagliate, persone lanciate dal tetto degli edifici, ragazzini appena adolescenti "giustiziati" con bacchette incandescenti per la saldatura... giustificando l'applicazione della legge del più forte in flagrante e scandalosa violazione del diritto internazionale.
-
-**Non stiamo vivendo un sogno di "fratellanza universale"**, consideriamo che almeno UNA dicotomia insolubile esiste, e come abbiamo affermato nella [premessa](#premessa) a questo documento, scegliamo una delle due parti.
-
-<a name="principiDiBase"></a>
-
 ## PRINCIPI DI BASE
 
 + TRASPARENZA
@@ -303,8 +194,6 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
 + MULTIPOLARITÀ, UGUALE DIGNITÀ E SOVRANITÀ DI TUTTE LE NAZIONI
 
 + COLLABORAZIONE TRA I POPOLI
-
-<a name="puntiChiave"></a>
 
 ## PUNTI CHIAVE
 
@@ -327,20 +216,20 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
    DOBBIAMO ASSOLUTAMENTE IMPEDIRE CHE CIÒ ACCADA, IL POPOLO PAGA GLI STIPENDI DEGLI UNIFORMATI E NON POSSIAMO LASCIARE CHE VENGANO MANIPOLATI PER TRASFORMARLI NEL CANE DA GUARDIA DEI *BANKSTERS*. E IL RESTO DELLA POPOLAZIONE DOVRÀ ESSERE MESSO IN GUARDIA PERCHÉ NON CADA NELLA TRAPPOLA, SCHIVARE IL CONFRONTO CON GLI UNIFORMATI, IL PROBLEMA È "IN ALTO" (in una scala soldi, potere e bassezza) E VA AFFRONTATO TOP-DOWN.
 
 3. <a name="nuovaInvestigazione9_11"></a>
-   Dobbiamo iniziare una nuova **indagine** sul **9-11** – lo menzioneremo [di nuovo più avanti](#nuovaInvestigazione9_11_bis) – ed esigere che vengano **processati e castigati i *veri* colpevoli**.
+   Dobbiamo iniziare una nuova **indagine** sul **9-11** &ndash; lo menzioneremo [di nuovo più avanti](#nuovaInvestigazione9_11_bis) &ndash; ed esigere che vengano **processati e castigati i *veri* colpevoli**.
 
 4. Dobbiamo aprire un'**indagine** sulla pandemia da Covid-19**, poniendo **in correlazione tutti i dati disponibili, includendo la distribuzioni di laboratori, basi militari, aeroporti civili e militari e voli effettuati prima e durante la pandemia, specialmente i voli a bassa quota**.
 
 5. Dobbiamo compiere una verifica su queste accuse all'OMS, **Organizzazione Mondiale per la Sanità**.
    
-   <div><center>![OMS organizzazione criminale](https://i.postimg.cc/d0Z7Z0sY/TEXT-PIC-OMS-STRUTTURA-CRIMINALE-NELLE-MANI-DELL-INDUSTRIA-ASHKENAZITA-DEI-FARMACI.jpg)</center></div>
+   ![OMS organizzazione criminale](https://i.postimg.cc/d0Z7Z0sY/TEXT-PIC-OMS-STRUTTURA-CRIMINALE-NELLE-MANI-DELL-INDUSTRIA-ASHKENAZITA-DEI-FARMACI.jpg)
    
    (**NOTA BENE:** non siamo in condizione in questo momento di verificare quanto il testo nell'immagine denuncia, né se l'industria in questione sia ashkenazita o italiana o giapponese o quant'altro. Noi non saltiamo a difendere la memoria di Al Capone o di altri mafiosi di origine italiana, così come i cittadini giapponesi o russi non saltano offesi quando si nominano le rispettive mafie. Non crediamo che l'appartenenza a una particolare etnia possa costituire uno scudo contro le critiche. Non ci importa se le persone sono bionde o brune o di che colore abbiano la pelle, ci importa ciò che fanno. [Tendiamo a pensare che al giorno d'oggi tutti i grandi gruppi criminali devono essere multi-etnici, ma ovviamente non lo sappiamo.])
    
    Se le accuse risulteranno fondate, allora dovremo **negare ogni autorità all'OMS**.
    
    <a name="Gates_depopulation"></a>
-   **Bill Gates** è evidentemente **[ossessionato](https://www.bitchute.com/video/hO8IBMtk27xS/) dalla necessità di ridurre la popolazione mondiale**, **non crediamo che abbia nessuna intenzione di tutelare la nostra salute con i suoi vaccini** (e *anche* se fosse in buona fede, dopo decenni di *bugs* incredibilmente evidenti – per non dire altro – in tutte le versioni del suo sistema operativo *Windows*,  avremmo *ottime* ragioni per diffidare della qualità dei suoi vaccini).
+   **Bill Gates** è evidentemente **[ossessionato](https://www.bitchute.com/video/hO8IBMtk27xS/) dalla necessità di ridurre la popolazione mondiale**, **non crediamo che abbia nessuna intenzione di tutelare la nostra salute con i suoi vaccini** (e *anche* se fosse in buona fede, dopo decenni di *bugs* incredibilmente evidenti &ndash; per non dire altro &ndash; in tutte le versioni del suo sistema operativo *Windows*,  avremmo *ottime* ragioni per diffidare della qualità dei suoi vaccini).
    
    (Facciamo notare che da più parti si muovono accuse alla stessa ONU, **Organizzazione delle Nazioni Unite**, accuse su cui ci riserviamo un approfondimento. L'ONU avrebbe per esempio emesso una pubblicazione politica pretendendo che la stessa avesse un fondamento scientifico che invece è risultato essere totalmente inconsistente. La pubblicazione sembrava alludere all'ineluttabilità di una necessità di ridurre la popolazione umana in tempi brevi. Trovate vari link in questa pagina e una critica in video: [**Pay Up or the Earth Gets It! – #PropagandaWatch - corbettreport.com**](https://www.corbettreport.com/pay-up-or-the-earth-gets-it-propagandawatch/ "Permanent Link to Pay Up or the Earth Gets It! – #PropagandaWatch")  
    L'ONU viene anche frequentemente accusata di voler imporre un governo mondiale. Dobbiamo per ora lasciare in sospeso un giudizio in merito.)
@@ -375,7 +264,7 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
    Questo si chiama **"golpe blando", colpo di stato morbido**, né più né meno, dove l'aggettivo è dovuto solamente al fatto che non si impiegano le forze armate e si gioca con i margini discrezionali per restare nell'apparenza della legalità e del rispetto per le istituzioni.
 
 10. <a name="princ_privacy"></a>
-    NO all'erosione della **privacy del cittadino** (ne parliamo anche [più avanti](#progr_privacy)).
+    NO all'erosione della **privacy del cittadino**, ne parliamo anche [più avanti](#progr_privacy).
     
     Crediamo que la delinquenza comune abbia comunque altre risorse per comunicare in segretezza, al riparo dalla legge, così come, evidentemente, la delinquenza "di alto calibro", quella che si infiltra negli stessi governi.
     
@@ -388,14 +277,13 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
     
     Risposta: **"Non ho niente da nascondere"**. Bravo, neanche noi, ma certi giornalisti devono invece proteggere *la vita* di fonti che denunciano crimini commessi con la partecipazione degli stessi governanti. Dovremmo crittare sempre tutti quanti, non c'è altro modo.  
     
-    [***Aleksandr Solzhenitsyn***](https://duckduckgo.com/?q=Aleksandr+Solzhenitsyn&t=canonical&ia=shopping) fu condannato a otto anni di prigionia nei tremendi campi di lavoro denominati *gulag* a causa di **lettere private** ad un amico nelle quali criticaba la conduzione che *Joseph Stalin* stava facendo della 2ª Guerra Mondiale. Solzhenitsyn, **ufficiale d'artiglieria, era stato decorato due volte**.
-    
     È ABBASTANZA <u>**ELOQUENTE**</u> SUL PRESENTE IL FATTO CHE **EDWARD SNOWDEN** SIA **PROFUGO**, **JULIAN ASSANGE PRIGIONIERO** E **CHELSEA MANNING** VENGA **RIMESSA IN CARCERE A DISCREZIONE DEI GOVERNANTI** SE RIFIUTA DI DICHIARARE QUANTO LORO PRETENDONO.
-        
-    Abbiamo visto grazie alla **coraggiosa denuncia di Edward Snowden** che non si fa un uso strettamente collegato alla cosiddetta "sicurezza nazionale" delle informazioni risultanti dallo spionaggio di massa operato dalla ***NSA***, ***National Security Agency***. Vengono utilizzate a fini di competizione sleale in ambito commerciale e industriale, senza esitare a danneggiare la vita di privati cittadini o a ricattarli.
+    
+    Abbiamo visto grazie alla **coraggiosa denuncia di Edward Snowden** che non si fa un uso strettamente collegato alla cosiddetta "sicurezza nazionale" delle informazioni risultanti dallo spionaggio di massa operato dalla ***NSA***, ***National Security Agency***. Vengono utilizzate a fini di competizione sleale in ambito commerciale e industriale, senza esitare a danneggiare le vite di privati cittadini.
+    &nbsp;  
     
     E [abbiamo già affermato](#se_governi_trasparenti): **SE TUTTI I GOVERNI FOSSERO TOTALMENTE TRASPARENTI, NON CI SAREBBERO PIÙ GUERRE NÉ "TERRORISMO"**.
-    
+
 11. NO agli **"assegni in bianco"** a politici che una volta eletti tradiscono disinvoltamente i principi proclamati in campagna elettorale, che gli hanno valso la preferenza degli elettori che li hanno votati.
     
     Per questo, proporremo azioni nell'ambito del 2º obiettivo e una riforma nell'ambito del 3º obiettivo.
@@ -408,19 +296,13 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
 
 15. NO al ***LOBBYISM***, inteso come la vera e propria vendita di peso politico a favore di qualunque soggetto, perché è sinonimo di **CORRUZIONE LEGALIZZATA** e tradimento della volontà degli elettori. Una testa un voto.
 
-<a name="ilRicchissimo"></a>
-
-16. NO all'otorgamento di **benefici** a soggetti privati o statuali **a detrimento della sicurezza e del benessere della collettività** ([abbiamo già parlato](#neoliberismo) di quella che è secondo noi la vera natura di quanto viene impropriamente definito "neoliberismo").
+16. NO all'otorgamento di **benefici** a soggetti privati o statuali **a detrimento della sicurezza e del benessere della collettività**.
     
     + Per esempio, è inammissibile che la pressione fiscale sia una percentuale sulle entrate incomparabilmente più alta per il Cittadino medio che per colossi come *Google*, *Facebook* e *Alibaba*. (Quest'ultima avrebbe pagato qualche cosa come 22000 euro di tasse in Italia l'anno scorso?!) **Realmente otorgare agevolazioni fiscali smisurate alle grandi imprese crea nuovi posti di lavoro?** I grafici mostrano che nel corso degli anni sono cresciuti i profitti delle grandi imprese, la produttività dei lavoratori, e le difficoltà per i lavoratori. **Chi realmente crea posti di lavoro è *la domanda***, e poche persone, per quanto dispongano di un potere d'acquisto enorme, *non rimpiazzano* la domanda creata da un'enorme massa di persone che abbiano entrate sufficienti per permettersi di comprare pantaloni, camice, maglioni, cibo, automobili, motociclette, etc..
     
-    <a name="diNuovoCorruzioneEVaccinazioni_e5G"></a>
-    + Un altro esempio sono **i vaccini "obbligatori"**, che abbiamo [già associato alla corruzione](#corruzioneEVaccinazioni), e **il 5G**: è inconcepibile che i parlamentari siano tutti così pronti a votare l'obbligatorietà di **vaccini** che stanno innegabilmente provocando danni irreparabili. Guardate le statistiche di bambini autistici di anno in anno! Non possiamo non pensare che ricevano mance dalla *Big Pharma*, è scandaloso, basta!  
-    **Ci parlano di proteggere le persone che non potrebbero vaccinarsi?** Quante sarebbero in percentuale? Sicuramente meno della percentuale di persone danneggiate dai vaccini.
-    
-      Perché non c'è per le persone **elettrosensibili** la stessa "sensibilità", la stessa premura?
+    + Un altro esempio sono i vaccini e il 5G: è inconcepibile che i parlamentari siano tutti così pronti a votare l'obbligatorietà di **vaccini** che stanno innegabilmente provocando danni irreparabili. Guardate le statistiche di bambini autistici di anno in anno! Non possiamo non pensare che ricevano mance dalla *Big Pharma*, è scandaloso, basta!
       
-      Sul **5G** dovrebbe valere il principio di precauzione, a chi importano i soldi delle licenze per l'uso delle frequenze, se poi dovremo spendere molto di più in cure mediche?
+      E sul **5G** dovrebbe valere il principio di precauzione, a chi importano i soldi delle licenze per l'uso delle frequenze, se poi dovremo spendere molto di più in cure mediche?
       
       Non diciamo "in cure e indennizzazioni" perché le indennizzazioni non le deve pagare il contribuente, le deve pagare chi cerca di imporre questa spada di Damocle sulla testa del contribuente. E le indennizzazioni non ti restituiscono comunque la vita che avresti avuto se non te l'avessero rovinata.
       
@@ -515,7 +397,7 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
     
     Vediamo ora, di fronte a questa pandemia, che una porzione *enorme* (50%?) della popolazione della Nazione che più spende in armamenti non ha una copertura sanitaria.
     
-    <div><center>![Drone firing missile](https://i.postimg.cc/4yJ8j3gc/MEWE-PIC-70000-USD-28mln-drone-to-kill-people-living-with-less-than-1-USD-per-day.jpg)</center></div>
+    ![Drone firing missile](https://i.postimg.cc/4yJ8j3gc/MEWE-PIC-70000-USD-28mln-drone-to-kill-people-living-with-less-than-1-USD-per-day.jpg)
     
     Traduzione all'italiano:
     
@@ -537,9 +419,7 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
     > 
     > *I funzionari e i dipendenti dello Stato e degli enti pubblici sono direttamente responsabili, secondo le leggi penali, civili e amministrative, degli atti compiuti in violazione di diritti. In tali casi la responsabilità civile si estende allo Stato e agli enti pubblici.*
 
-<a name="relazioniTraLeNazioni"></a>
-
-## Relazioni tra le nazioni: signori guerrafondai, *ci avete stufato*, vogliamo PACE!
+## Relazioni tra le nazioni: signori guerrafondai, <u>ci avete *stufato*</u>, vogliamo PACE!
 
 31. CREDIAMO nella **COLLABORAZIONE MUTUAMENTE VANTAGGIOSA**  ("win-win") tra i governi e tra i Popoli di tutte le Nazioni.
     
@@ -575,7 +455,7 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
     
     [**The Covert Sphere: Secrecy, Fiction, and the National Security State**](https://muse.jhu.edu/book/43878)
     
-    <div><center>[!["The Covert Sphere" book cover](https://muse.jhu.edu/book/43878/image/front_cover.jpg)](https://muse.jhu.edu/book/43878)</center></div>
+    [!["The Covert Sphere" book cover](https://muse.jhu.edu/book/43878/image/front_cover.jpg)](https://muse.jhu.edu/book/43878)
     
     (Il sito web appartiene alla **J**ohn **H**opkins **U**niversity, uno degli organizzatori, del famigerato "EVENT 201", tenutosi il 18 ottobre 2019 con accesso unicamente su invito, simulazione di una pandemia da Coronavirus e delle conseguenze per l'economia e la salute mondiale. Pochi mesi dopo, migliaia saranno i morti e centinaia di migliaia i malati.)
     
@@ -589,7 +469,6 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
     
     Sicuramente chi la occupa vorrà castigare la nostra mancanza di obbedienza, ma ci organizzeremo e prenderemo le nostre precauzioni. Di nuovo rimandiamo a quanto scritto nella premessa di questo documento: "fare la piega" non ci garantirebbe comunque la sopravvivenza, anzi aumenterebbe i rischi, oltre a costituire un'opzione semplicemente immorale. Lasciarci porre al fronte di una aggressione contro potenze nucleari non è certo una maniera di evitare i rischi.
     
-    <a name="WeLoveTheUSApeople"></a>
     AMIAMO IL POPOLO DEGLI STATI UNITI, MA, <u>CONGIUNTAMENTE AD UN NUMERO VIA VIA CRESCENTE DI CITTADINI STATUNITENSI, RIFIUTIAMO L'IMPERIALISMO</u> PROMOSSO DAI GOVERNI MARIONETTA DEL *DEEP STATE* E DEL COMPLESSO MILITARE INDUSTRIALE.
     
     <u>CON LORO</u> DICIAMO: HANDS OFF SYRIA, LEAVE RUSSIA ALONE, LEAVE IRAN ALONE, LEAVE CHINA ALONE, LEAVE NORTH KOREA ALONE... **PEACE!**
@@ -612,21 +491,11 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
 
 36. **La NATO è oggi un'organizzazione terrorista.**
     Abbiamo visto lo scempio commesso nei Balcani a danni di popolazioni e strutture civili.
-    È URGENTISSIMA UNA **RIFORMA** che restituisca ai singoli Parlamenti il potere di prendere decisioni sull'attuare delle rispettive Forze Armate, oggi sottomesse alla catena di comando NATO, **SENZA LA QUALE** SAREMO COSTRETTI A USCIRE dalla NATO e a passare ad uno status di **PAESE NEUTRALE**, secondo l'esempio della Svizzera.
+    È URGENTISSIMA UNA **RIFORMA** che restituisca ai singoli Parlamenti il potere di prendere decisioni sull'attuare delle rispettive Forze Armate, oggi sottomesse alla catena di comando NATO, **O** SAREMO COSTRETTI A USCIRE dalla NATO e a passare ad uno status di **PAESE NEUTRALE**, secondo l'esempio della Svizzera.
 
-    **ITALIA**, e sicuramente vorrebbero sommarsi cittadini di molti altri paesi, viste certe proteste:  
-    Abbiamo già detto qual è [il nostro atteggiamento](#WeLoveTheUSApeople) verso il popolo degli Stati Uniti d'America e verso certe politiche dei suoi governanti.
-    Ma dobbiamo constatare che **la presenza di basi militari della NATO e degli USA non costituisce una fonte di sicurezza, ben al contrario.** Coloro che sono al comando ci considerano come **bersagli sacrificabili di un'eventuale ritorsione nucleare**, alla stregua di navi militari e sommergibili, mentre loro fanno *bullying* contro altre potenze nucleari, Paesi pacifici che non si prestano a piegarsi all'imposizione di un mondo unipolare, all'imposizione del predominio di cui apertamente si parla nelle dottrine pubblicate sul web da pochi scellerati.  
-    Non abbiano la **sfacciataggine** di venirci a **chiedere più soldi** di quelli che già sta risucchiando il poderoso virus del *loro* complesso militare industriale! ANZI, **NOI dovremmo chiedergli di pagare affitti ESORBITANTI**, fino a quando non ce li potremo togliere di dosso. **Se ci colpisse anche solo *una* testata atomica, la "ricaduta" negativa in termini economici ed umani supererebbe di gran lunga tutto il "beneficio" di questi 70 anni di occupazione** ("beneficio" tra virgolette perché **l'inquinamento chimico ed elettromagnetico** e **l'aumento dei casi di tumori** ed altre malattie intorno a certe installazioni non sono catalogabili come benefici).  
-  
-    + SIAMO VASSALLI DI UN PAESE – ed occupati dalle sue forze armate – IL CUI GOVERNO
-        - È ORMAI PIENAMENTE INFILTRATO DALLA MACCHINA INFERNALE CHE JFK DENUNCIAVA
-        - VIENE SISTEMATICAMENTE ELETTO CON [FRODE ELETTORALE](#demoElectionFraud)  
-          E I "PADRONI" DEL PROCESSO ELETTORALE TRUCCATO (E DELLA CORRUZZIONE LEGALIZZATA DELLA VITA PARLAMENTARE DEGLI USA) HANNO IN DEFINITIVA IL DITO SUL BOTTONE CHE CONTROLLA ANCHE LE BOMBE ATOMICHE IN CASA NOSTRA. POTREMMO DIVENIRE COMPLICI PASSIVI E VITTIME DI UN OLOCAUSTO NUCLEARE.  
-          *In teoria* i militari USA (così come quelli italiani) hanno il dovere di disobbedire a ordini anti-costituzionali, ma non siamo molto ottimisti al riguardo, specialmente osservando in questo periodo di *lockdown* con quanto accanimento gli uniformati di tante forze in tanti paesi si stiano adoperando per *calpestare* i diritti costituzionali dei cittadini.
-    + STIAMO VIOLANDO IL TRATTATO DI NON PROLIFERAZIONE DEGLI ARMAMENTI NUCLEARI, che prevede che paesi che non producono armi nucleari non ne accettino da paesi che le producono, e paesi che le producono non ne diano a paesi che non le producono.
+37. **La presenza di basi militari della NATO e degli USA non costituisce una fonte di sicurezza, ben al contrario.** Coloro che sono al comando ci considerano come **bersagli sacrificabili di un'eventuale ritorsione nucleare**, alla stregua di navi militari e sommergibili, mentre loro fanno *bullying* contro altre potenze nucleari, Paesi pacifici che non si prestano a piegarsi all'imposizione di un mondo unipolare, all'imposizione del predominio di cui apertamente si parla nelle dottrine pubblicate sul web da pochi scellerati. Non abbiano la **sfacciataggine** di venirci a **chiedere più soldi** di quelli che già sta risucchiando il poderoso virus del *loro* complesso militare industriale! ANZI, **NOI dovremmo chiedergli di pagare affitti ESORBITANTI**, fino a quando non ce li potremo togliere di dosso. **Se ci colpisse anche solo *una* testata atomica, la "ricaduta" negativa in termini economici ed umani supererebbe di gran lunga tutto il "beneficio" di questi 70 anni di occupazione** ("beneficio" tra virgolette perché **l'inquinamento chimico ed elettromagnetico** e **l'aumento di casi di tumori** ed altre malattie intorno a certe installazioni non sono certo catalogabili come benefici).
 
-37. <u>**ESIGIAMO**</u> che vengano rispettate queste parole:
+38. <u>**ESIGIAMO**</u> che si tornino a rispettare queste parole:
     
     > *ART. 11 DELLA COSTITUZIONE REPUBBLICA ITALIANA:*
     > 
@@ -636,9 +505,9 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
     E sappiamo quanto vendicative siano le personalità in controllo del "Deep State". **Un tale governo sarebbe immediatamente *demonizzato***, con insinuazioni più tossiche del veleno di un serpente a sonagli (assolutamente *indignante* l'accusa alla Russia di aver inviato all'Italia mascherine infettate, che è quanto farebbero piuttosto le menti perverse del *NWO*).
     
     <a name="nuovaInvestigazione9_11_bis"></a>
-    Ma speriamo che anche un numero sufficiente di Cittadini USA si risveglieranno e che potranno eliminare il voto elettronico sistematicamente truccato e installare una democrazia, dando il via tra l'altro ad una nuova investigazione sul **9-11** – [ne abbiamo già parlato](#nuovaInvestigazione9_11) – in modo che siano definitivamente identificati e puniti **i veri colpevoli** e sia chiaro che non sempre chi parla di patriottismo è un patriota.
+    Ma speriamo che anche un numero sufficiente di Cittadini USA si risveglieranno e che potranno eliminare il voto elettronico sistematicamente truccato e installare una democrazia, dando il via tra l'altro ad una nuova investigazione sul **9-11** &ndash; [ne abbiamo già parlato](#nuovaInvestigazione9_11) &ndash; in modo che siano definitivamente identificati e puniti **i veri colpevoli** e sia chiaro che non sempre chi parla di patriottismo è un patriota.
 
-38. CONDANNIAMO CON VEEMENZA **OGNI SFORZO VOLTO A POTENZIARE VIRUS ESISTENTI O A CREARNE DI NUOVI**.
+39. CONDANNIAMO CON VEEMENZA **OGNI SFORZO VOLTO A POTENZIARE VIRUS ESISTENTI O A CREARNE DI NUOVI**.
     L'UMANITÀ DEVE <u>***CATEGORICAMENTE PROIBIRE***</u> **OGNI ATTIVITÀ IN TAL SENSO**, EFFETTUATA SOTTO QUALUNQUE PRETESTO, DA PARTE DI SOGGETTI PRIVATI O STATUALI, IMPONENDO PER I TRASGRESSORI **PENE PESANTI QUANTO LO È LA MINACCIA CHE LE LORO ATTIVITÀ COSTITUISCONO** PER L'UMANITÀ.
     
     IN CASO DI "FUGHE" ACCIDENTALI O MENO, I PROPRIETARI DEI LABORATORI CHE COMPIANO TALI ATTIVITÀ DEVONO ESSERE CHIAMATI A RISPONDERE SOLO PER IL FATTO DI STAR COMIPENDO TALI ATTIVITÀ, ANCHE IN MANCANZA DI PROVE CHE LI COLLEGHINO DIRETTAMENTE ALL'ACCADUTO.
@@ -647,7 +516,7 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
 
 <a name="2_OBIETTIVO"></a>
 
-# 2º OBIETTIVO: RIANIMARE LA DEMOCRAZIA, OGGI INFETTA, E DARE SPAZIO AI GIURISTI, AGLI ECONOMISTI ED AGLI INTELLETTUALI IN GENERALE CHE CI STANNO DA TEMPO ALLERTANDO
+# 2ª OBIETTIVO: <u>RIANIMARE LA DEMOCRAZIA, OGGI INFETTA, E DARE SPAZIO AI GIURISTI, AGLI ECONOMISTI ED AGLI INTELLETTUALI IN GENERALE CHE CI STANNO DA TEMPO ALLERTANDO</u>
 
 Avanzando verso il compimento del 1º obivettivo, acquisiremo progressivamente un peso sufficiente ad impedire che si prendano decisioni palesemente contrarie agli interessi di qualunque settore sociale, come quelle a cui gli italiani e vari altri popoli hanno assistito costernati durante gli ultimi vent'anni o più.
 
@@ -691,7 +560,7 @@ Fin d'ora, possiamo pensare ai seguenti punti.
    Raggiungendo un peso nella gestione della cosa pubblica, potremo promuovere **EQUA POSSIBILITÀ DI ACCESSO A TUTTI GLI SPAZI MEDIATICI** per tutte le forze che si propongono per contribuire alla gestione della cosa pubblica.
    
    <a name="polls_TVdebates_elVote"></a>
-   <u>SPECIFICO USA:</u> tutti i candidati alle elezioni presidenziali devono poter accedere ai dibattiti televisivi, indipendentemente dai risultati dei sondaggi preliminari, che si prestano a falsificazioni ancor più facilmente che le elezioni mediante **voto elettronico** (con rispetto al quale [proponiamo più avanti una dimostrazione di come sia predisposto per la frode elettorale](#demoElectionFraud)).
+   <u>SPECIFICO USA:</u> tutti i candidati alle elezioni presidenziali dovranno poter accedere ai dibattiti televisivi, indipendentemente dai risultati dei sondaggi preliminari, che si prestano a falsificazioni ancor più facilmente che le elezioni mediante **voto elettronico** (con rispetto al quale si veda la [dimostrazione](#demo_fraud) qui sotto).
    
    GLI SPAZI MEDIATICI COSTANO DENARO, È CHIARO CHE SE IL RISULTATO DELLE ELEZIONI DIPENDE IN LARGA MISURA DAL "POTERE DI FUOCO" MEDIATICO DEI DIVERSI CANDIDATI, CI TROVIAMO DI FRONTE AD UNA **PLUTOCRAZIA**, NON UNA DEMOCRAZIA.
    
@@ -702,7 +571,7 @@ Fin d'ora, possiamo pensare ai seguenti punti.
    Abbiamo alcuni nomi italiani in mente. Speriamo che altri nomi verranno da altri Paesi.
 
 5. Proporremo l'istituzione di una CONNESSIONE DIRETTA tra i cittadini e la Corte Costituzionale, per cui **QUALUNQUE VIOLAZIONE DELLA COSTITUZIONE da parte di chicchessia possa essere valutata e BLOCCATA SUL NASCERE**.
-   Un esempio: il "Ministero della Verità" recentemente formato dall'attuale governo (aggiungiamo questo articolo l'8 aprile 2020) per attaccare la libertà di espressione sulle reti sociali. Le forze oggi in carica dimenticano che sono potute andare al governo grazie alle reti sociali. Il neonato "Ministero della Verità" – lo chiamiamo così perché di questo si tratta – è ben lungi dal rappresentare una *par condicio*. Suscita perplessità, per non dire ilarità, il fatto che sia composto anche da membri di organi di stampa che *si distinsero* nella pubblicazione di *fake news*.
+   Un esempio: il "Ministero della Verità" recentemente formato dall'attuale governo (aggiungiamo questo articolo l'8 aprile 2020) per attaccare la libertà di espressione sulle reti sociali. Le forze oggi in carica dimenticano che sono potute andare al governo grazie alle reti sociali. Il neonato "Ministero della Verità" &ndash; lo chiamiamo così perché di questo si tratta &ndash; è ben lungi dal rappresentare una *par condicio*. Suscita perplessità, per non dire ilarità, il fatto che sia composto anche da membri di organi di stampa che *si distinsero* nella pubblicazione di *fake news*.
 
 > *ART. 21 DELLA COSTITUZIONE REPUBBLICA ITALIANA:*
 > 
@@ -728,7 +597,7 @@ Fin d'ora, possiamo pensare ai seguenti punti.
 
 <a name="3_OBIETTIVO"></a>
 
-# 3º OBIETTIVO: TRASFORMARE LA DEMOCRAZIA CONVALESCENTE IN UN ORGANISMO RESISTENTE AI VIRUS
+# 3º OBIETTIVO: <u>TRASFORMARE LA DEMOCRAZIA CONVALESCENTE IN UN ORGANISMO RESISTENTE AI VIRUS</u>
 
 Oltre a darci da fare per raggiungere il 1º e il 2º obiettivo, staremo dibattendo su **UNA *EVENTUALE* RIFORMA PROFONDA DEI MECCANISMI DI GOVERNO**, con il fine di **PREVENIRE** azioni non conformi con quanto le popolazioni decidono.
 
@@ -746,27 +615,22 @@ Tale riforma dovrà essere ampiamente dibattuta, al fine di individuare STRUTTUR
 
 BISOGNERÀ EVITARE DI ANDARE VERSO UNA SITUAZIONE IN CUI NESSUNO SIA RESPONSABILE DI NIENTE, AL CONTRARIO, LA *RES PUBLICA* DOVRÀ ESSERE GESTITA IN TOTALE TRASPARENZA, RENDENDO CONTO CONTINUAMENTE AI CITTADINI, E **DOVRANNO ESSERE PROGETTATI MECCANISMI PER CUI SEMPLICEMENTE NON POTRÀ ESSERE COMPIUTO NESSUN PASSO CHE ESULI DAI PRINCIPI E PROGRAMMI CHE SARANNO STATI VOTATI DAI CITTADINI**.
 
-Abbiamo già menzionato nella premessa il principio [KISS](#kiss) ben noto ai programmatori di *computers*.
+Quando parliamo di strutture ed algoritmi, non ci riferiamo ad un'implementazione *basata* su computers.
 
-Ma quando parliamo di strutture ed algoritmi, **non ci riferiamo ad un'implementazione *basata* su computers**.
-
-<a name="demoElectionFraud"></a>
+<a name="demo_fraud"></a>
 Abbiamo [già citato](#polls_TVdebates_elVote) il voto elettronico.
 
-Vediamo con SFIDUCIA, <u>per ora</u>, ogni possibilità reale di VOTO ELETTRONICO resistente alla frode:
+Vediamo con COMPLETA SFIDUCIA ogni possibilità di VOTO ELETTRONICO, semplicemente perché è impossibile sapere che *firmware* viene eseguito in una macchina al momento del voto.
 
-1. è impossibile sapere che *firmware* viene eseguito in una macchina al momento del voto
-2. volendo considerare la tecnologia *blockchain*, che si è dimostrata senza dubbio positivamente rivoluzionaria, non siamo <u>per ora</u> a conoscenza di modalità di accesso *immediato* e *diretto* per votanti di ogni età al carattere *trustless* di tale tecnologia, con o senza *smart contracts*.
-
-Segnaliamo questo video, DIMOSTRAZIONE CON MACCHINE REALI PER IL VOTO ELETTRONICO DI COME SIANO PREPARATE PER LA FRODE ELETTORALE: ***Hacking Democracy – The Hack***, un frammento dal documentario ***Hacking Democracy*** prodotto da HBO e nominato per il premio *Emmy*:
+Segnaliamo questo video, DIMOSTRAZIONE CON MACCHINE REALI PER IL VOTO ELETTRONICO DI COME SIANO PREPARATE PER LA FRODE ELETTORALE: ***Hacking Democracy &ndash; The Hack***, un frammento dal documentario ***Hacking Democracy*** prodotto da HBO e nominato per il premio *Emmy*:
 
 - [pubblicato in Facebook da *"Protecting the USA"*](https://www.facebook.com/protectingtheusa/videos/1010687715710566/?v=1010687715710566)
 
 - [in *YouTube*](https://www.youtube.com/watch?v=t75xvZ3osFg)
 
-La pubblicazione di questo documentario attivò una pronta reazione del *Department Of Justice* e della *Corte Suprema* degli USA, che si lanciarono in una rapida quanto drastica e profonda revisione del sistema elettorale...
+La pubblicazione di questo documentario attivò una pronta reazione del *Department Of Justice* e della *Corte Suprema* degli USA, che si lanciarono in una rapida quanto drastica e profonda revisione del sistema elettorale... NO, la verità è che a quanto pare non è successo proprio niente... *land of election fraud*, altro che mandare supervisori alle elezioni in Venezuela o in stati africani.
 
-... NO, la verità è che a quanto pare non è successo proprio niente... ***land of election fraud***, altro che mandare supervisori alle elezioni in Venezuela o in Stati africani.
+ITALIA: SIAMO VASSALLI DI UN PAESE &ndash; ed occupati dalle sue forze armate &ndash; IL CUI GOVERNO È "OCCUPATO" DALLA MACCHINA INFERNALE CHE JFK DENUNCIAVA. E HANNO IL DITO SUL BOTTONE ROSSO CHE CONTROLLA ANCHE LE BOMBE IN CASA NOSTRA. POTREMMO DIVENIRE COMPLICI PASSIVI DI UN OLOCAUSTO NUCLEARE.
 
 Jill Stein dovette fare causa in vari Stati contro l'uso del voto elettronico. Nel 2016 non mancavano persone in Facebook che osservando i conteggi locali commentavano: **Jill Stein zero voti. DOV'È FINITO *IL MIO VOTO*?!?!**
 
@@ -812,7 +676,7 @@ Dopo una prima maturazione di questo documento, vorremmo tradurlo in varie lingu
 
 <a name="PLANB"></a>
 
-# PIANO B – DECENTRALIZZARE TUTTO
+# PIANO B &ndash; DECENTRALIZZARE TUTTO
 
 ABBIAMO UN'**OPZIONE B**, COMPATIBILE CON I NOSTRI PRINCIPI DI BASE, DA METTERE IN ATTO INVECE DEL 2º E 3º OBIETTIVO, O SE GLI STESSI RISULTASSERO IRREALIZZABILI?
 
@@ -822,7 +686,7 @@ Il seguente video presenta tale strategia nel contesto attuale, in cui potrebbe 
 
 In questo senso, dopo la presentazione dello scenario attuale, degno di un 9-11 economico, una demolizione controllata dell'economia mondiale, gli ultimi 10-15 del video sono particolarmente significativi.
 
-[**THE CORBETT REPORT – EPISODE 374 - "The Greatest Depression"**](https://www.corbettreport.com/greatestdepression/)
+[**THE CORBETT REPORT &ndash; EPISODE 374 - "The Greatest Depression"**](https://www.corbettreport.com/greatestdepression/)
 
 **Perché non lo stiamo proponendo come piano A?**
 
@@ -838,21 +702,21 @@ Ovviamente siamo consapevoli che *creare* il fantasma di tali minacce è il meto
 
 # SINTESI
 
-### COME JFK, RICONOSCIAMO L'ESISTENZA DI UN COMPLOTTO VOLTO A SCHIAVIZZARE LE GENTI, O PIUTTOSTO I SOPRAVVISSUTI ALLA *DEPOPULATION AGENDA*
+### COME JFK, RICONOSCIAMO L'ESISTENZA DI UN COMPLOTTO VOLTO A SCHIAVIZZARE LE GENTI, O I SOPRAVVISSUTI ALLA *DEPOPULATION AGENDA*
 
 ### DICIAMO NO, VOGLIAMO LIBERTÀ, BENESSERE, FELICITÀ, COLLABORAZIONE TRA I POPOLI
 
 ### CI RIUSCIEREMO, CON O SENZA GOVERNI CENTRALIZZATI
 
-### UN MANIFESTO DI VALORI COMUNI CI PERMETTERÀ DI PENSARE INSIEME, ED EVENTUALMENTE COORDINARE L'AZIONE, RICONOSCENDO LE FRASI FORBICE, *SCISSOR STATEMENTS*, COME ARMA DI CHI TROPPO A LUNGO HA POTUTO APPLICARE CON SUCCESSO IL PARADIGMA "DIVIDE ET IMPERA"
+### UN MANIFESTO DI VALORI COMUNI CI PERMETTERÀ DI PENSARE INSIEME, ED EVENTUALMENTE COORDINARE L'AZIONE
 
-### CI PROPONIAMO DI EMENDARE QUESTI GOVERNI "OCCUPATI" DA FORZE OSTILI E DI RENDERLI IMMUNI ALL'INFILTRAZIONE DI VIRUS
+### CI PROPONIAMO DI EMENDARE QUESTI GOVERNI "OCCUPATI" E DI RENDERLI IMMUNI ALL'INFILTRAZIONE DI VIRUS
 
-### <u>SE NON CI RIUSCIREMO, ALLORA LI IGNOREREMO</u>, E DECENTRALIZZEREMO TUTTO
+### <u>SE NON CI RIUSCIREMO, ALLORA LI IGNOREREMO</u>
 
 ### <u>IL FATTO STESSO DI NEGARGLI UN VOTO GLI TOGLIE LEGITTIMITÀ</u>
 
-<div><center>![Politician giving a speech, if the people leave he falls](https://i.postimg.cc/mk4ncbKg/FB-PIC-THE-PEOPLE-DON-T-KNOW-THEIR-TRUE-POWER.jpg)</center></div>
+![Politician making a speech, if the people leaves he falls](https://i.postimg.cc/mk4ncbKg/FB-PIC-THE-PEOPLE-DON-T-KNOW-THEIR-TRUE-POWER.jpg)
 
 ---
 
