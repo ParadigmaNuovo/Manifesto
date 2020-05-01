@@ -234,7 +234,7 @@ Ciò permetterebbe di **USCIRE DALLA TRAPPOLA IN CUI CI TROVIAMO OGGI, CON I POP
 + I "liberali" disprezzano coloro che disprezzano il "neoliberismo", perché presumono che devono essere propensi a calpestare le libertà individuali, visto che sono contrari a qualche cosa che si chiama "---liberismo".
 + Chi invece disprezza il "neoliberismo" ne vede le pratiche di corruzione occulta o scoperta, il volto totalitario, la volontà di imporre un pensiero unico, la mancanza evidente di buona fede da parte di tanti governanti che sventolano quella bandiera (con questo non stiamo affermando che non ci sia stata mala fede sotto altre bandiere!), e i disastri economici ai danni di un numero crescente di popolazioni. 
 
-**Quanto succede oggi non è *laissez-faire* di nessun "colore"**.<a href="#fn1" id="fnref1"><sup>1</sup></a>
+**Quanto succede oggi non è *laissez-faire* di nessun "colore"**.
 
 Il cittadino comune e il piccolo imprenditore sono *vessati* da restrizioni di ogni tipo e dalle imposizioni fiscali a cui il grande capitale sfugge agilmente e in piena compatibilità con le leggi. Percentualmente, [paga più tasse il cittadino comune che il ricchissimo](#ilRicchissimo).
 
@@ -245,11 +245,11 @@ I gruppi di potere pagano i legislatori e la correlazione tra le loro esigenze e
 
 + [**Corruption is Legal in America**](https://act.represent.us/sign/the-problem/)  
   
-  <div><center>[![snapshot from video Corruption Is Legal](https://i.postimg.cc/7ZvZdwtN/represent-us-Corruption-Is-Legal.jpg)](https://act.represent.us/sign/the-problem/)</center></div>
+  <div><center>[![snapshot from video "Corruption Is Legal"](https://i.postimg.cc/7ZvZdwtN/represent-us-Corruption-Is-Legal.jpg)](https://act.represent.us/sign/the-problem/)</center></div>
     
 + [**The Strategy to End Corruption**](https://act.represent.us/sign/our-strategy/)  
   
-  <div><center>[![snapshot from video The Strategy to End Corruption](https://i.postimg.cc/1zBR86mW/represent-us-The-Strategy-To-End-Corruption.jpg)](https://act.represent.us/sign/our-strategy/)</center></div>
+  <div><center>[![snapshot from video "The Strategy to End Corruption"](https://i.postimg.cc/1zBR86mW/represent-us-The-Strategy-To-End-Corruption.jpg)](https://act.represent.us/sign/our-strategy/)</center></div>
 
 È così che i popoli finiscono con avere un'influenza quasi nulla sulle decisioni dei legislatori e dell'esecutivo, altro che democrazia, "governo del popolo".
 
