@@ -4,7 +4,7 @@
 
 Italian language only for now, but we plan to translate it to English and possibly various other languages as soon as this draft will have been reworked with a bit more feedback from various persons.  
 
-Bozza ver. 01.058 – 2020-05-01 – Scritto con [***Kate***](https://kate-editor.org/) + [***pandoc***](https://www.maketecheasier.com/convert-markdown-to-html-in-kate-text-editor/) (inizialmente con [***Mark Text***](https://marktext.app/))
+Bozza ver. 01.059 – 2020-05-01 – Scritto con [***Kate***](https://kate-editor.org/) + [***pandoc***](https://www.maketecheasier.com/convert-markdown-to-html-in-kate-text-editor/) (inizialmente con [***Mark Text***](https://marktext.app/))
 
 ---
 
@@ -301,6 +301,8 @@ Ci riferiamo agli umani "decenti", non a quanti legittimizzano la lotta per il c
 <a name="puntiChiave"></a>
 
 ## PUNTI CHIAVE
+
+NOTA BENE: ci rendiamo conto che temi come i vaccini e il 5G appaiono qui di seguito in _vari_ punti del documento. Ci proponiamo di analizzare il testo e valutare se è possibile unificare e sintetizzare, senza che si perda chiarezza o efficacia nella comunicazione. (Ma in parallelo alla stesura di _questo_ documento siamo attivi in altri aspetti di questa "resistenza", diffondendo notizie e prendendo contatto per offrire suggerimenti, denunciando fatti di censura... non abbiamo ancora trovato un ritaglio di varie ore per poterci immergere in questa "operazione".)
 
 1. Dobbiamo **esigere** che **Julian Assange** sia rilasciato e indennizzato, e che siano processati da un tribunale internazionale i fautori dei crimini rivelati dalle pubblicazioni di *WikiLeaks*.
    
